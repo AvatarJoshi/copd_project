@@ -1,5 +1,6 @@
-# Additional ignore files
+# Ignore files
 .DS_Store
+cc-est2019-alldata.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
