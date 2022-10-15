@@ -1,6 +1,8 @@
 # Ignore files
 .DS_Store
 cc-est2019-alldata.csv
+annual_aqi_by_county_2019.csv
+Additional Resources
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
