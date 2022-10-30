@@ -19,6 +19,7 @@ Accomplishments:
     Creating & testing getColor function for heatmap
     Testing GeoJson Data file for mapping 
     Pop-up feature testing
+    
 Next Goals:
     Trying to apply to real GeoJson Data file and adding some feature
    
