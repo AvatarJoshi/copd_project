@@ -1,107 +1,107 @@
-,State_County,Surface_Mines,Underground_Mines
-0,"Pennsylvania, Clearfield",22,2.0
-1,"Pennsylvania, Schuylkill",22,5.0
-2,"Pennsylvania, Somerset",13,5.0
-3,"West Virginia, Mcdowell",13,12.0
-4,"Kentucky, Pike",13,14.0
-5,"Wyoming, Campbell",11,
-6,"Pennsylvania, Northumberland",10,3.0
-7,"West Virginia, Logan",9,12.0
-8,"Virginia, Buchanan",9,8.0
-9,"Virginia, Wise",8,5.0
-10,"West Virginia, Boone",8,5.0
-11,"Kentucky, Bell",8,2.0
-12,"Maryland, Allegany",7,
-13,"Alabama, Jefferson",7,3.0
-14,"Alabama, Walker",7,2.0
-15,"Kentucky, Harlan",7,5.0
-16,"West Virginia, Mingo",6,2.0
-17,"Pennsylvania, Cambria",6,2.0
-18,"West Virginia, Wyoming",6,8.0
-19,"Pennsylvania, Jefferson",5,1.0
-20,"Virginia, Dickenson",5,4.0
-21,"West Virginia, Raleigh",5,8.0
-22,"Kentucky, Whitley",5,
-23,"Pennsylvania, Luzerne",4,
-24,"Alabama, Tuscaloosa",4,1.0
-25,"Pennsylvania, Clarion",4,
-26,"Kentucky, Perry",4,4.0
-27,"West Virginia, Nicholas",4,1.0
-28,"Kentucky, Knox",4,1.0
-29,"Kentucky, Knott",4,1.0
-30,"West Virginia, Fayette",3,3.0
-31,"West Virginia, Webster",3,
-32,"Maryland, Garrett",3,1.0
-33,"Montana, Big Horn",3,
-34,"North Dakota, Mercer",3,
-35,"Kentucky, Johnson",3,
-36,"Kentucky, Leslie",3,1.0
-37,"Indiana, Warrick",3,
-38,"Pennsylvania, Indiana",3,7.0
-39,"Pennsylvania, Fayette",3,
-40,"West Virginia, Kanawha",3,4.0
-41,"West Virginia, Greenbrier",3,1.0
-42,"Texas, Harrison",2,
-43,"Ohio, Harrison",2,2.0
-44,"Pennsylvania, Westmoreland",2,1.0
-45,"Virginia, Russell",2,
-46,"Kentucky, Martin",2,
-47,"Pennsylvania, Columbia",2,
-48,"Wyoming, Sweetwater",2,1.0
-49,"Colorado, Moffat",2,
-50,"Virginia, Tazewell",2,
-51,"Pennsylvania, Bedford",2,
-52,"Illinois, Perry",2,1.0
-53,"Kentucky, Letcher",2,
-54,"Indiana, Daviess",2,
-55,"West Virginia, Randolph",2,2.0
-56,"Kentucky, Daviess",2,
-57,"Indiana, Dubois",2,
-58,"Pennsylvania, Carbon",1,
-59,"Wyoming, Converse",1,
-60,"Wyoming, Lincoln",1,
-61,"West Virginia, Grant",1,
-62,"West Virginia, Mercer",1,1.0
-63,"Utah, Kane",1,
-64,"West Virginia, Marion",1,1.0
-65,"Tennessee, Claiborne",1,1.0
-66,"West Virginia, Moffat",1,
-67,"Texas, Atascosa",1,
-68,"West Virginia, Mineral",1,
-69,"Texas, Robertson",1,
-70,"Texas, Maverick",1,
-71,"Texas, Limestone",1,
-72,"Texas, Rusk",1,
-73,"Pennsylvania, Washington",1,1.0
-74,"North Dakota, Oliver",1,
-75,"Pennsylvania, Lycoming",1,
-76,"Indiana, Saline",1,
-77,"Alabama, De Kalb",1,
-78,"Alabama, Shelby",1,
-79,"Illinois, Wabash",1,
-80,"Illinois, Saline",1,
-81,"Illinois, Randolph",1,1.0
-82,"Indiana, Pike",1,
-83,"Indiana, Gibson",1,2.0
-84,"Indiana, Sullivan",1,1.0
-85,"Illinois, Gibson",1,
-86,"Indiana, Clay",1,
-87,"Indiana, Spencer",1,
-88,"Kentucky, Floyd",1,4.0
-89,"Kentucky, Breathitt",1,
-90,"Kentucky, Morgan",1,
-91,"Oklahoma, Craig",1,
-92,"Louisiana, De Soto",1,
-93,"Louisiana, Natchitoches",1,
-94,"Mississippi, Choctaw",1,
-95,"Missouri, Bates",1,
-96,"Montana, Richland",1,
-97,"Montana, Rosebud",1,
-98,"New Mexico, San Juan",1,1.0
-99,"New Mexico, Mckinley",1,
-100,"North Dakota, Mclean",1,
-101,"Ohio, Belmont",1,
-102,"Ohio, Noble",1,
-103,"Ohio, Tuscarawas",1,1.0
-104,"Oklahoma, Okmulgee",1,
-105,"Alaska, Denali",1,
+,State_County,State,County,Surface_Mines,Underground_Mines,Mine_Tot_Prod,Lat,Lon
+0,"Pennsylvania, Clearfield",Alabama,Walker,22,2.0,217646,33.706666,-87.278611
+1,"Pennsylvania, Schuylkill",Alabama,Jefferson,22,5.0,239590,33.696389,-87.203056
+2,"Pennsylvania, Somerset",Alabama,Jefferson,13,5.0,1608068,33.442222,-87.138889
+3,"West Virginia, Mcdowell",Alabama,Tuscaloosa,13,12.0,2156095,33.328611,-87.331389
+4,"Kentucky, Pike",Alabama,Jefferson,13,14.0,5708153,33.374167,-87.213611
+5,"Wyoming, Campbell",Alabama,Walker,11,0.0,714831,33.519444,-87.303889
+6,"Pennsylvania, Northumberland",Alabama,Tuscaloosa,10,3.0,67467,33.329167,-87.339722
+7,"West Virginia, Logan",Alabama,Jefferson,9,12.0,13813,33.724167,-86.910833
+8,"Virginia, Buchanan",West Virginia,Nicholas,9,8.0,113799,33.181667,-86.842222
+9,"Virginia, Wise",Alabama,Walker,8,5.0,103699,33.873056,-87.530833
+10,"West Virginia, Boone",Alabama,Jefferson,8,5.0,159870,33.602222,-87.140556
+11,"Kentucky, Bell",Alabama,Walker,8,2.0,97413,33.796111,-87.372777
+12,"Maryland, Allegany",Alabama,Tuscaloosa,7,0.0,78157,33.310833,-87.309167
+13,"Alabama, Jefferson",Alabama,Jefferson,7,3.0,222842,33.738333,-86.861944
+14,"Alabama, Walker",Alabama,Jefferson,7,2.0,37565,33.0,-87.0
+15,"Kentucky, Harlan",Alabama,Tuscaloosa,7,5.0,8898,33.257778,-87.361389
+16,"West Virginia, Mingo",Alabama,De Kalb,6,2.0,17865,34.578056,-85.7225
+17,"Pennsylvania, Cambria",Alabama,Walker,6,2.0,525,33.803056,-87.352222
+18,"West Virginia, Wyoming",Alabama,Shelby,6,8.0,3114,33.209167,-86.926667
+19,"Pennsylvania, Jefferson",Alabama,Walker,5,1.0,13476,33.785,-87.335
+20,"Virginia, Dickenson",Alabama,Jefferson,5,4.0,148410,33.385,-87.071944
+21,"West Virginia, Raleigh",Alabama,Jefferson,5,8.0,152478,33.758333,-86.904167
+22,"Kentucky, Whitley",Alabama,Walker,5,0.0,19411,33.820278,-87.386389
+23,"Pennsylvania, Luzerne",Alabama,Walker,4,0.0,274905,33.706667,-87.278611
+24,"Alabama, Tuscaloosa",Alabama,Tuscaloosa,4,1.0,45920,33.2725,-87.458056
+25,"Pennsylvania, Clarion",Colorado,Moffat,4,0.0,2018648,40.452222,-107.631111
+26,"Kentucky, Perry",Colorado,Moffat,4,4.0,1741368,40.3,-107.783333
+27,"West Virginia, Nicholas",Colorado,Rio Blanco,4,1.0,1885034,40.169167,-108.726111
+28,"Kentucky, Knox",Colorado,Gunnison,4,1.0,2538091,38.933056,-107.458056
+29,"Kentucky, Knott",Colorado,Routt,4,1.0,1192936,40.352777,-107.071944
+30,"West Virginia, Fayette",Colorado,La Plata,3,3.0,592669,37.251111,-108.098055
+31,"West Virginia, Webster",Illinois,Macoupin,3,0.0,235411,39.205833,-89.862778
+32,"Maryland, Garrett",Illinois,Sangamon,3,1.0,766327,40.003611,-89.449722
+33,"Montana, Big Horn",Illinois,Wabash,3,0.0,690988,38.417532,-87.843242
+34,"North Dakota, Mercer",Illinois,Perry,3,0.0,191453,37.985178,-89.337088
+35,"Kentucky, Johnson",Illinois,Williamson,3,0.0,3841668,37.838889,-88.831111
+36,"Kentucky, Leslie",Illinois,Perry,3,1.0,3778206,38.071389,-89.585556
+37,"Indiana, Warrick",Illinois,Montgomery,3,0.0,2886225,39.145,-89.466389
+38,"Pennsylvania, Indiana",Illinois,Franklin,3,7.0,7196444,38.026944,-88.762222
+39,"Pennsylvania, Fayette",Illinois,Washington,3,0.0,6433987,38.283056,-89.654722
+40,"West Virginia, Kanawha",Illinois,Hamilton,3,4.0,2623205,38.171111,-88.601667
+41,"West Virginia, Greenbrier",Illinois,Saline,3,1.0,686060,37.720999,-88.531101
+42,"Texas, Harrison",Illinois,Randolph,2,0.0,75844,38.07415,-89.720629
+43,"Ohio, Harrison",Illinois,Randolph,2,2.0,1819444,38.188889,-89.620278
+44,"Pennsylvania, Westmoreland",Illinois,Perry,2,1.0,388243,38.018611,-89.454722
+45,"Virginia, Russell",Indiana,Pike,2,0.0,118395,38.396332,-87.311865
+46,"Kentucky, Martin",Indiana,Daviess,2,0.0,1029354,38.648333,-87.0
+47,"Pennsylvania, Columbia",Indiana,Gibson,2,0.0,444573,38.264245,-87.366902
+48,"Wyoming, Sweetwater",Indiana,Gibson,2,1.0,1572109,38.3375,-87.433889
+49,"Colorado, Moffat",Indiana,Sullivan,2,0.0,139672,38.943611,-87.392778
+50,"Virginia, Tazewell",Indiana,Daviess,2,0.0,1071875,38.705277,-87.0875
+51,"Pennsylvania, Bedford",Indiana,Dubois,2,0.0,109392,38.465729,-87.039618
+52,"Illinois, Perry",Indiana,Gibson,2,1.0,2190711,38.341636,-87.55882
+53,"Kentucky, Letcher",Indiana,Knox,2,0.0,3432952,38.856111,-87.425
+54,"Indiana, Daviess",Indiana,Knox,2,0.0,1810055,38.858611,-87.425
+55,"West Virginia, Randolph",Indiana,Sullivan,2,2.0,5182613,38.51667,-87.265495
+56,"Kentucky, Daviess",Indiana,Dubois,2,0.0,2018,38.269444,-87.068611
+57,"Indiana, Dubois",Indiana,Warrick,2,0.0,2100512,38.178333,-87.279722
+58,"Pennsylvania, Carbon",Illinois,Gibson,1,0.0,261747,38.183056,-87.264722
+59,"Wyoming, Converse",Indiana,Clay,1,0.0,253029,39.275,-87.096944
+60,"Wyoming, Lincoln",Indiana,Spencer,1,0.0,10100,38.1625,-86.9625
+61,"West Virginia, Grant",Kentucky,Harlan,1,0.0,178311,36.874722,-83.010833
+62,"West Virginia, Mercer",Kentucky,Perry,1,1.0,278179,37.02677,-83.119113
+63,"Utah, Kane",Kentucky,Leslie,1,0.0,305906,37.119167,-83.239444
+64,"West Virginia, Marion",Kentucky,Pike,1,1.0,78199,37.448333,-82.337222
+65,"Tennessee, Claiborne",Kentucky,Hopkins,1,1.0,3564441,37.405278,-87.535278
+66,"West Virginia, Moffat",Kentucky,Knox,1,0.0,23420,36.787039,-84.054641
+67,"Texas, Atascosa",Kentucky,Pike,1,0.0,37760,37.534722,-82.224167
+68,"West Virginia, Mineral",Kentucky,Pike,1,0.0,16537,37.588889,-82.434444
+69,"Texas, Robertson",Kentucky,Pike,1,0.0,8998,37.428333,-82.429444
+70,"Texas, Maverick",Kentucky,Pike,1,0.0,23186,37.534167,-82.222778
+71,"Texas, Limestone",Kentucky,Harlan,1,0.0,55293,36.940278,-82.992778
+72,"Texas, Rusk",Kentucky,Harlan,1,0.0,41333,36.966389,-82.995833
+73,"Pennsylvania, Washington",Kentucky,Daviess,1,1.0,297914,37.738333,-86.905556
+74,"North Dakota, Oliver",Kentucky,Harlan,1,0.0,66503,36.822778,-83.210278
+75,"Pennsylvania, Lycoming",Kentucky,Knox,1,0.0,43759,36.755833,-83.951667
+76,"Indiana, Saline",Kentucky,Pike,1,0.0,1412,37.674013,-83.058884
+77,"Alabama, De Kalb",Kentucky,Perry,1,0.0,100636,37.221667,-83.153611
+78,"Alabama, Shelby",Kentucky,Floyd,1,0.0,4036,37.496794,-82.637303
+79,"Illinois, Wabash",Kentucky,Pike,1,0.0,2024,36.891389,-84.130833
+80,"Illinois, Saline",Kentucky,Pike,1,0.0,22794,37.71994,-82.833147
+81,"Illinois, Randolph",Kentucky,Pike,1,1.0,15235,37.393611,-82.174167
+82,"Indiana, Pike",Kentucky,Bell,1,0.0,20278,37.588889,-82.434444
+83,"Indiana, Gibson",Kentucky,Knott,1,2.0,60829,37.406111,-82.882777
+84,"Indiana, Sullivan",Kentucky,Perry,1,1.0,6367,37.306944,-83.359167
+85,"Illinois, Gibson",West Virginia,Mcdowell,1,0.0,3301,37.248333,-81.497222
+86,"Indiana, Clay",Kentucky,Pike,1,0.0,60644,37.343611,-82.5425
+87,"Indiana, Spencer",Kentucky,Pike,1,0.0,77454,37.31528,-82.299298
+88,"Kentucky, Floyd",Kentucky,Pike,1,4.0,104167,37.284442,-82.64817
+89,"Kentucky, Breathitt",Indiana,Warrick,1,0.0,111625,38.091667,-87.300833
+90,"Kentucky, Morgan",Kentucky,Perry,1,0.0,937145,37.399444,-83.164444
+91,"Oklahoma, Craig",West Virginia,Boone,1,0.0,1565,38.064444,-81.488333
+92,"Louisiana, De Soto",Kentucky,Breathitt,1,0.0,4922,37.345833,-83.534722
+93,"Louisiana, Natchitoches",Kentucky,Perry,1,0.0,24767,37.341666,-83.170833
+94,"Mississippi, Choctaw",Kentucky,Pike,1,0.0,66154,37.308672,-82.30774
+95,"Missouri, Bates",Kentucky,Knox,1,0.0,31092,36.710424,-83.919096
+96,"Montana, Richland",Kentucky,Floyd,1,0.0,236325,37.523611,-82.733056
+97,"Montana, Rosebud",Kentucky,Bell,1,0.0,38413,36.635833,-83.803333
+98,"New Mexico, San Juan",Kentucky,Bell,1,1.0,11749,36.585278,-83.892222
+99,"New Mexico, Mckinley",Kentucky,Pike,1,0.0,78547,37.306645,-82.316705
+100,"North Dakota, Mclean",Kentucky,Perry,1,0.0,6439,37.311666,-83.226944
+101,"Ohio, Belmont",West Virginia,Wyoming,1,0.0,145138,37.812778,-81.724167
+102,"Ohio, Noble",Kentucky,Union,1,0.0,9412068,37.743055,-87.888333
+103,"Ohio, Tuscarawas",Kentucky,Pike,1,1.0,99218,37.515,-82.048333
+104,"Oklahoma, Okmulgee",Kentucky,Perry,1,0.0,341939,37.171667,-83.111389
+105,"Alaska, Denali",Kentucky,Perry,1,0.0,35678,37.342063,-83.129215
