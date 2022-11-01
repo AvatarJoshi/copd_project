@@ -1,22 +1,107 @@
--- Creating table for coal
-CREATE TABLE Coal_Mines (
-	State_County VARCHAR (40),
-	Surface_Mines VARCHAR (40),
-	Underground_Mines VARCHAR (40),
-	PRIMARY KEY (State_County)
-);
-
--- Create table for census 
-CREATE TABLE Air_Quality_Data (
-	State_County VARCHAR (80),
-	Days_with_AQI VARCHAR (40),
-	Good_Days VARCHAR (40),
-	Moderate_Days VARCHAR (40),
-	Unhealthy_Days VARCHAR (40),
-	Unhealthy_Days_Sensitive_Groups_Days VARCHAR (40),
-	Very_Unhealthy_Days VARCHAR (40),
-	Hazardous_Days VARCHAR (40),
-	PRIMARY KEY (State_County)
-);
-
-
+,State_County,Surface_Mines,Underground_Mines
+0,"Pennsylvania, Clearfield",22,2.0
+1,"Pennsylvania, Schuylkill",22,5.0
+2,"Pennsylvania, Somerset",13,5.0
+3,"West Virginia, Mcdowell",13,12.0
+4,"Kentucky, Pike",13,14.0
+5,"Wyoming, Campbell",11,
+6,"Pennsylvania, Northumberland",10,3.0
+7,"West Virginia, Logan",9,12.0
+8,"Virginia, Buchanan",9,8.0
+9,"Virginia, Wise",8,5.0
+10,"West Virginia, Boone",8,5.0
+11,"Kentucky, Bell",8,2.0
+12,"Maryland, Allegany",7,
+13,"Alabama, Jefferson",7,3.0
+14,"Alabama, Walker",7,2.0
+15,"Kentucky, Harlan",7,5.0
+16,"West Virginia, Mingo",6,2.0
+17,"Pennsylvania, Cambria",6,2.0
+18,"West Virginia, Wyoming",6,8.0
+19,"Pennsylvania, Jefferson",5,1.0
+20,"Virginia, Dickenson",5,4.0
+21,"West Virginia, Raleigh",5,8.0
+22,"Kentucky, Whitley",5,
+23,"Pennsylvania, Luzerne",4,
+24,"Alabama, Tuscaloosa",4,1.0
+25,"Pennsylvania, Clarion",4,
+26,"Kentucky, Perry",4,4.0
+27,"West Virginia, Nicholas",4,1.0
+28,"Kentucky, Knox",4,1.0
+29,"Kentucky, Knott",4,1.0
+30,"West Virginia, Fayette",3,3.0
+31,"West Virginia, Webster",3,
+32,"Maryland, Garrett",3,1.0
+33,"Montana, Big Horn",3,
+34,"North Dakota, Mercer",3,
+35,"Kentucky, Johnson",3,
+36,"Kentucky, Leslie",3,1.0
+37,"Indiana, Warrick",3,
+38,"Pennsylvania, Indiana",3,7.0
+39,"Pennsylvania, Fayette",3,
+40,"West Virginia, Kanawha",3,4.0
+41,"West Virginia, Greenbrier",3,1.0
+42,"Texas, Harrison",2,
+43,"Ohio, Harrison",2,2.0
+44,"Pennsylvania, Westmoreland",2,1.0
+45,"Virginia, Russell",2,
+46,"Kentucky, Martin",2,
+47,"Pennsylvania, Columbia",2,
+48,"Wyoming, Sweetwater",2,1.0
+49,"Colorado, Moffat",2,
+50,"Virginia, Tazewell",2,
+51,"Pennsylvania, Bedford",2,
+52,"Illinois, Perry",2,1.0
+53,"Kentucky, Letcher",2,
+54,"Indiana, Daviess",2,
+55,"West Virginia, Randolph",2,2.0
+56,"Kentucky, Daviess",2,
+57,"Indiana, Dubois",2,
+58,"Pennsylvania, Carbon",1,
+59,"Wyoming, Converse",1,
+60,"Wyoming, Lincoln",1,
+61,"West Virginia, Grant",1,
+62,"West Virginia, Mercer",1,1.0
+63,"Utah, Kane",1,
+64,"West Virginia, Marion",1,1.0
+65,"Tennessee, Claiborne",1,1.0
+66,"West Virginia, Moffat",1,
+67,"Texas, Atascosa",1,
+68,"West Virginia, Mineral",1,
+69,"Texas, Robertson",1,
+70,"Texas, Maverick",1,
+71,"Texas, Limestone",1,
+72,"Texas, Rusk",1,
+73,"Pennsylvania, Washington",1,1.0
+74,"North Dakota, Oliver",1,
+75,"Pennsylvania, Lycoming",1,
+76,"Indiana, Saline",1,
+77,"Alabama, De Kalb",1,
+78,"Alabama, Shelby",1,
+79,"Illinois, Wabash",1,
+80,"Illinois, Saline",1,
+81,"Illinois, Randolph",1,1.0
+82,"Indiana, Pike",1,
+83,"Indiana, Gibson",1,2.0
+84,"Indiana, Sullivan",1,1.0
+85,"Illinois, Gibson",1,
+86,"Indiana, Clay",1,
+87,"Indiana, Spencer",1,
+88,"Kentucky, Floyd",1,4.0
+89,"Kentucky, Breathitt",1,
+90,"Kentucky, Morgan",1,
+91,"Oklahoma, Craig",1,
+92,"Louisiana, De Soto",1,
+93,"Louisiana, Natchitoches",1,
+94,"Mississippi, Choctaw",1,
+95,"Missouri, Bates",1,
+96,"Montana, Richland",1,
+97,"Montana, Rosebud",1,
+98,"New Mexico, San Juan",1,1.0
+99,"New Mexico, Mckinley",1,
+100,"North Dakota, Mclean",1,
+101,"Ohio, Belmont",1,
+102,"Ohio, Noble",1,
+103,"Ohio, Tuscarawas",1,1.0
+104,"Oklahoma, Okmulgee",1,
+105,"Alaska, Denali",1,
