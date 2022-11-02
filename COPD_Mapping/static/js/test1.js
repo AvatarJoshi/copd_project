@@ -33,6 +33,19 @@ let overlays = {
   
 };
 
+// Define a map object
+var myMap = L.map("map", {
+  center: [38.50445, -98.39784],
+  zoom: 3
+  layer: [myMap, data_state, data_county]
+});
+
+// Pass our map layers into our layer control
+// Add the layer control to the map
+L.control.layers(baseMaps, overlayMaps, {
+  collapsed: false
+}).addTo(myMap);
+
 // Then we add a control to the map that will allow the user to change which
 // layers are visible.
 L.control.layers(baseMaps, overlays).addTo(myMap);
