@@ -15,8 +15,10 @@ annual_aqi_by_county_2019.csv
 Additional Resources
 config.js
 county.geo.json
+state.geo.json
 testData.geo.json
 test.html
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
