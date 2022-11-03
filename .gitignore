@@ -17,6 +17,8 @@ config.js
 county.geo.json
 testData.geo.json
 test.html
+Pandas_Learn.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
