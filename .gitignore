@@ -20,7 +20,8 @@ test.html
 Pandas_Learn.ipynb
 county.geo.json
 county.geojson
-
+processed_census_data2019.csv
+processed_census_data.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
