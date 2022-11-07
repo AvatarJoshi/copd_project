@@ -1,0 +1,1020 @@
+State_County,State,County,Days_with_AQI,Good_Days,Moderate_Days,Unhealthy_for_Sensitive_Groups_Days,Unhealthy_Days,Very_Unhealthy_Days,Hazardous_Days
+"Alabama, Baldwin",Alabama,Baldwin,523.0,455.0,66.0,2.0,0.0,0.0,0.0
+"Alabama, Clay",Alabama,Clay,226.0,194.0,32.0,0.0,0.0,0.0,0.0
+"Alabama, Colbert",Alabama,Colbert,586.0,472.0,114.0,0.0,0.0,0.0,0.0
+"Alabama, DeKalb",Alabama,DeKalb,724.0,635.0,89.0,0.0,0.0,0.0,0.0
+"Alabama, Elmore",Alabama,Elmore,472.0,436.0,36.0,0.0,0.0,0.0,0.0
+"Alabama, Etowah",Alabama,Etowah,638.0,460.0,178.0,0.0,0.0,0.0,0.0
+"Alabama, Houston",Alabama,Houston,595.0,517.0,78.0,0.0,0.0,0.0,0.0
+"Alabama, Jefferson",Alabama,Jefferson,730.0,287.0,424.0,19.0,0.0,0.0,0.0
+"Alabama, Lawrence",Alabama,Lawrence,208.0,198.0,10.0,0.0,0.0,0.0,0.0
+"Alabama, Madison",Alabama,Madison,710.0,527.0,182.0,1.0,0.0,0.0,0.0
+"Alabama, Mobile",Alabama,Mobile,710.0,551.0,155.0,4.0,0.0,0.0,0.0
+"Alabama, Montgomery",Alabama,Montgomery,688.0,387.0,300.0,1.0,0.0,0.0,0.0
+"Alabama, Morgan",Alabama,Morgan,686.0,484.0,202.0,0.0,0.0,0.0,0.0
+"Alabama, Russell",Alabama,Russell,708.0,482.0,225.0,1.0,0.0,0.0,0.0
+"Alabama, Shelby",Alabama,Shelby,527.0,431.0,90.0,6.0,0.0,0.0,0.0
+"Alabama, Sumter",Alabama,Sumter,593.0,565.0,28.0,0.0,0.0,0.0,0.0
+"Alabama, Tuscaloosa",Alabama,Tuscaloosa,570.0,470.0,99.0,1.0,0.0,0.0,0.0
+"Alaska, Aleutians East ",Alaska,Aleutians East ,241.0,240.0,1.0,0.0,0.0,0.0,0.0
+"Alaska, Anchorage ",Alaska,Anchorage ,727.0,573.0,144.0,6.0,4.0,0.0,0.0
+"Alaska, Bethel ",Alaska,Bethel ,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Alaska, Denali ",Alaska,Denali ,719.0,707.0,11.0,1.0,0.0,0.0,0.0
+"Alaska, Fairbanks North Star ",Alaska,Fairbanks North Star ,727.0,455.0,186.0,46.0,33.0,2.0,5.0
+"Alaska, Juneau ",Alaska,Juneau ,665.0,555.0,105.0,5.0,0.0,0.0,0.0
+"Alaska, Kenai Peninsula ",Alaska,Kenai Peninsula ,235.0,232.0,2.0,1.0,0.0,0.0,0.0
+"Alaska, Matanuska-Susitna ",Alaska,Matanuska-Susitna ,487.0,406.0,77.0,4.0,0.0,0.0,0.0
+"Alaska, North Slope ",Alaska,North Slope ,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Arizona, Apache",Arizona,Apache,723.0,706.0,17.0,0.0,0.0,0.0,0.0
+"Arizona, Cochise",Arizona,Cochise,728.0,532.0,195.0,1.0,0.0,0.0,0.0
+"Arizona, Coconino",Arizona,Coconino,728.0,551.0,177.0,0.0,0.0,0.0,0.0
+"Arizona, Gila",Arizona,Gila,672.0,379.0,271.0,22.0,0.0,0.0,0.0
+"Arizona, La Paz",Arizona,La Paz,577.0,434.0,141.0,2.0,0.0,0.0,0.0
+"Arizona, Maricopa",Arizona,Maricopa,730.0,150.0,519.0,57.0,2.0,1.0,1.0
+"Arizona, Mohave",Arizona,Mohave,476.0,457.0,19.0,0.0,0.0,0.0,0.0
+"Arizona, Navajo",Arizona,Navajo,730.0,573.0,156.0,1.0,0.0,0.0,0.0
+"Arizona, Pima",Arizona,Pima,730.0,445.0,281.0,3.0,1.0,0.0,0.0
+"Arizona, Pinal",Arizona,Pinal,730.0,166.0,466.0,70.0,11.0,4.0,13.0
+"Arizona, Santa Cruz",Arizona,Santa Cruz,708.0,478.0,226.0,3.0,1.0,0.0,0.0
+"Arizona, Yavapai",Arizona,Yavapai,621.0,524.0,97.0,0.0,0.0,0.0,0.0
+"Arizona, Yuma",Arizona,Yuma,728.0,517.0,199.0,11.0,1.0,0.0,0.0
+"Arkansas, Arkansas",Arkansas,Arkansas,238.0,186.0,52.0,0.0,0.0,0.0,0.0
+"Arkansas, Ashley",Arkansas,Ashley,236.0,195.0,41.0,0.0,0.0,0.0,0.0
+"Arkansas, Benton",Arkansas,Benton,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Arkansas, Clark",Arkansas,Clark,700.0,681.0,19.0,0.0,0.0,0.0,0.0
+"Arkansas, Craighead",Arkansas,Craighead,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Arkansas, Crittenden",Arkansas,Crittenden,730.0,601.0,124.0,5.0,0.0,0.0,0.0
+"Arkansas, Garland",Arkansas,Garland,242.0,176.0,66.0,0.0,0.0,0.0,0.0
+"Arkansas, Jackson",Arkansas,Jackson,233.0,190.0,43.0,0.0,0.0,0.0,0.0
+"Arkansas, Newton",Arkansas,Newton,719.0,665.0,54.0,0.0,0.0,0.0,0.0
+"Arkansas, Polk",Arkansas,Polk,724.0,601.0,119.0,4.0,0.0,0.0,0.0
+"Arkansas, Pulaski",Arkansas,Pulaski,730.0,436.0,290.0,4.0,0.0,0.0,0.0
+"Arkansas, Union",Arkansas,Union,343.0,264.0,79.0,0.0,0.0,0.0,0.0
+"Arkansas, Washington",Arkansas,Washington,726.0,597.0,127.0,2.0,0.0,0.0,0.0
+"California, Alameda",California,Alameda,730.0,450.0,259.0,20.0,1.0,0.0,0.0
+"California, Amador",California,Amador,717.0,606.0,108.0,3.0,0.0,0.0,0.0
+"California, Butte",California,Butte,730.0,409.0,284.0,34.0,3.0,0.0,0.0
+"California, Calaveras",California,Calaveras,724.0,564.0,128.0,32.0,0.0,0.0,0.0
+"California, Colusa",California,Colusa,730.0,535.0,195.0,0.0,0.0,0.0,0.0
+"California, Contra Costa",California,Contra Costa,730.0,566.0,153.0,10.0,1.0,0.0,0.0
+"California, Del Norte",California,Del Norte,373.0,359.0,14.0,0.0,0.0,0.0,0.0
+"California, El Dorado",California,El Dorado,727.0,513.0,168.0,39.0,7.0,0.0,0.0
+"California, Fresno",California,Fresno,730.0,248.0,300.0,144.0,38.0,0.0,0.0
+"California, Glenn",California,Glenn,727.0,553.0,170.0,4.0,0.0,0.0,0.0
+"California, Humboldt",California,Humboldt,725.0,696.0,29.0,0.0,0.0,0.0,0.0
+"California, Imperial",California,Imperial,730.0,280.0,377.0,69.0,4.0,0.0,0.0
+"California, Inyo",California,Inyo,730.0,451.0,245.0,11.0,7.0,6.0,10.0
+"California, Kern",California,Kern,730.0,158.0,308.0,178.0,79.0,6.0,1.0
+"California, Kings",California,Kings,730.0,242.0,349.0,123.0,13.0,1.0,2.0
+"California, Lake",California,Lake,722.0,709.0,13.0,0.0,0.0,0.0,0.0
+"California, Los Angeles",California,Los Angeles,730.0,100.0,426.0,128.0,71.0,5.0,0.0
+"California, Madera",California,Madera,730.0,451.0,240.0,36.0,3.0,0.0,0.0
+"California, Marin",California,Marin,728.0,668.0,59.0,1.0,0.0,0.0,0.0
+"California, Mariposa",California,Mariposa,730.0,394.0,288.0,42.0,6.0,0.0,0.0
+"California, Mendocino",California,Mendocino,726.0,496.0,229.0,1.0,0.0,0.0,0.0
+"California, Merced",California,Merced,726.0,401.0,269.0,56.0,0.0,0.0,0.0
+"California, Mono",California,Mono,730.0,590.0,109.0,10.0,2.0,1.0,18.0
+"California, Monterey",California,Monterey,730.0,685.0,43.0,2.0,0.0,0.0,0.0
+"California, Napa",California,Napa,728.0,589.0,134.0,5.0,0.0,0.0,0.0
+"California, Nevada",California,Nevada,725.0,517.0,167.0,39.0,2.0,0.0,0.0
+"California, Orange",California,Orange,730.0,339.0,350.0,36.0,5.0,0.0,0.0
+"California, Placer",California,Placer,730.0,406.0,278.0,36.0,10.0,0.0,0.0
+"California, Plumas",California,Plumas,460.0,325.0,126.0,9.0,0.0,0.0,0.0
+"California, Riverside",California,Riverside,730.0,104.0,358.0,181.0,85.0,2.0,0.0
+"California, Sacramento",California,Sacramento,730.0,375.0,282.0,51.0,22.0,0.0,0.0
+"California, San Benito",California,San Benito,730.0,615.0,108.0,7.0,0.0,0.0,0.0
+"California, San Bernardino",California,San Bernardino,730.0,122.0,335.0,137.0,120.0,16.0,0.0
+"California, San Diego",California,San Diego,730.0,146.0,510.0,67.0,7.0,0.0,0.0
+"California, San Francisco",California,San Francisco,730.0,509.0,215.0,6.0,0.0,0.0,0.0
+"California, San Joaquin",California,San Joaquin,730.0,475.0,219.0,34.0,2.0,0.0,0.0
+"California, San Luis Obispo",California,San Luis Obispo,730.0,401.0,297.0,32.0,0.0,0.0,0.0
+"California, San Mateo",California,San Mateo,730.0,584.0,144.0,2.0,0.0,0.0,0.0
+"California, Santa Barbara",California,Santa Barbara,730.0,546.0,172.0,8.0,4.0,0.0,0.0
+"California, Santa Clara",California,Santa Clara,730.0,515.0,201.0,14.0,0.0,0.0,0.0
+"California, Santa Cruz",California,Santa Cruz,730.0,702.0,28.0,0.0,0.0,0.0,0.0
+"California, Shasta",California,Shasta,729.0,586.0,135.0,8.0,0.0,0.0,0.0
+"California, Siskiyou",California,Siskiyou,688.0,643.0,40.0,3.0,2.0,0.0,0.0
+"California, Solano",California,Solano,730.0,529.0,191.0,10.0,0.0,0.0,0.0
+"California, Sonoma",California,Sonoma,730.0,664.0,66.0,0.0,0.0,0.0,0.0
+"California, Stanislaus",California,Stanislaus,730.0,343.0,297.0,77.0,13.0,0.0,0.0
+"California, Sutter",California,Sutter,730.0,439.0,277.0,14.0,0.0,0.0,0.0
+"California, Tehama",California,Tehama,629.0,453.0,145.0,31.0,0.0,0.0,0.0
+"California, Trinity",California,Trinity,388.0,364.0,22.0,2.0,0.0,0.0,0.0
+"California, Tulare",California,Tulare,730.0,212.0,304.0,161.0,52.0,1.0,0.0
+"California, Tuolumne",California,Tuolumne,719.0,529.0,169.0,21.0,0.0,0.0,0.0
+"California, Ventura",California,Ventura,730.0,415.0,266.0,43.0,6.0,0.0,0.0
+"California, Yolo",California,Yolo,730.0,533.0,186.0,11.0,0.0,0.0,0.0
+"Colorado, Adams",Colorado,Adams,730.0,464.0,259.0,7.0,0.0,0.0,0.0
+"Colorado, Alamosa",Colorado,Alamosa,467.0,453.0,12.0,2.0,0.0,0.0,0.0
+"Colorado, Arapahoe",Colorado,Arapahoe,703.0,478.0,215.0,10.0,0.0,0.0,0.0
+"Colorado, Archuleta",Colorado,Archuleta,717.0,672.0,39.0,5.0,1.0,0.0,0.0
+"Colorado, Boulder",Colorado,Boulder,730.0,483.0,232.0,15.0,0.0,0.0,0.0
+"Colorado, Clear Creek",Colorado,Clear Creek,360.0,243.0,116.0,1.0,0.0,0.0,0.0
+"Colorado, Delta",Colorado,Delta,486.0,455.0,30.0,1.0,0.0,0.0,0.0
+"Colorado, Denver",Colorado,Denver,730.0,453.0,274.0,2.0,1.0,0.0,0.0
+"Colorado, Douglas",Colorado,Douglas,724.0,503.0,203.0,17.0,1.0,0.0,0.0
+"Colorado, El Paso",Colorado,El Paso,730.0,554.0,175.0,1.0,0.0,0.0,0.0
+"Colorado, Fremont",Colorado,Fremont,91.0,91.0,0.0,0.0,0.0,0.0,0.0
+"Colorado, Garfield",Colorado,Garfield,730.0,593.0,137.0,0.0,0.0,0.0,0.0
+"Colorado, Gilpin",Colorado,Gilpin,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Colorado, Gunnison",Colorado,Gunnison,722.0,563.0,156.0,3.0,0.0,0.0,0.0
+"Colorado, Jackson",Colorado,Jackson,221.0,220.0,1.0,0.0,0.0,0.0,0.0
+"Colorado, Jefferson",Colorado,Jefferson,730.0,501.0,203.0,25.0,1.0,0.0,0.0
+"Colorado, La Plata",Colorado,La Plata,730.0,529.0,195.0,6.0,0.0,0.0,0.0
+"Colorado, Larimer",Colorado,Larimer,730.0,431.0,285.0,14.0,0.0,0.0,0.0
+"Colorado, Mesa",Colorado,Mesa,729.0,519.0,204.0,5.0,1.0,0.0,0.0
+"Colorado, Montezuma",Colorado,Montezuma,730.0,505.0,223.0,2.0,0.0,0.0,0.0
+"Colorado, Pitkin",Colorado,Pitkin,427.0,305.0,116.0,5.0,1.0,0.0,0.0
+"Colorado, Prowers",Colorado,Prowers,711.0,688.0,19.0,4.0,0.0,0.0,0.0
+"Colorado, Pueblo",Colorado,Pueblo,327.0,275.0,52.0,0.0,0.0,0.0,0.0
+"Colorado, Rio Blanco",Colorado,Rio Blanco,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Colorado, Routt",Colorado,Routt,706.0,684.0,21.0,1.0,0.0,0.0,0.0
+"Colorado, San Juan",Colorado,San Juan,238.0,237.0,1.0,0.0,0.0,0.0,0.0
+"Colorado, San Miguel",Colorado,San Miguel,227.0,222.0,5.0,0.0,0.0,0.0,0.0
+"Colorado, Weld",Colorado,Weld,730.0,529.0,196.0,5.0,0.0,0.0,0.0
+"Connecticut, Fairfield",Connecticut,Fairfield,730.0,516.0,181.0,30.0,3.0,0.0,0.0
+"Connecticut, Hartford",Connecticut,Hartford,730.0,594.0,128.0,8.0,0.0,0.0,0.0
+"Connecticut, Litchfield",Connecticut,Litchfield,730.0,666.0,61.0,3.0,0.0,0.0,0.0
+"Connecticut, Middlesex",Connecticut,Middlesex,387.0,336.0,41.0,9.0,1.0,0.0,0.0
+"Connecticut, New Haven",Connecticut,New Haven,730.0,534.0,177.0,17.0,2.0,0.0,0.0
+"Connecticut, New London",Connecticut,New London,720.0,593.0,114.0,13.0,0.0,0.0,0.0
+"Connecticut, Tolland",Connecticut,Tolland,395.0,343.0,41.0,11.0,0.0,0.0,0.0
+"Connecticut, Windham",Connecticut,Windham,719.0,682.0,34.0,3.0,0.0,0.0,0.0
+"Country Of Mexico, BAJA CALIFORNIA NORTE",Country Of Mexico,BAJA CALIFORNIA NORTE,397.0,91.0,252.0,42.0,5.0,0.0,7.0
+"Country Of Mexico, SONORA",Country Of Mexico,SONORA,420.0,321.0,93.0,5.0,0.0,1.0,0.0
+"Delaware, Kent",Delaware,Kent,627.0,492.0,135.0,0.0,0.0,0.0,0.0
+"Delaware, New Castle",Delaware,New Castle,730.0,471.0,249.0,8.0,2.0,0.0,0.0
+"Delaware, Sussex",Delaware,Sussex,623.0,487.0,134.0,2.0,0.0,0.0,0.0
+"District Of Columbia, District of Columbia",District Of Columbia,District of Columbia,730.0,436.0,280.0,13.0,1.0,0.0,0.0
+"Florida, Alachua",Florida,Alachua,729.0,660.0,69.0,0.0,0.0,0.0,0.0
+"Florida, Baker",Florida,Baker,714.0,687.0,27.0,0.0,0.0,0.0,0.0
+"Florida, Bay",Florida,Bay,722.0,603.0,118.0,1.0,0.0,0.0,0.0
+"Florida, Brevard",Florida,Brevard,716.0,637.0,79.0,0.0,0.0,0.0,0.0
+"Florida, Broward",Florida,Broward,728.0,587.0,141.0,0.0,0.0,0.0,0.0
+"Florida, Citrus",Florida,Citrus,481.0,446.0,35.0,0.0,0.0,0.0,0.0
+"Florida, Collier",Florida,Collier,727.0,648.0,79.0,0.0,0.0,0.0,0.0
+"Florida, Columbia",Florida,Columbia,728.0,566.0,162.0,0.0,0.0,0.0,0.0
+"Florida, Duval",Florida,Duval,726.0,499.0,223.0,4.0,0.0,0.0,0.0
+"Florida, Escambia",Florida,Escambia,730.0,546.0,178.0,6.0,0.0,0.0,0.0
+"Florida, Flagler",Florida,Flagler,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Florida, Hamilton",Florida,Hamilton,656.0,540.0,116.0,0.0,0.0,0.0,0.0
+"Florida, Highlands",Florida,Highlands,587.0,565.0,22.0,0.0,0.0,0.0,0.0
+"Florida, Hillsborough",Florida,Hillsborough,730.0,499.0,221.0,10.0,0.0,0.0,0.0
+"Florida, Holmes",Florida,Holmes,727.0,573.0,154.0,0.0,0.0,0.0,0.0
+"Florida, Indian River",Florida,Indian River,643.0,612.0,31.0,0.0,0.0,0.0,0.0
+"Florida, Lake",Florida,Lake,695.0,604.0,89.0,2.0,0.0,0.0,0.0
+"Florida, Lee",Florida,Lee,730.0,634.0,95.0,1.0,0.0,0.0,0.0
+"Florida, Leon",Florida,Leon,725.0,493.0,228.0,3.0,1.0,0.0,0.0
+"Florida, Liberty",Florida,Liberty,683.0,662.0,21.0,0.0,0.0,0.0,0.0
+"Florida, Manatee",Florida,Manatee,567.0,532.0,32.0,3.0,0.0,0.0,0.0
+"Florida, Marion",Florida,Marion,730.0,608.0,122.0,0.0,0.0,0.0,0.0
+"Florida, Martin",Florida,Martin,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Florida, Miami-Dade",Florida,Miami-Dade,728.0,585.0,138.0,5.0,0.0,0.0,0.0
+"Florida, Nassau",Florida,Nassau,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Florida, Okaloosa",Florida,Okaloosa,725.0,670.0,54.0,1.0,0.0,0.0,0.0
+"Florida, Orange",Florida,Orange,725.0,597.0,125.0,3.0,0.0,0.0,0.0
+"Florida, Osceola",Florida,Osceola,729.0,685.0,40.0,4.0,0.0,0.0,0.0
+"Florida, Palm Beach",Florida,Palm Beach,722.0,633.0,89.0,0.0,0.0,0.0,0.0
+"Florida, Pasco",Florida,Pasco,730.0,658.0,71.0,1.0,0.0,0.0,0.0
+"Florida, Pinellas",Florida,Pinellas,730.0,566.0,164.0,0.0,0.0,0.0,0.0
+"Florida, Polk",Florida,Polk,730.0,607.0,122.0,1.0,0.0,0.0,0.0
+"Florida, Putnam",Florida,Putnam,709.0,704.0,5.0,0.0,0.0,0.0,0.0
+"Florida, Santa Rosa",Florida,Santa Rosa,729.0,585.0,139.0,5.0,0.0,0.0,0.0
+"Florida, Sarasota",Florida,Sarasota,730.0,499.0,224.0,7.0,0.0,0.0,0.0
+"Florida, Seminole",Florida,Seminole,730.0,662.0,67.0,1.0,0.0,0.0,0.0
+"Florida, St. Lucie",Florida,St. Lucie,717.0,654.0,63.0,0.0,0.0,0.0,0.0
+"Florida, Volusia",Florida,Volusia,715.0,629.0,86.0,0.0,0.0,0.0,0.0
+"Florida, Wakulla",Florida,Wakulla,716.0,652.0,64.0,0.0,0.0,0.0,0.0
+"Georgia, Bibb",Georgia,Bibb,726.0,473.0,245.0,7.0,1.0,0.0,0.0
+"Georgia, Charlton",Georgia,Charlton,223.0,213.0,10.0,0.0,0.0,0.0,0.0
+"Georgia, Chatham",Georgia,Chatham,700.0,522.0,177.0,1.0,0.0,0.0,0.0
+"Georgia, Chattooga",Georgia,Chattooga,506.0,464.0,42.0,0.0,0.0,0.0,0.0
+"Georgia, Clarke",Georgia,Clarke,728.0,485.0,241.0,2.0,0.0,0.0,0.0
+"Georgia, Clayton",Georgia,Clayton,235.0,171.0,64.0,0.0,0.0,0.0,0.0
+"Georgia, Cobb",Georgia,Cobb,643.0,426.0,211.0,4.0,2.0,0.0,0.0
+"Georgia, Coffee",Georgia,Coffee,178.0,151.0,26.0,1.0,0.0,0.0,0.0
+"Georgia, Columbia",Georgia,Columbia,484.0,437.0,47.0,0.0,0.0,0.0,0.0
+"Georgia, Dawson",Georgia,Dawson,478.0,425.0,51.0,2.0,0.0,0.0,0.0
+"Georgia, DeKalb",Georgia,DeKalb,730.0,427.0,289.0,13.0,1.0,0.0,0.0
+"Georgia, Dougherty",Georgia,Dougherty,681.0,393.0,282.0,6.0,0.0,0.0,0.0
+"Georgia, Douglas",Georgia,Douglas,490.0,404.0,75.0,11.0,0.0,0.0,0.0
+"Georgia, Floyd",Georgia,Floyd,721.0,394.0,325.0,2.0,0.0,0.0,0.0
+"Georgia, Fulton",Georgia,Fulton,730.0,340.0,372.0,14.0,4.0,0.0,0.0
+"Georgia, Glynn",Georgia,Glynn,554.0,503.0,49.0,2.0,0.0,0.0,0.0
+"Georgia, Gwinnett",Georgia,Gwinnett,720.0,436.0,278.0,6.0,0.0,0.0,0.0
+"Georgia, Hall",Georgia,Hall,666.0,442.0,224.0,0.0,0.0,0.0,0.0
+"Georgia, Henry",Georgia,Henry,728.0,524.0,190.0,14.0,0.0,0.0,0.0
+"Georgia, Houston",Georgia,Houston,662.0,392.0,267.0,2.0,1.0,0.0,0.0
+"Georgia, Lowndes",Georgia,Lowndes,638.0,420.0,218.0,0.0,0.0,0.0,0.0
+"Georgia, Murray",Georgia,Murray,550.0,463.0,85.0,2.0,0.0,0.0,0.0
+"Georgia, Muscogee",Georgia,Muscogee,729.0,512.0,216.0,1.0,0.0,0.0,0.0
+"Georgia, Pike",Georgia,Pike,713.0,624.0,86.0,3.0,0.0,0.0,0.0
+"Georgia, Richmond",Georgia,Richmond,722.0,456.0,263.0,2.0,1.0,0.0,0.0
+"Georgia, Rockdale",Georgia,Rockdale,593.0,487.0,98.0,7.0,1.0,0.0,0.0
+"Georgia, Sumter",Georgia,Sumter,470.0,431.0,39.0,0.0,0.0,0.0,0.0
+"Georgia, Walker",Georgia,Walker,684.0,449.0,234.0,0.0,1.0,0.0,0.0
+"Georgia, Washington",Georgia,Washington,326.0,256.0,68.0,2.0,0.0,0.0,0.0
+"Hawaii, Hawaii",Hawaii,Hawaii,730.0,425.0,281.0,20.0,4.0,0.0,0.0
+"Hawaii, Honolulu",Hawaii,Honolulu,730.0,709.0,20.0,0.0,1.0,0.0,0.0
+"Hawaii, Kauai",Hawaii,Kauai,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Hawaii, Maui",Hawaii,Maui,720.0,694.0,22.0,3.0,1.0,0.0,0.0
+"Idaho, Ada",Idaho,Ada,730.0,513.0,210.0,7.0,0.0,0.0,0.0
+"Idaho, Bannock",Idaho,Bannock,727.0,680.0,44.0,3.0,0.0,0.0,0.0
+"Idaho, Benewah",Idaho,Benewah,728.0,528.0,181.0,17.0,2.0,0.0,0.0
+"Idaho, Blaine",Idaho,Blaine,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Idaho, Boise",Idaho,Boise,691.0,593.0,95.0,2.0,1.0,0.0,0.0
+"Idaho, Bonner",Idaho,Bonner,721.0,668.0,52.0,1.0,0.0,0.0,0.0
+"Idaho, Bonneville",Idaho,Bonneville,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Idaho, Butte",Idaho,Butte,725.0,686.0,39.0,0.0,0.0,0.0,0.0
+"Idaho, Canyon",Idaho,Canyon,654.0,579.0,75.0,0.0,0.0,0.0,0.0
+"Idaho, Custer",Idaho,Custer,201.0,201.0,0.0,0.0,0.0,0.0,0.0
+"Idaho, Franklin",Idaho,Franklin,469.0,420.0,42.0,7.0,0.0,0.0,0.0
+"Idaho, Idaho",Idaho,Idaho,703.0,633.0,70.0,0.0,0.0,0.0,0.0
+"Idaho, Jerome",Idaho,Jerome,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Idaho, Kootenai",Idaho,Kootenai,614.0,552.0,62.0,0.0,0.0,0.0,0.0
+"Idaho, Latah",Idaho,Latah,672.0,667.0,5.0,0.0,0.0,0.0,0.0
+"Idaho, Lemhi",Idaho,Lemhi,714.0,542.0,162.0,10.0,0.0,0.0,0.0
+"Idaho, Nez Perce",Idaho,Nez Perce,692.0,629.0,63.0,0.0,0.0,0.0,0.0
+"Idaho, Shoshone",Idaho,Shoshone,730.0,443.0,271.0,15.0,1.0,0.0,0.0
+"Idaho, Twin Falls",Idaho,Twin Falls,723.0,691.0,31.0,1.0,0.0,0.0,0.0
+"Idaho, Valley",Idaho,Valley,685.0,594.0,91.0,0.0,0.0,0.0,0.0
+"Illinois, Adams",Illinois,Adams,604.0,544.0,60.0,0.0,0.0,0.0,0.0
+"Illinois, Champaign",Illinois,Champaign,730.0,577.0,153.0,0.0,0.0,0.0,0.0
+"Illinois, Clark",Illinois,Clark,532.0,497.0,35.0,0.0,0.0,0.0,0.0
+"Illinois, Cook",Illinois,Cook,730.0,249.0,453.0,26.0,1.0,1.0,0.0
+"Illinois, DuPage",Illinois,DuPage,717.0,448.0,264.0,4.0,1.0,0.0,0.0
+"Illinois, Effingham",Illinois,Effingham,485.0,430.0,54.0,1.0,0.0,0.0,0.0
+"Illinois, Hamilton",Illinois,Hamilton,591.0,465.0,123.0,3.0,0.0,0.0,0.0
+"Illinois, Jersey",Illinois,Jersey,590.0,484.0,102.0,4.0,0.0,0.0,0.0
+"Illinois, Jo Daviess",Illinois,Jo Daviess,674.0,640.0,34.0,0.0,0.0,0.0,0.0
+"Illinois, Kane",Illinois,Kane,649.0,552.0,93.0,4.0,0.0,0.0,0.0
+"Illinois, Lake",Illinois,Lake,598.0,518.0,73.0,6.0,1.0,0.0,0.0
+"Illinois, Macon",Illinois,Macon,729.0,479.0,250.0,0.0,0.0,0.0,0.0
+"Illinois, Macoupin",Illinois,Macoupin,700.0,654.0,46.0,0.0,0.0,0.0,0.0
+"Illinois, Madison",Illinois,Madison,728.0,347.0,371.0,8.0,2.0,0.0,0.0
+"Illinois, McHenry",Illinois,McHenry,705.0,472.0,231.0,2.0,0.0,0.0,0.0
+"Illinois, McLean",Illinois,McLean,728.0,544.0,180.0,4.0,0.0,0.0,0.0
+"Illinois, Peoria",Illinois,Peoria,729.0,511.0,213.0,5.0,0.0,0.0,0.0
+"Illinois, Randolph",Illinois,Randolph,688.0,604.0,84.0,0.0,0.0,0.0,0.0
+"Illinois, Rock Island",Illinois,Rock Island,715.0,612.0,101.0,2.0,0.0,0.0,0.0
+"Illinois, Saint Clair",Illinois,Saint Clair,730.0,514.0,214.0,1.0,1.0,0.0,0.0
+"Illinois, Sangamon",Illinois,Sangamon,725.0,603.0,122.0,0.0,0.0,0.0,0.0
+"Illinois, Will",Illinois,Will,730.0,585.0,145.0,0.0,0.0,0.0,0.0
+"Illinois, Winnebago",Illinois,Winnebago,706.0,555.0,149.0,2.0,0.0,0.0,0.0
+"Indiana, Allen",Indiana,Allen,730.0,397.0,329.0,4.0,0.0,0.0,0.0
+"Indiana, Bartholomew",Indiana,Bartholomew,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Indiana, Boone",Indiana,Boone,532.0,454.0,77.0,1.0,0.0,0.0,0.0
+"Indiana, Brown",Indiana,Brown,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Indiana, Carroll",Indiana,Carroll,538.0,488.0,50.0,0.0,0.0,0.0,0.0
+"Indiana, Clark",Indiana,Clark,727.0,464.0,261.0,2.0,0.0,0.0,0.0
+"Indiana, Delaware",Indiana,Delaware,594.0,487.0,106.0,1.0,0.0,0.0,0.0
+"Indiana, Dubois",Indiana,Dubois,235.0,157.0,78.0,0.0,0.0,0.0,0.0
+"Indiana, Elkhart",Indiana,Elkhart,605.0,475.0,129.0,1.0,0.0,0.0,0.0
+"Indiana, Floyd",Indiana,Floyd,701.0,478.0,223.0,0.0,0.0,0.0,0.0
+"Indiana, Greene",Indiana,Greene,520.0,441.0,78.0,1.0,0.0,0.0,0.0
+"Indiana, Hamilton",Indiana,Hamilton,548.0,397.0,145.0,6.0,0.0,0.0,0.0
+"Indiana, Hendricks",Indiana,Hendricks,633.0,570.0,60.0,3.0,0.0,0.0,0.0
+"Indiana, Henry",Indiana,Henry,237.0,181.0,56.0,0.0,0.0,0.0,0.0
+"Indiana, Howard",Indiana,Howard,471.0,359.0,111.0,1.0,0.0,0.0,0.0
+"Indiana, Huntington",Indiana,Huntington,538.0,503.0,35.0,0.0,0.0,0.0,0.0
+"Indiana, Jackson",Indiana,Jackson,543.0,500.0,42.0,1.0,0.0,0.0,0.0
+"Indiana, Knox",Indiana,Knox,716.0,612.0,102.0,2.0,0.0,0.0,0.0
+"Indiana, LaPorte",Indiana,LaPorte,607.0,480.0,120.0,7.0,0.0,0.0,0.0
+"Indiana, Lake",Indiana,Lake,730.0,405.0,321.0,4.0,0.0,0.0,0.0
+"Indiana, Madison",Indiana,Madison,605.0,460.0,144.0,1.0,0.0,0.0,0.0
+"Indiana, Marion",Indiana,Marion,730.0,272.0,447.0,11.0,0.0,0.0,0.0
+"Indiana, Monroe",Indiana,Monroe,591.0,430.0,161.0,0.0,0.0,0.0,0.0
+"Indiana, Morgan",Indiana,Morgan,543.0,483.0,58.0,2.0,0.0,0.0,0.0
+"Indiana, Perry",Indiana,Perry,556.0,491.0,64.0,1.0,0.0,0.0,0.0
+"Indiana, Porter",Indiana,Porter,730.0,448.0,276.0,6.0,0.0,0.0,0.0
+"Indiana, Posey",Indiana,Posey,547.0,494.0,52.0,1.0,0.0,0.0,0.0
+"Indiana, Shelby",Indiana,Shelby,548.0,466.0,73.0,8.0,1.0,0.0,0.0
+"Indiana, Spencer",Indiana,Spencer,228.0,160.0,68.0,0.0,0.0,0.0,0.0
+"Indiana, St. Joseph",Indiana,St. Joseph,730.0,474.0,252.0,4.0,0.0,0.0,0.0
+"Indiana, Sullivan",Indiana,Sullivan,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Indiana, Tippecanoe",Indiana,Tippecanoe,615.0,434.0,181.0,0.0,0.0,0.0,0.0
+"Indiana, Vanderburgh",Indiana,Vanderburgh,721.0,507.0,213.0,1.0,0.0,0.0,0.0
+"Indiana, Vigo",Indiana,Vigo,627.0,419.0,207.0,1.0,0.0,0.0,0.0
+"Indiana, Wabash",Indiana,Wabash,708.0,640.0,68.0,0.0,0.0,0.0,0.0
+"Indiana, Warrick",Indiana,Warrick,548.0,492.0,55.0,1.0,0.0,0.0,0.0
+"Indiana, Whitley",Indiana,Whitley,412.0,340.0,72.0,0.0,0.0,0.0,0.0
+"Iowa, Black Hawk",Iowa,Black Hawk,702.0,516.0,183.0,3.0,0.0,0.0,0.0
+"Iowa, Bremer",Iowa,Bremer,457.0,421.0,36.0,0.0,0.0,0.0,0.0
+"Iowa, Cerro Gordo",Iowa,Cerro Gordo,483.0,459.0,24.0,0.0,0.0,0.0,0.0
+"Iowa, Clinton",Iowa,Clinton,729.0,459.0,266.0,4.0,0.0,0.0,0.0
+"Iowa, Harrison",Iowa,Harrison,455.0,412.0,42.0,1.0,0.0,0.0,0.0
+"Iowa, Johnson",Iowa,Johnson,720.0,503.0,215.0,2.0,0.0,0.0,0.0
+"Iowa, Lee",Iowa,Lee,240.0,185.0,55.0,0.0,0.0,0.0,0.0
+"Iowa, Linn",Iowa,Linn,730.0,524.0,202.0,4.0,0.0,0.0,0.0
+"Iowa, Montgomery",Iowa,Montgomery,631.0,540.0,89.0,2.0,0.0,0.0,0.0
+"Iowa, Muscatine",Iowa,Muscatine,730.0,503.0,221.0,5.0,1.0,0.0,0.0
+"Iowa, Palo Alto",Iowa,Palo Alto,628.0,513.0,114.0,1.0,0.0,0.0,0.0
+"Iowa, Polk",Iowa,Polk,730.0,570.0,159.0,1.0,0.0,0.0,0.0
+"Iowa, Pottawattamie",Iowa,Pottawattamie,371.0,321.0,49.0,1.0,0.0,0.0,0.0
+"Iowa, Scott",Iowa,Scott,730.0,393.0,332.0,5.0,0.0,0.0,0.0
+"Iowa, Van Buren",Iowa,Van Buren,624.0,531.0,93.0,0.0,0.0,0.0,0.0
+"Iowa, Woodbury",Iowa,Woodbury,241.0,203.0,37.0,1.0,0.0,0.0,0.0
+"Kansas, Chase",Kansas,Chase,239.0,222.0,16.0,1.0,0.0,0.0,0.0
+"Kansas, Ford",Kansas,Ford,662.0,649.0,13.0,0.0,0.0,0.0,0.0
+"Kansas, Johnson",Kansas,Johnson,727.0,651.0,75.0,1.0,0.0,0.0,0.0
+"Kansas, Leavenworth",Kansas,Leavenworth,722.0,679.0,43.0,0.0,0.0,0.0,0.0
+"Kansas, Neosho",Kansas,Neosho,425.0,342.0,82.0,1.0,0.0,0.0,0.0
+"Kansas, Sedgwick",Kansas,Sedgwick,730.0,600.0,124.0,5.0,1.0,0.0,0.0
+"Kansas, Shawnee",Kansas,Shawnee,730.0,600.0,128.0,1.0,1.0,0.0,0.0
+"Kansas, Sherman",Kansas,Sherman,409.0,403.0,6.0,0.0,0.0,0.0,0.0
+"Kansas, Sumner",Kansas,Sumner,730.0,623.0,103.0,4.0,0.0,0.0,0.0
+"Kansas, Trego",Kansas,Trego,729.0,643.0,85.0,1.0,0.0,0.0,0.0
+"Kansas, Wyandotte",Kansas,Wyandotte,730.0,546.0,181.0,3.0,0.0,0.0,0.0
+"Kentucky, Bell",Kentucky,Bell,527.0,459.0,68.0,0.0,0.0,0.0,0.0
+"Kentucky, Boone",Kentucky,Boone,480.0,439.0,41.0,0.0,0.0,0.0,0.0
+"Kentucky, Boyd",Kentucky,Boyd,730.0,561.0,169.0,0.0,0.0,0.0,0.0
+"Kentucky, Bullitt",Kentucky,Bullitt,526.0,432.0,94.0,0.0,0.0,0.0,0.0
+"Kentucky, Campbell",Kentucky,Campbell,727.0,569.0,155.0,3.0,0.0,0.0,0.0
+"Kentucky, Carter",Kentucky,Carter,569.0,521.0,48.0,0.0,0.0,0.0,0.0
+"Kentucky, Christian",Kentucky,Christian,546.0,456.0,89.0,1.0,0.0,0.0,0.0
+"Kentucky, Daviess",Kentucky,Daviess,729.0,518.0,209.0,2.0,0.0,0.0,0.0
+"Kentucky, Edmonson",Kentucky,Edmonson,717.0,589.0,128.0,0.0,0.0,0.0,0.0
+"Kentucky, Fayette",Kentucky,Fayette,729.0,548.0,181.0,0.0,0.0,0.0,0.0
+"Kentucky, Greenup",Kentucky,Greenup,486.0,454.0,32.0,0.0,0.0,0.0,0.0
+"Kentucky, Hancock",Kentucky,Hancock,488.0,410.0,77.0,1.0,0.0,0.0,0.0
+"Kentucky, Hardin",Kentucky,Hardin,723.0,581.0,141.0,1.0,0.0,0.0,0.0
+"Kentucky, Henderson",Kentucky,Henderson,420.0,283.0,133.0,4.0,0.0,0.0,0.0
+"Kentucky, Jefferson",Kentucky,Jefferson,730.0,487.0,235.0,8.0,0.0,0.0,0.0
+"Kentucky, Jessamine",Kentucky,Jessamine,486.0,431.0,55.0,0.0,0.0,0.0,0.0
+"Kentucky, Livingston",Kentucky,Livingston,506.0,455.0,50.0,1.0,0.0,0.0,0.0
+"Kentucky, McCracken",Kentucky,McCracken,725.0,526.0,197.0,2.0,0.0,0.0,0.0
+"Kentucky, Morgan",Kentucky,Morgan,712.0,651.0,59.0,2.0,0.0,0.0,0.0
+"Kentucky, Oldham",Kentucky,Oldham,479.0,404.0,73.0,2.0,0.0,0.0,0.0
+"Kentucky, Perry",Kentucky,Perry,710.0,614.0,96.0,0.0,0.0,0.0,0.0
+"Kentucky, Pike",Kentucky,Pike,678.0,595.0,81.0,2.0,0.0,0.0,0.0
+"Kentucky, Pulaski",Kentucky,Pulaski,527.0,490.0,37.0,0.0,0.0,0.0,0.0
+"Kentucky, Simpson",Kentucky,Simpson,488.0,421.0,65.0,2.0,0.0,0.0,0.0
+"Kentucky, Trigg",Kentucky,Trigg,710.0,623.0,87.0,0.0,0.0,0.0,0.0
+"Kentucky, Warren",Kentucky,Warren,705.0,562.0,143.0,0.0,0.0,0.0,0.0
+"Kentucky, Washington",Kentucky,Washington,701.0,625.0,76.0,0.0,0.0,0.0,0.0
+"Louisiana, Ascension",Louisiana,Ascension,726.0,650.0,71.0,5.0,0.0,0.0,0.0
+"Louisiana, Bossier",Louisiana,Bossier,721.0,592.0,122.0,6.0,1.0,0.0,0.0
+"Louisiana, Caddo",Louisiana,Caddo,718.0,591.0,124.0,3.0,0.0,0.0,0.0
+"Louisiana, Calcasieu",Louisiana,Calcasieu,730.0,497.0,223.0,8.0,2.0,0.0,0.0
+"Louisiana, East Baton Rouge",Louisiana,East Baton Rouge,730.0,495.0,217.0,15.0,3.0,0.0,0.0
+"Louisiana, Iberville",Louisiana,Iberville,730.0,588.0,130.0,11.0,1.0,0.0,0.0
+"Louisiana, Jefferson",Louisiana,Jefferson,730.0,562.0,161.0,7.0,0.0,0.0,0.0
+"Louisiana, Lafayette",Louisiana,Lafayette,730.0,576.0,151.0,3.0,0.0,0.0,0.0
+"Louisiana, Lafourche",Louisiana,Lafourche,725.0,569.0,152.0,4.0,0.0,0.0,0.0
+"Louisiana, Livingston",Louisiana,Livingston,730.0,555.0,168.0,5.0,2.0,0.0,0.0
+"Louisiana, Orleans",Louisiana,Orleans,730.0,595.0,132.0,3.0,0.0,0.0,0.0
+"Louisiana, Ouachita",Louisiana,Ouachita,723.0,659.0,64.0,0.0,0.0,0.0,0.0
+"Louisiana, Pointe Coupee",Louisiana,Pointe Coupee,707.0,646.0,53.0,8.0,0.0,0.0,0.0
+"Louisiana, Rapides",Louisiana,Rapides,238.0,207.0,31.0,0.0,0.0,0.0,0.0
+"Louisiana, St. Bernard",Louisiana,St. Bernard,730.0,459.0,268.0,3.0,0.0,0.0,0.0
+"Louisiana, St. James",Louisiana,St. James,713.0,661.0,50.0,2.0,0.0,0.0,0.0
+"Louisiana, St. John the Baptist",Louisiana,St. John the Baptist,712.0,644.0,63.0,5.0,0.0,0.0,0.0
+"Louisiana, St. Martin",Louisiana,St. Martin,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Louisiana, St. Tammany",Louisiana,St. Tammany,728.0,585.0,139.0,3.0,1.0,0.0,0.0
+"Louisiana, Tangipahoa",Louisiana,Tangipahoa,234.0,205.0,29.0,0.0,0.0,0.0,0.0
+"Louisiana, Terrebonne",Louisiana,Terrebonne,240.0,214.0,26.0,0.0,0.0,0.0,0.0
+"Louisiana, West Baton Rouge",Louisiana,West Baton Rouge,727.0,498.0,225.0,4.0,0.0,0.0,0.0
+"Maine, Androscoggin",Maine,Androscoggin,573.0,551.0,22.0,0.0,0.0,0.0,0.0
+"Maine, Aroostook",Maine,Aroostook,730.0,661.0,67.0,1.0,1.0,0.0,0.0
+"Maine, Cumberland",Maine,Cumberland,730.0,657.0,71.0,2.0,0.0,0.0,0.0
+"Maine, Hancock",Maine,Hancock,730.0,669.0,56.0,4.0,1.0,0.0,0.0
+"Maine, Kennebec",Maine,Kennebec,573.0,557.0,15.0,1.0,0.0,0.0,0.0
+"Maine, Knox",Maine,Knox,396.0,373.0,20.0,3.0,0.0,0.0,0.0
+"Maine, Oxford",Maine,Oxford,550.0,533.0,17.0,0.0,0.0,0.0,0.0
+"Maine, Penobscot",Maine,Penobscot,726.0,698.0,27.0,1.0,0.0,0.0,0.0
+"Maine, Washington",Maine,Washington,727.0,714.0,11.0,2.0,0.0,0.0,0.0
+"Maine, York",Maine,York,593.0,554.0,34.0,4.0,1.0,0.0,0.0
+"Maryland, Anne Arundel",Maryland,Anne Arundel,608.0,379.0,219.0,10.0,0.0,0.0,0.0
+"Maryland, Baltimore",Maryland,Baltimore,730.0,466.0,246.0,17.0,1.0,0.0,0.0
+"Maryland, Baltimore (City)",Maryland,Baltimore (City),728.0,467.0,250.0,11.0,0.0,0.0,0.0
+"Maryland, Calvert",Maryland,Calvert,436.0,372.0,62.0,2.0,0.0,0.0,0.0
+"Maryland, Carroll",Maryland,Carroll,453.0,388.0,63.0,2.0,0.0,0.0,0.0
+"Maryland, Cecil",Maryland,Cecil,716.0,517.0,188.0,11.0,0.0,0.0,0.0
+"Maryland, Charles",Maryland,Charles,435.0,370.0,63.0,2.0,0.0,0.0,0.0
+"Maryland, Dorchester",Maryland,Dorchester,726.0,619.0,100.0,7.0,0.0,0.0,0.0
+"Maryland, Frederick",Maryland,Frederick,451.0,371.0,76.0,4.0,0.0,0.0,0.0
+"Maryland, Garrett",Maryland,Garrett,730.0,653.0,76.0,1.0,0.0,0.0,0.0
+"Maryland, Harford",Maryland,Harford,621.0,434.0,165.0,20.0,1.0,1.0,0.0
+"Maryland, Howard",Maryland,Howard,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Maryland, Kent",Maryland,Kent,569.0,475.0,91.0,3.0,0.0,0.0,0.0
+"Maryland, Montgomery",Maryland,Montgomery,719.0,530.0,186.0,3.0,0.0,0.0,0.0
+"Maryland, Prince George's",Maryland,Prince George's,730.0,485.0,235.0,10.0,0.0,0.0,0.0
+"Maryland, Washington",Maryland,Washington,623.0,519.0,104.0,0.0,0.0,0.0,0.0
+"Massachusetts, Barnstable",Massachusetts,Barnstable,596.0,550.0,42.0,4.0,0.0,0.0,0.0
+"Massachusetts, Berkshire",Massachusetts,Berkshire,716.0,554.0,159.0,3.0,0.0,0.0,0.0
+"Massachusetts, Bristol",Massachusetts,Bristol,721.0,601.0,117.0,3.0,0.0,0.0,0.0
+"Massachusetts, Dukes",Massachusetts,Dukes,557.0,511.0,38.0,8.0,0.0,0.0,0.0
+"Massachusetts, Essex",Massachusetts,Essex,729.0,605.0,119.0,5.0,0.0,0.0,0.0
+"Massachusetts, Franklin",Massachusetts,Franklin,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Massachusetts, Hampden",Massachusetts,Hampden,729.0,539.0,179.0,11.0,0.0,0.0,0.0
+"Massachusetts, Hampshire",Massachusetts,Hampshire,729.0,606.0,114.0,9.0,0.0,0.0,0.0
+"Massachusetts, Middlesex",Massachusetts,Middlesex,729.0,667.0,58.0,4.0,0.0,0.0,0.0
+"Massachusetts, Norfolk",Massachusetts,Norfolk,727.0,657.0,66.0,4.0,0.0,0.0,0.0
+"Massachusetts, Plymouth",Massachusetts,Plymouth,481.0,432.0,49.0,0.0,0.0,0.0,0.0
+"Massachusetts, Suffolk",Massachusetts,Suffolk,730.0,549.0,175.0,6.0,0.0,0.0,0.0
+"Massachusetts, Worcester",Massachusetts,Worcester,730.0,583.0,139.0,7.0,1.0,0.0,0.0
+"Michigan, Allegan",Michigan,Allegan,519.0,401.0,109.0,8.0,1.0,0.0,0.0
+"Michigan, Bay",Michigan,Bay,432.0,378.0,54.0,0.0,0.0,0.0,0.0
+"Michigan, Benzie",Michigan,Benzie,430.0,393.0,34.0,3.0,0.0,0.0,0.0
+"Michigan, Berrien",Michigan,Berrien,500.0,400.0,95.0,5.0,0.0,0.0,0.0
+"Michigan, Cass",Michigan,Cass,438.0,363.0,71.0,4.0,0.0,0.0,0.0
+"Michigan, Chippewa",Michigan,Chippewa,139.0,87.0,50.0,2.0,0.0,0.0,0.0
+"Michigan, Clinton",Michigan,Clinton,421.0,392.0,29.0,0.0,0.0,0.0,0.0
+"Michigan, Genesee",Michigan,Genesee,581.0,466.0,113.0,2.0,0.0,0.0,0.0
+"Michigan, Huron",Michigan,Huron,434.0,410.0,21.0,3.0,0.0,0.0,0.0
+"Michigan, Ingham",Michigan,Ingham,608.0,514.0,93.0,1.0,0.0,0.0,0.0
+"Michigan, Kalamazoo",Michigan,Kalamazoo,605.0,480.0,120.0,5.0,0.0,0.0,0.0
+"Michigan, Kent",Michigan,Kent,730.0,592.0,134.0,4.0,0.0,0.0,0.0
+"Michigan, Keweenaw",Michigan,Keweenaw,221.0,217.0,4.0,0.0,0.0,0.0,0.0
+"Michigan, Lenawee",Michigan,Lenawee,592.0,450.0,141.0,1.0,0.0,0.0,0.0
+"Michigan, Macomb",Michigan,Macomb,530.0,425.0,98.0,6.0,1.0,0.0,0.0
+"Michigan, Manistee",Michigan,Manistee,506.0,454.0,50.0,2.0,0.0,0.0,0.0
+"Michigan, Mason",Michigan,Mason,437.0,405.0,30.0,2.0,0.0,0.0,0.0
+"Michigan, Missaukee",Michigan,Missaukee,603.0,543.0,60.0,0.0,0.0,0.0,0.0
+"Michigan, Monroe",Michigan,Monroe,181.0,132.0,48.0,1.0,0.0,0.0,0.0
+"Michigan, Muskegon",Michigan,Muskegon,559.0,462.0,91.0,5.0,1.0,0.0,0.0
+"Michigan, Oakland",Michigan,Oakland,537.0,426.0,104.0,7.0,0.0,0.0,0.0
+"Michigan, Ottawa",Michigan,Ottawa,655.0,539.0,114.0,2.0,0.0,0.0,0.0
+"Michigan, Schoolcraft",Michigan,Schoolcraft,608.0,576.0,31.0,1.0,0.0,0.0,0.0
+"Michigan, St. Clair",Michigan,St. Clair,606.0,492.0,107.0,7.0,0.0,0.0,0.0
+"Michigan, Tuscola",Michigan,Tuscola,714.0,683.0,30.0,1.0,0.0,0.0,0.0
+"Michigan, Washtenaw",Michigan,Washtenaw,728.0,586.0,142.0,0.0,0.0,0.0,0.0
+"Michigan, Wayne",Michigan,Wayne,730.0,367.0,343.0,19.0,1.0,0.0,0.0
+"Michigan, Wexford",Michigan,Wexford,680.0,647.0,31.0,2.0,0.0,0.0,0.0
+"Minnesota, Anoka",Minnesota,Anoka,729.0,537.0,188.0,4.0,0.0,0.0,0.0
+"Minnesota, Becker",Minnesota,Becker,699.0,636.0,61.0,2.0,0.0,0.0,0.0
+"Minnesota, Beltrami",Minnesota,Beltrami,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Minnesota, Carlton",Minnesota,Carlton,521.0,507.0,14.0,0.0,0.0,0.0,0.0
+"Minnesota, Cass",Minnesota,Cass,364.0,345.0,18.0,1.0,0.0,0.0,0.0
+"Minnesota, Cook",Minnesota,Cook,654.0,637.0,17.0,0.0,0.0,0.0,0.0
+"Minnesota, Crow Wing",Minnesota,Crow Wing,719.0,617.0,101.0,1.0,0.0,0.0,0.0
+"Minnesota, Dakota",Minnesota,Dakota,730.0,565.0,159.0,5.0,1.0,0.0,0.0
+"Minnesota, Goodhue",Minnesota,Goodhue,398.0,365.0,33.0,0.0,0.0,0.0,0.0
+"Minnesota, Hennepin",Minnesota,Hennepin,730.0,507.0,220.0,3.0,0.0,0.0,0.0
+"Minnesota, Lake",Minnesota,Lake,715.0,653.0,62.0,0.0,0.0,0.0,0.0
+"Minnesota, Lyon",Minnesota,Lyon,717.0,581.0,135.0,1.0,0.0,0.0,0.0
+"Minnesota, Mille Lacs",Minnesota,Mille Lacs,480.0,449.0,31.0,0.0,0.0,0.0,0.0
+"Minnesota, Olmsted",Minnesota,Olmsted,729.0,563.0,162.0,4.0,0.0,0.0,0.0
+"Minnesota, Ramsey",Minnesota,Ramsey,730.0,564.0,161.0,5.0,0.0,0.0,0.0
+"Minnesota, Saint Louis",Minnesota,Saint Louis,730.0,605.0,124.0,1.0,0.0,0.0,0.0
+"Minnesota, Scott",Minnesota,Scott,608.0,518.0,88.0,2.0,0.0,0.0,0.0
+"Minnesota, Stearns",Minnesota,Stearns,709.0,613.0,94.0,2.0,0.0,0.0,0.0
+"Minnesota, Washington",Minnesota,Washington,464.0,380.0,84.0,0.0,0.0,0.0,0.0
+"Minnesota, Winona",Minnesota,Winona,228.0,207.0,21.0,0.0,0.0,0.0,0.0
+"Minnesota, Wright",Minnesota,Wright,727.0,587.0,138.0,2.0,0.0,0.0,0.0
+"Mississippi, Bolivar",Mississippi,Bolivar,704.0,509.0,195.0,0.0,0.0,0.0,0.0
+"Mississippi, DeSoto",Mississippi,DeSoto,709.0,531.0,172.0,6.0,0.0,0.0,0.0
+"Mississippi, Forrest",Mississippi,Forrest,476.0,378.0,98.0,0.0,0.0,0.0,0.0
+"Mississippi, Hancock",Mississippi,Hancock,648.0,553.0,94.0,1.0,0.0,0.0,0.0
+"Mississippi, Harrison",Mississippi,Harrison,680.0,484.0,191.0,5.0,0.0,0.0,0.0
+"Mississippi, Hinds",Mississippi,Hinds,710.0,479.0,230.0,1.0,0.0,0.0,0.0
+"Mississippi, Jackson",Mississippi,Jackson,693.0,573.0,115.0,5.0,0.0,0.0,0.0
+"Mississippi, Lauderdale",Mississippi,Lauderdale,590.0,464.0,126.0,0.0,0.0,0.0,0.0
+"Mississippi, Lee",Mississippi,Lee,586.0,469.0,117.0,0.0,0.0,0.0,0.0
+"Mississippi, Yalobusha",Mississippi,Yalobusha,677.0,647.0,30.0,0.0,0.0,0.0,0.0
+"Missouri, Andrew",Missouri,Andrew,450.0,400.0,50.0,0.0,0.0,0.0,0.0
+"Missouri, Boone",Missouri,Boone,459.0,434.0,25.0,0.0,0.0,0.0,0.0
+"Missouri, Buchanan",Missouri,Buchanan,678.0,457.0,218.0,3.0,0.0,0.0,0.0
+"Missouri, Callaway",Missouri,Callaway,458.0,432.0,26.0,0.0,0.0,0.0,0.0
+"Missouri, Cass",Missouri,Cass,650.0,546.0,102.0,1.0,1.0,0.0,0.0
+"Missouri, Cedar",Missouri,Cedar,705.0,536.0,169.0,0.0,0.0,0.0,0.0
+"Missouri, Clay",Missouri,Clay,730.0,533.0,187.0,10.0,0.0,0.0,0.0
+"Missouri, Clinton",Missouri,Clinton,459.0,386.0,69.0,4.0,0.0,0.0,0.0
+"Missouri, Greene",Missouri,Greene,730.0,628.0,101.0,1.0,0.0,0.0,0.0
+"Missouri, Jackson",Missouri,Jackson,730.0,542.0,186.0,2.0,0.0,0.0,0.0
+"Missouri, Jasper",Missouri,Jasper,729.0,625.0,98.0,6.0,0.0,0.0,0.0
+"Missouri, Jefferson",Missouri,Jefferson,726.0,490.0,232.0,4.0,0.0,0.0,0.0
+"Missouri, Lincoln",Missouri,Lincoln,455.0,391.0,63.0,1.0,0.0,0.0,0.0
+"Missouri, Monroe",Missouri,Monroe,597.0,568.0,29.0,0.0,0.0,0.0,0.0
+"Missouri, Perry",Missouri,Perry,456.0,384.0,68.0,4.0,0.0,0.0,0.0
+"Missouri, Saint Charles",Missouri,Saint Charles,609.0,508.0,90.0,10.0,1.0,0.0,0.0
+"Missouri, Saint Louis",Missouri,Saint Louis,730.0,429.0,294.0,7.0,0.0,0.0,0.0
+"Missouri, Sainte Genevieve",Missouri,Sainte Genevieve,609.0,516.0,90.0,3.0,0.0,0.0,0.0
+"Missouri, St. Louis City",Missouri,St. Louis City,730.0,366.0,356.0,7.0,1.0,0.0,0.0
+"Missouri, Stoddard",Missouri,Stoddard,212.0,189.0,23.0,0.0,0.0,0.0,0.0
+"Missouri, Taney",Missouri,Taney,241.0,224.0,17.0,0.0,0.0,0.0,0.0
+"Montana, Cascade",Montana,Cascade,728.0,660.0,67.0,1.0,0.0,0.0,0.0
+"Montana, Fergus",Montana,Fergus,475.0,458.0,17.0,0.0,0.0,0.0,0.0
+"Montana, Flathead",Montana,Flathead,730.0,531.0,198.0,1.0,0.0,0.0,0.0
+"Montana, Gallatin",Montana,Gallatin,730.0,624.0,105.0,1.0,0.0,0.0,0.0
+"Montana, Lake",Montana,Lake,212.0,212.0,0.0,0.0,0.0,0.0,0.0
+"Montana, Lewis and Clark",Montana,Lewis and Clark,723.0,594.0,124.0,5.0,0.0,0.0,0.0
+"Montana, Lincoln",Montana,Lincoln,728.0,454.0,271.0,3.0,0.0,0.0,0.0
+"Montana, Missoula",Montana,Missoula,729.0,496.0,210.0,20.0,3.0,0.0,0.0
+"Montana, Phillips",Montana,Phillips,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Montana, Powder River",Montana,Powder River,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Montana, Powell",Montana,Powell,226.0,223.0,3.0,0.0,0.0,0.0,0.0
+"Montana, Ravalli",Montana,Ravalli,697.0,619.0,78.0,0.0,0.0,0.0,0.0
+"Montana, Richland",Montana,Richland,728.0,666.0,62.0,0.0,0.0,0.0,0.0
+"Montana, Roosevelt",Montana,Roosevelt,195.0,195.0,0.0,0.0,0.0,0.0,0.0
+"Montana, Rosebud",Montana,Rosebud,729.0,692.0,34.0,3.0,0.0,0.0,0.0
+"Montana, Sanders",Montana,Sanders,486.0,441.0,45.0,0.0,0.0,0.0,0.0
+"Montana, Sheridan",Montana,Sheridan,224.0,223.0,1.0,0.0,0.0,0.0,0.0
+"Montana, Silver Bow",Montana,Silver Bow,727.0,615.0,106.0,6.0,0.0,0.0,0.0
+"Montana, Yellowstone",Montana,Yellowstone,657.0,642.0,14.0,0.0,1.0,0.0,0.0
+"Nebraska, Cass",Nebraska,Cass,708.0,692.0,16.0,0.0,0.0,0.0,0.0
+"Nebraska, Douglas",Nebraska,Douglas,730.0,570.0,159.0,1.0,0.0,0.0,0.0
+"Nebraska, Hall",Nebraska,Hall,215.0,196.0,19.0,0.0,0.0,0.0,0.0
+"Nebraska, Knox",Nebraska,Knox,715.0,687.0,28.0,0.0,0.0,0.0,0.0
+"Nebraska, Lancaster",Nebraska,Lancaster,653.0,609.0,42.0,0.0,1.0,1.0,0.0
+"Nebraska, Sarpy",Nebraska,Sarpy,447.0,375.0,71.0,1.0,0.0,0.0,0.0
+"Nebraska, Scotts Bluff",Nebraska,Scotts Bluff,179.0,175.0,4.0,0.0,0.0,0.0,0.0
+"Nebraska, Thomas",Nebraska,Thomas,225.0,220.0,5.0,0.0,0.0,0.0,0.0
+"Nebraska, Washington",Nebraska,Washington,232.0,203.0,28.0,1.0,0.0,0.0,0.0
+"Nevada, Carson City",Nevada,Carson City,473.0,396.0,75.0,2.0,0.0,0.0,0.0
+"Nevada, Churchill",Nevada,Churchill,548.0,493.0,54.0,1.0,0.0,0.0,0.0
+"Nevada, Clark",Nevada,Clark,730.0,288.0,415.0,27.0,0.0,0.0,0.0
+"Nevada, Douglas",Nevada,Douglas,693.0,683.0,10.0,0.0,0.0,0.0,0.0
+"Nevada, Elko",Nevada,Elko,684.0,671.0,12.0,1.0,0.0,0.0,0.0
+"Nevada, Lyon",Nevada,Lyon,517.0,487.0,30.0,0.0,0.0,0.0,0.0
+"Nevada, Nye",Nevada,Nye,717.0,680.0,31.0,5.0,1.0,0.0,0.0
+"Nevada, Washoe",Nevada,Washoe,730.0,474.0,252.0,4.0,0.0,0.0,0.0
+"Nevada, White Pine",Nevada,White Pine,712.0,561.0,148.0,3.0,0.0,0.0,0.0
+"New Hampshire, Belknap",New Hampshire,Belknap,525.0,503.0,22.0,0.0,0.0,0.0,0.0
+"New Hampshire, Cheshire",New Hampshire,Cheshire,725.0,598.0,125.0,2.0,0.0,0.0,0.0
+"New Hampshire, Coos",New Hampshire,Coos,628.0,572.0,55.0,1.0,0.0,0.0,0.0
+"New Hampshire, Grafton",New Hampshire,Grafton,728.0,666.0,62.0,0.0,0.0,0.0,0.0
+"New Hampshire, Hillsborough",New Hampshire,Hillsborough,730.0,670.0,55.0,5.0,0.0,0.0,0.0
+"New Hampshire, Merrimack",New Hampshire,Merrimack,451.0,412.0,38.0,1.0,0.0,0.0,0.0
+"New Hampshire, Rockingham",New Hampshire,Rockingham,671.0,617.0,50.0,4.0,0.0,0.0,0.0
+"New Jersey, Atlantic",New Jersey,Atlantic,726.0,593.0,128.0,5.0,0.0,0.0,0.0
+"New Jersey, Bergen",New Jersey,Bergen,730.0,409.0,303.0,18.0,0.0,0.0,0.0
+"New Jersey, Camden",New Jersey,Camden,730.0,510.0,210.0,10.0,0.0,0.0,0.0
+"New Jersey, Cumberland",New Jersey,Cumberland,726.0,532.0,187.0,7.0,0.0,0.0,0.0
+"New Jersey, Essex",New Jersey,Essex,730.0,585.0,144.0,1.0,0.0,0.0,0.0
+"New Jersey, Gloucester",New Jersey,Gloucester,643.0,539.0,99.0,5.0,0.0,0.0,0.0
+"New Jersey, Hudson",New Jersey,Hudson,730.0,478.0,247.0,5.0,0.0,0.0,0.0
+"New Jersey, Hunterdon",New Jersey,Hunterdon,726.0,565.0,157.0,4.0,0.0,0.0,0.0
+"New Jersey, Mercer",New Jersey,Mercer,730.0,538.0,184.0,8.0,0.0,0.0,0.0
+"New Jersey, Middlesex",New Jersey,Middlesex,727.0,567.0,156.0,4.0,0.0,0.0,0.0
+"New Jersey, Monmouth",New Jersey,Monmouth,605.0,554.0,46.0,5.0,0.0,0.0,0.0
+"New Jersey, Morris",New Jersey,Morris,729.0,650.0,78.0,1.0,0.0,0.0,0.0
+"New Jersey, Ocean",New Jersey,Ocean,706.0,558.0,140.0,8.0,0.0,0.0,0.0
+"New Jersey, Passaic",New Jersey,Passaic,556.0,475.0,78.0,3.0,0.0,0.0,0.0
+"New Jersey, Union",New Jersey,Union,730.0,448.0,281.0,1.0,0.0,0.0,0.0
+"New Jersey, Warren",New Jersey,Warren,481.0,417.0,63.0,1.0,0.0,0.0,0.0
+"New Mexico, Bernalillo",New Mexico,Bernalillo,730.0,308.0,415.0,7.0,0.0,0.0,0.0
+"New Mexico, Catron",New Mexico,Catron,226.0,226.0,0.0,0.0,0.0,0.0,0.0
+"New Mexico, Chaves",New Mexico,Chaves,281.0,275.0,6.0,0.0,0.0,0.0,0.0
+"New Mexico, Dona Ana",New Mexico,Dona Ana,730.0,294.0,398.0,30.0,4.0,2.0,2.0
+"New Mexico, Eddy",New Mexico,Eddy,730.0,508.0,201.0,19.0,2.0,0.0,0.0
+"New Mexico, Lea",New Mexico,Lea,730.0,580.0,143.0,6.0,1.0,0.0,0.0
+"New Mexico, Lincoln",New Mexico,Lincoln,215.0,214.0,1.0,0.0,0.0,0.0,0.0
+"New Mexico, Los Alamos",New Mexico,Los Alamos,226.0,225.0,1.0,0.0,0.0,0.0,0.0
+"New Mexico, Luna",New Mexico,Luna,725.0,695.0,27.0,2.0,0.0,0.0,1.0
+"New Mexico, Rio Arriba",New Mexico,Rio Arriba,469.0,426.0,43.0,0.0,0.0,0.0,0.0
+"New Mexico, San Juan",New Mexico,San Juan,730.0,523.0,207.0,0.0,0.0,0.0,0.0
+"New Mexico, Sandoval",New Mexico,Sandoval,728.0,525.0,203.0,0.0,0.0,0.0,0.0
+"New Mexico, Santa Fe",New Mexico,Santa Fe,727.0,587.0,139.0,1.0,0.0,0.0,0.0
+"New Mexico, Socorro",New Mexico,Socorro,205.0,205.0,0.0,0.0,0.0,0.0,0.0
+"New Mexico, Taos",New Mexico,Taos,718.0,693.0,25.0,0.0,0.0,0.0,0.0
+"New Mexico, Valencia",New Mexico,Valencia,722.0,598.0,124.0,0.0,0.0,0.0,0.0
+"New York, Albany",New York,Albany,730.0,591.0,136.0,3.0,0.0,0.0,0.0
+"New York, Bronx",New York,Bronx,730.0,480.0,239.0,11.0,0.0,0.0,0.0
+"New York, Chautauqua",New York,Chautauqua,708.0,624.0,80.0,4.0,0.0,0.0,0.0
+"New York, Dutchess",New York,Dutchess,692.0,656.0,33.0,3.0,0.0,0.0,0.0
+"New York, Erie",New York,Erie,730.0,541.0,186.0,3.0,0.0,0.0,0.0
+"New York, Essex",New York,Essex,729.0,643.0,84.0,2.0,0.0,0.0,0.0
+"New York, Hamilton",New York,Hamilton,684.0,653.0,29.0,2.0,0.0,0.0,0.0
+"New York, Herkimer",New York,Herkimer,547.0,523.0,23.0,1.0,0.0,0.0,0.0
+"New York, Jefferson",New York,Jefferson,529.0,497.0,29.0,2.0,1.0,0.0,0.0
+"New York, Kings",New York,Kings,730.0,578.0,151.0,1.0,0.0,0.0,0.0
+"New York, Monroe",New York,Monroe,730.0,630.0,98.0,1.0,1.0,0.0,0.0
+"New York, Nassau",New York,Nassau,725.0,604.0,120.0,1.0,0.0,0.0,0.0
+"New York, New York",New York,New York,730.0,460.0,263.0,7.0,0.0,0.0,0.0
+"New York, Niagara",New York,Niagara,717.0,617.0,98.0,2.0,0.0,0.0,0.0
+"New York, Oneida",New York,Oneida,720.0,640.0,80.0,0.0,0.0,0.0,0.0
+"New York, Onondaga",New York,Onondaga,730.0,670.0,59.0,1.0,0.0,0.0,0.0
+"New York, Orange",New York,Orange,730.0,618.0,109.0,3.0,0.0,0.0,0.0
+"New York, Oswego",New York,Oswego,660.0,643.0,16.0,1.0,0.0,0.0,0.0
+"New York, Putnam",New York,Putnam,690.0,654.0,32.0,4.0,0.0,0.0,0.0
+"New York, Queens",New York,Queens,730.0,527.0,197.0,6.0,0.0,0.0,0.0
+"New York, Richmond",New York,Richmond,730.0,568.0,151.0,11.0,0.0,0.0,0.0
+"New York, Rockland",New York,Rockland,572.0,513.0,58.0,1.0,0.0,0.0,0.0
+"New York, Saratoga",New York,Saratoga,694.0,664.0,28.0,2.0,0.0,0.0,0.0
+"New York, Steuben",New York,Steuben,730.0,661.0,68.0,1.0,0.0,0.0,0.0
+"New York, Suffolk",New York,Suffolk,730.0,596.0,118.0,15.0,1.0,0.0,0.0
+"New York, Tompkins",New York,Tompkins,703.0,677.0,26.0,0.0,0.0,0.0,0.0
+"New York, Wayne",New York,Wayne,485.0,451.0,34.0,0.0,0.0,0.0,0.0
+"New York, Westchester",New York,Westchester,730.0,610.0,109.0,11.0,0.0,0.0,0.0
+"North Carolina, Alexander",North Carolina,Alexander,507.0,449.0,58.0,0.0,0.0,0.0,0.0
+"North Carolina, Avery",North Carolina,Avery,725.0,652.0,73.0,0.0,0.0,0.0,0.0
+"North Carolina, Buncombe",North Carolina,Buncombe,728.0,600.0,128.0,0.0,0.0,0.0,0.0
+"North Carolina, Caldwell",North Carolina,Caldwell,456.0,404.0,52.0,0.0,0.0,0.0,0.0
+"North Carolina, Carteret",North Carolina,Carteret,568.0,530.0,38.0,0.0,0.0,0.0,0.0
+"North Carolina, Caswell",North Carolina,Caswell,607.0,480.0,126.0,1.0,0.0,0.0,0.0
+"North Carolina, Catawba",North Carolina,Catawba,723.0,535.0,188.0,0.0,0.0,0.0,0.0
+"North Carolina, Cumberland",North Carolina,Cumberland,725.0,517.0,205.0,3.0,0.0,0.0,0.0
+"North Carolina, Davidson",North Carolina,Davidson,710.0,514.0,196.0,0.0,0.0,0.0,0.0
+"North Carolina, Durham",North Carolina,Durham,712.0,548.0,164.0,0.0,0.0,0.0,0.0
+"North Carolina, Edgecombe",North Carolina,Edgecombe,632.0,541.0,90.0,1.0,0.0,0.0,0.0
+"North Carolina, Forsyth",North Carolina,Forsyth,730.0,436.0,291.0,2.0,1.0,0.0,0.0
+"North Carolina, Graham",North Carolina,Graham,429.0,333.0,95.0,1.0,0.0,0.0,0.0
+"North Carolina, Granville",North Carolina,Granville,454.0,365.0,86.0,3.0,0.0,0.0,0.0
+"North Carolina, Guilford",North Carolina,Guilford,729.0,534.0,191.0,4.0,0.0,0.0,0.0
+"North Carolina, Haywood",North Carolina,Haywood,540.0,406.0,134.0,0.0,0.0,0.0,0.0
+"North Carolina, Hyde",North Carolina,Hyde,218.0,207.0,11.0,0.0,0.0,0.0,0.0
+"North Carolina, Jackson",North Carolina,Jackson,360.0,312.0,48.0,0.0,0.0,0.0,0.0
+"North Carolina, Johnston",North Carolina,Johnston,623.0,499.0,124.0,0.0,0.0,0.0,0.0
+"North Carolina, Lenoir",North Carolina,Lenoir,518.0,442.0,76.0,0.0,0.0,0.0,0.0
+"North Carolina, Lincoln",North Carolina,Lincoln,457.0,350.0,107.0,0.0,0.0,0.0,0.0
+"North Carolina, Macon",North Carolina,Macon,692.0,658.0,34.0,0.0,0.0,0.0,0.0
+"North Carolina, Martin",North Carolina,Martin,637.0,536.0,101.0,0.0,0.0,0.0,0.0
+"North Carolina, Mecklenburg",North Carolina,Mecklenburg,730.0,425.0,287.0,18.0,0.0,0.0,0.0
+"North Carolina, Mitchell",North Carolina,Mitchell,445.0,411.0,34.0,0.0,0.0,0.0,0.0
+"North Carolina, Montgomery",North Carolina,Montgomery,705.0,601.0,103.0,1.0,0.0,0.0,0.0
+"North Carolina, New Hanover",North Carolina,New Hanover,704.0,629.0,75.0,0.0,0.0,0.0,0.0
+"North Carolina, Northampton",North Carolina,Northampton,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"North Carolina, Person",North Carolina,Person,458.0,378.0,79.0,1.0,0.0,0.0,0.0
+"North Carolina, Pitt",North Carolina,Pitt,621.0,538.0,83.0,0.0,0.0,0.0,0.0
+"North Carolina, Rockingham",North Carolina,Rockingham,459.0,379.0,79.0,1.0,0.0,0.0,0.0
+"North Carolina, Rowan",North Carolina,Rowan,730.0,500.0,222.0,8.0,0.0,0.0,0.0
+"North Carolina, Swain",North Carolina,Swain,727.0,611.0,116.0,0.0,0.0,0.0,0.0
+"North Carolina, Union",North Carolina,Union,445.0,343.0,97.0,5.0,0.0,0.0,0.0
+"North Carolina, Wake",North Carolina,Wake,730.0,464.0,263.0,3.0,0.0,0.0,0.0
+"North Carolina, Yancey",North Carolina,Yancey,435.0,341.0,94.0,0.0,0.0,0.0,0.0
+"North Dakota, Billings",North Dakota,Billings,725.0,707.0,18.0,0.0,0.0,0.0,0.0
+"North Dakota, Burke",North Dakota,Burke,719.0,691.0,28.0,0.0,0.0,0.0,0.0
+"North Dakota, Burleigh",North Dakota,Burleigh,730.0,666.0,64.0,0.0,0.0,0.0,0.0
+"North Dakota, Cass",North Dakota,Cass,728.0,666.0,58.0,3.0,1.0,0.0,0.0
+"North Dakota, Dunn",North Dakota,Dunn,717.0,697.0,20.0,0.0,0.0,0.0,0.0
+"North Dakota, McKenzie",North Dakota,McKenzie,726.0,705.0,21.0,0.0,0.0,0.0,0.0
+"North Dakota, Mercer",North Dakota,Mercer,730.0,698.0,32.0,0.0,0.0,0.0,0.0
+"North Dakota, Oliver",North Dakota,Oliver,730.0,693.0,37.0,0.0,0.0,0.0,0.0
+"North Dakota, Ward",North Dakota,Ward,393.0,376.0,17.0,0.0,0.0,0.0,0.0
+"North Dakota, Williams",North Dakota,Williams,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Ohio, Adams",Ohio,Adams,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Ohio, Allen",Ohio,Allen,564.0,460.0,100.0,4.0,0.0,0.0,0.0
+"Ohio, Ashtabula",Ohio,Ashtabula,459.0,396.0,57.0,6.0,0.0,0.0,0.0
+"Ohio, Athens",Ohio,Athens,485.0,425.0,59.0,1.0,0.0,0.0,0.0
+"Ohio, Belmont",Ohio,Belmont,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Ohio, Butler",Ohio,Butler,727.0,507.0,206.0,14.0,0.0,0.0,0.0
+"Ohio, Clark",Ohio,Clark,626.0,391.0,225.0,10.0,0.0,0.0,0.0
+"Ohio, Clermont",Ohio,Clermont,622.0,467.0,149.0,6.0,0.0,0.0,0.0
+"Ohio, Clinton",Ohio,Clinton,454.0,358.0,93.0,3.0,0.0,0.0,0.0
+"Ohio, Columbiana",Ohio,Columbiana,123.0,122.0,1.0,0.0,0.0,0.0,0.0
+"Ohio, Cuyahoga",Ohio,Cuyahoga,730.0,447.0,272.0,11.0,0.0,0.0,0.0
+"Ohio, Delaware",Ohio,Delaware,455.0,384.0,69.0,2.0,0.0,0.0,0.0
+"Ohio, Fayette",Ohio,Fayette,711.0,642.0,69.0,0.0,0.0,0.0,0.0
+"Ohio, Franklin",Ohio,Franklin,725.0,505.0,214.0,6.0,0.0,0.0,0.0
+"Ohio, Geauga",Ohio,Geauga,441.0,364.0,72.0,5.0,0.0,0.0,0.0
+"Ohio, Greene",Ohio,Greene,507.0,391.0,111.0,5.0,0.0,0.0,0.0
+"Ohio, Hamilton",Ohio,Hamilton,730.0,314.0,402.0,14.0,0.0,0.0,0.0
+"Ohio, Harrison",Ohio,Harrison,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Ohio, Jefferson",Ohio,Jefferson,627.0,412.0,211.0,3.0,1.0,0.0,0.0
+"Ohio, Knox",Ohio,Knox,457.0,402.0,55.0,0.0,0.0,0.0,0.0
+"Ohio, Lake",Ohio,Lake,730.0,600.0,116.0,12.0,2.0,0.0,0.0
+"Ohio, Lawrence",Ohio,Lawrence,629.0,500.0,127.0,2.0,0.0,0.0,0.0
+"Ohio, Licking",Ohio,Licking,459.0,392.0,64.0,3.0,0.0,0.0,0.0
+"Ohio, Lorain",Ohio,Lorain,625.0,515.0,109.0,1.0,0.0,0.0,0.0
+"Ohio, Lucas",Ohio,Lucas,716.0,523.0,185.0,7.0,1.0,0.0,0.0
+"Ohio, Madison",Ohio,Madison,459.0,378.0,80.0,1.0,0.0,0.0,0.0
+"Ohio, Mahoning",Ohio,Mahoning,655.0,504.0,151.0,0.0,0.0,0.0,0.0
+"Ohio, Medina",Ohio,Medina,657.0,515.0,140.0,2.0,0.0,0.0,0.0
+"Ohio, Miami",Ohio,Miami,455.0,398.0,53.0,4.0,0.0,0.0,0.0
+"Ohio, Montgomery",Ohio,Montgomery,730.0,469.0,254.0,7.0,0.0,0.0,0.0
+"Ohio, Noble",Ohio,Noble,714.0,624.0,88.0,2.0,0.0,0.0,0.0
+"Ohio, Portage",Ohio,Portage,529.0,452.0,77.0,0.0,0.0,0.0,0.0
+"Ohio, Preble",Ohio,Preble,625.0,450.0,173.0,2.0,0.0,0.0,0.0
+"Ohio, Scioto",Ohio,Scioto,730.0,679.0,51.0,0.0,0.0,0.0,0.0
+"Ohio, Stark",Ohio,Stark,730.0,422.0,306.0,2.0,0.0,0.0,0.0
+"Ohio, Summit",Ohio,Summit,728.0,473.0,248.0,7.0,0.0,0.0,0.0
+"Ohio, Trumbull",Ohio,Trumbull,601.0,492.0,105.0,4.0,0.0,0.0,0.0
+"Ohio, Warren",Ohio,Warren,624.0,451.0,162.0,11.0,0.0,0.0,0.0
+"Ohio, Washington",Ohio,Washington,459.0,391.0,68.0,0.0,0.0,0.0,0.0
+"Ohio, Wood",Ohio,Wood,458.0,404.0,53.0,1.0,0.0,0.0,0.0
+"Oklahoma, Adair",Oklahoma,Adair,723.0,583.0,140.0,0.0,0.0,0.0,0.0
+"Oklahoma, Canadian",Oklahoma,Canadian,718.0,601.0,112.0,5.0,0.0,0.0,0.0
+"Oklahoma, Carter",Oklahoma,Carter,696.0,536.0,158.0,0.0,2.0,0.0,0.0
+"Oklahoma, Choctaw",Oklahoma,Choctaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Oklahoma, Cleveland",Oklahoma,Cleveland,730.0,451.0,278.0,1.0,0.0,0.0,0.0
+"Oklahoma, Comanche",Oklahoma,Comanche,725.0,471.0,251.0,3.0,0.0,0.0,0.0
+"Oklahoma, Creek",Oklahoma,Creek,721.0,640.0,76.0,5.0,0.0,0.0,0.0
+"Oklahoma, Custer",Oklahoma,Custer,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Oklahoma, Dewey",Oklahoma,Dewey,728.0,539.0,188.0,1.0,0.0,0.0,0.0
+"Oklahoma, Grant",Oklahoma,Grant,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Oklahoma, Johnston",Oklahoma,Johnston,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Oklahoma, Kay",Oklahoma,Kay,728.0,470.0,253.0,4.0,1.0,0.0,0.0
+"Oklahoma, Le Flore",Oklahoma,Le Flore,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Oklahoma, Mayes",Oklahoma,Mayes,639.0,544.0,92.0,3.0,0.0,0.0,0.0
+"Oklahoma, Muskogee",Oklahoma,Muskogee,499.0,422.0,75.0,1.0,1.0,0.0,0.0
+"Oklahoma, Nowata",Oklahoma,Nowata,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Oklahoma, Oklahoma",Oklahoma,Oklahoma,730.0,427.0,288.0,15.0,0.0,0.0,0.0
+"Oklahoma, Osage",Oklahoma,Osage,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Oklahoma, Ottawa",Oklahoma,Ottawa,706.0,523.0,180.0,3.0,0.0,0.0,0.0
+"Oklahoma, Pittsburg",Oklahoma,Pittsburg,730.0,484.0,243.0,3.0,0.0,0.0,0.0
+"Oklahoma, Sequoyah",Oklahoma,Sequoyah,705.0,620.0,85.0,0.0,0.0,0.0,0.0
+"Oklahoma, Tulsa",Oklahoma,Tulsa,730.0,421.0,292.0,16.0,1.0,0.0,0.0
+"Oregon, Baker",Oregon,Baker,721.0,626.0,95.0,0.0,0.0,0.0,0.0
+"Oregon, Benton",Oregon,Benton,730.0,653.0,77.0,0.0,0.0,0.0,0.0
+"Oregon, Clackamas",Oregon,Clackamas,450.0,416.0,30.0,4.0,0.0,0.0,0.0
+"Oregon, Columbia",Oregon,Columbia,718.0,688.0,29.0,1.0,0.0,0.0,0.0
+"Oregon, Coos",Oregon,Coos,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Oregon, Crook",Oregon,Crook,730.0,575.0,149.0,6.0,0.0,0.0,0.0
+"Oregon, Deschutes",Oregon,Deschutes,728.0,668.0,54.0,5.0,1.0,0.0,0.0
+"Oregon, Douglas",Oregon,Douglas,707.0,604.0,101.0,2.0,0.0,0.0,0.0
+"Oregon, Grant",Oregon,Grant,685.0,502.0,180.0,3.0,0.0,0.0,0.0
+"Oregon, Harney",Oregon,Harney,724.0,525.0,194.0,5.0,0.0,0.0,0.0
+"Oregon, Jackson",Oregon,Jackson,730.0,537.0,177.0,10.0,6.0,0.0,0.0
+"Oregon, Jefferson",Oregon,Jefferson,730.0,582.0,145.0,2.0,1.0,0.0,0.0
+"Oregon, Josephine",Oregon,Josephine,730.0,552.0,169.0,7.0,2.0,0.0,0.0
+"Oregon, Klamath",Oregon,Klamath,729.0,476.0,237.0,12.0,4.0,0.0,0.0
+"Oregon, Lake",Oregon,Lake,726.0,589.0,115.0,16.0,6.0,0.0,0.0
+"Oregon, Lane",Oregon,Lane,730.0,477.0,219.0,31.0,3.0,0.0,0.0
+"Oregon, Linn",Oregon,Linn,730.0,536.0,186.0,7.0,1.0,0.0,0.0
+"Oregon, Marion",Oregon,Marion,717.0,587.0,129.0,1.0,0.0,0.0,0.0
+"Oregon, Multnomah",Oregon,Multnomah,730.0,602.0,125.0,3.0,0.0,0.0,0.0
+"Oregon, Umatilla",Oregon,Umatilla,730.0,559.0,169.0,2.0,0.0,0.0,0.0
+"Oregon, Union",Oregon,Union,730.0,635.0,95.0,0.0,0.0,0.0,0.0
+"Oregon, Wallowa",Oregon,Wallowa,726.0,656.0,69.0,1.0,0.0,0.0,0.0
+"Oregon, Wasco",Oregon,Wasco,715.0,616.0,99.0,0.0,0.0,0.0,0.0
+"Oregon, Washington",Oregon,Washington,730.0,572.0,151.0,7.0,0.0,0.0,0.0
+"Pennsylvania, Adams",Pennsylvania,Adams,730.0,508.0,220.0,2.0,0.0,0.0,0.0
+"Pennsylvania, Allegheny",Pennsylvania,Allegheny,730.0,237.0,449.0,35.0,9.0,0.0,0.0
+"Pennsylvania, Armstrong",Pennsylvania,Armstrong,638.0,503.0,130.0,5.0,0.0,0.0,0.0
+"Pennsylvania, Beaver",Pennsylvania,Beaver,730.0,430.0,299.0,1.0,0.0,0.0,0.0
+"Pennsylvania, Berks",Pennsylvania,Berks,730.0,507.0,210.0,12.0,1.0,0.0,0.0
+"Pennsylvania, Blair",Pennsylvania,Blair,717.0,617.0,100.0,0.0,0.0,0.0,0.0
+"Pennsylvania, Bradford",Pennsylvania,Bradford,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Pennsylvania, Bucks",Pennsylvania,Bucks,722.0,542.0,169.0,11.0,0.0,0.0,0.0
+"Pennsylvania, Cambria",Pennsylvania,Cambria,730.0,486.0,243.0,1.0,0.0,0.0,0.0
+"Pennsylvania, Centre",Pennsylvania,Centre,730.0,518.0,212.0,0.0,0.0,0.0,0.0
+"Pennsylvania, Chester",Pennsylvania,Chester,712.0,419.0,287.0,6.0,0.0,0.0,0.0
+"Pennsylvania, Clearfield",Pennsylvania,Clearfield,565.0,532.0,30.0,3.0,0.0,0.0,0.0
+"Pennsylvania, Cumberland",Pennsylvania,Cumberland,730.0,442.0,277.0,11.0,0.0,0.0,0.0
+"Pennsylvania, Dauphin",Pennsylvania,Dauphin,729.0,494.0,224.0,10.0,1.0,0.0,0.0
+"Pennsylvania, Delaware",Pennsylvania,Delaware,728.0,427.0,288.0,13.0,0.0,0.0,0.0
+"Pennsylvania, Elk",Pennsylvania,Elk,700.0,662.0,37.0,1.0,0.0,0.0,0.0
+"Pennsylvania, Erie",Pennsylvania,Erie,729.0,588.0,137.0,4.0,0.0,0.0,0.0
+"Pennsylvania, Fayette",Pennsylvania,Fayette,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Pennsylvania, Franklin",Pennsylvania,Franklin,549.0,520.0,29.0,0.0,0.0,0.0,0.0
+"Pennsylvania, Greene",Pennsylvania,Greene,563.0,503.0,59.0,1.0,0.0,0.0,0.0
+"Pennsylvania, Indiana",Pennsylvania,Indiana,561.0,506.0,53.0,2.0,0.0,0.0,0.0
+"Pennsylvania, Lackawanna",Pennsylvania,Lackawanna,730.0,592.0,136.0,2.0,0.0,0.0,0.0
+"Pennsylvania, Lancaster",Pennsylvania,Lancaster,730.0,441.0,275.0,13.0,1.0,0.0,0.0
+"Pennsylvania, Lawrence",Pennsylvania,Lawrence,726.0,700.0,25.0,1.0,0.0,0.0,0.0
+"Pennsylvania, Lebanon",Pennsylvania,Lebanon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Pennsylvania, Lehigh",Pennsylvania,Lehigh,722.0,629.0,88.0,5.0,0.0,0.0,0.0
+"Pennsylvania, Luzerne",Pennsylvania,Luzerne,726.0,703.0,23.0,0.0,0.0,0.0,0.0
+"Pennsylvania, Lycoming",Pennsylvania,Lycoming,597.0,559.0,38.0,0.0,0.0,0.0,0.0
+"Pennsylvania, Mercer",Pennsylvania,Mercer,730.0,516.0,208.0,6.0,0.0,0.0,0.0
+"Pennsylvania, Monroe",Pennsylvania,Monroe,516.0,499.0,17.0,0.0,0.0,0.0,0.0
+"Pennsylvania, Montgomery",Pennsylvania,Montgomery,704.0,522.0,178.0,4.0,0.0,0.0,0.0
+"Pennsylvania, Northampton",Pennsylvania,Northampton,728.0,499.0,223.0,6.0,0.0,0.0,0.0
+"Pennsylvania, Philadelphia",Pennsylvania,Philadelphia,730.0,427.0,289.0,14.0,0.0,0.0,0.0
+"Pennsylvania, Somerset",Pennsylvania,Somerset,708.0,657.0,50.0,1.0,0.0,0.0,0.0
+"Pennsylvania, Susquehanna",Pennsylvania,Susquehanna,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Pennsylvania, Tioga",Pennsylvania,Tioga,560.0,524.0,36.0,0.0,0.0,0.0,0.0
+"Pennsylvania, Washington",Pennsylvania,Washington,730.0,416.0,312.0,2.0,0.0,0.0,0.0
+"Pennsylvania, Westmoreland",Pennsylvania,Westmoreland,698.0,489.0,206.0,3.0,0.0,0.0,0.0
+"Pennsylvania, Wyoming",Pennsylvania,Wyoming,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Pennsylvania, York",Pennsylvania,York,730.0,503.0,222.0,5.0,0.0,0.0,0.0
+"Puerto Rico, Adjuntas",Puerto Rico,Adjuntas,161.0,152.0,9.0,0.0,0.0,0.0,0.0
+"Puerto Rico, Bayamon",Puerto Rico,Bayamon,525.0,511.0,14.0,0.0,0.0,0.0,0.0
+"Puerto Rico, Caguas",Puerto Rico,Caguas,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Puerto Rico, Catano",Puerto Rico,Catano,711.0,569.0,131.0,10.0,1.0,0.0,0.0
+"Puerto Rico, Fajardo",Puerto Rico,Fajardo,302.0,281.0,21.0,0.0,0.0,0.0,0.0
+"Puerto Rico, Guayama",Puerto Rico,Guayama,105.0,102.0,3.0,0.0,0.0,0.0,0.0
+"Puerto Rico, Guaynabo",Puerto Rico,Guaynabo,546.0,496.0,46.0,4.0,0.0,0.0,0.0
+"Puerto Rico, Mayagnez",Puerto Rico,Mayagnez,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Puerto Rico, Ponce",Puerto Rico,Ponce,458.0,347.0,105.0,6.0,0.0,0.0,0.0
+"Puerto Rico, San Juan",Puerto Rico,San Juan,642.0,637.0,5.0,0.0,0.0,0.0,0.0
+"Rhode Island, Kent",Rhode Island,Kent,672.0,606.0,63.0,3.0,0.0,0.0,0.0
+"Rhode Island, Providence",Rhode Island,Providence,730.0,571.0,157.0,2.0,0.0,0.0,0.0
+"Rhode Island, Washington",Rhode Island,Washington,535.0,474.0,56.0,5.0,0.0,0.0,0.0
+"South Carolina, Aiken",South Carolina,Aiken,552.0,475.0,75.0,2.0,0.0,0.0,0.0
+"South Carolina, Anderson",South Carolina,Anderson,588.0,514.0,73.0,1.0,0.0,0.0,0.0
+"South Carolina, Berkeley",South Carolina,Berkeley,490.0,457.0,33.0,0.0,0.0,0.0,0.0
+"South Carolina, Charleston",South Carolina,Charleston,722.0,551.0,170.0,1.0,0.0,0.0,0.0
+"South Carolina, Chesterfield",South Carolina,Chesterfield,725.0,575.0,150.0,0.0,0.0,0.0,0.0
+"South Carolina, Colleton",South Carolina,Colleton,354.0,334.0,20.0,0.0,0.0,0.0,0.0
+"South Carolina, Darlington",South Carolina,Darlington,570.0,494.0,76.0,0.0,0.0,0.0,0.0
+"South Carolina, Edgefield",South Carolina,Edgefield,728.0,606.0,122.0,0.0,0.0,0.0,0.0
+"South Carolina, Florence",South Carolina,Florence,477.0,403.0,74.0,0.0,0.0,0.0,0.0
+"South Carolina, Georgetown",South Carolina,Georgetown,457.0,442.0,15.0,0.0,0.0,0.0,0.0
+"South Carolina, Greenville",South Carolina,Greenville,730.0,430.0,298.0,2.0,0.0,0.0,0.0
+"South Carolina, Horry",South Carolina,Horry,408.0,348.0,60.0,0.0,0.0,0.0,0.0
+"South Carolina, Lexington",South Carolina,Lexington,730.0,544.0,186.0,0.0,0.0,0.0,0.0
+"South Carolina, Oconee",South Carolina,Oconee,676.0,567.0,107.0,2.0,0.0,0.0,0.0
+"South Carolina, Pickens",South Carolina,Pickens,600.0,484.0,115.0,1.0,0.0,0.0,0.0
+"South Carolina, Richland",South Carolina,Richland,730.0,521.0,206.0,3.0,0.0,0.0,0.0
+"South Carolina, Spartanburg",South Carolina,Spartanburg,721.0,467.0,251.0,3.0,0.0,0.0,0.0
+"South Carolina, York",South Carolina,York,653.0,534.0,111.0,8.0,0.0,0.0,0.0
+"South Dakota, Brookings",South Dakota,Brookings,724.0,610.0,108.0,6.0,0.0,0.0,0.0
+"South Dakota, Brown",South Dakota,Brown,244.0,215.0,29.0,0.0,0.0,0.0,0.0
+"South Dakota, Codington",South Dakota,Codington,724.0,653.0,70.0,1.0,0.0,0.0,0.0
+"South Dakota, Custer",South Dakota,Custer,727.0,689.0,34.0,1.0,2.0,0.0,1.0
+"South Dakota, Hughes",South Dakota,Hughes,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"South Dakota, Jackson",South Dakota,Jackson,730.0,706.0,24.0,0.0,0.0,0.0,0.0
+"South Dakota, Meade",South Dakota,Meade,726.0,709.0,17.0,0.0,0.0,0.0,0.0
+"South Dakota, Minnehaha",South Dakota,Minnehaha,730.0,594.0,134.0,2.0,0.0,0.0,0.0
+"South Dakota, Pennington",South Dakota,Pennington,726.0,573.0,149.0,4.0,0.0,0.0,0.0
+"South Dakota, Union",South Dakota,Union,729.0,610.0,118.0,1.0,0.0,0.0,0.0
+"Tennessee, Anderson",Tennessee,Anderson,476.0,381.0,93.0,2.0,0.0,0.0,0.0
+"Tennessee, Blount",Tennessee,Blount,730.0,593.0,134.0,3.0,0.0,0.0,0.0
+"Tennessee, Claiborne",Tennessee,Claiborne,706.0,661.0,45.0,0.0,0.0,0.0,0.0
+"Tennessee, Davidson",Tennessee,Davidson,730.0,468.0,261.0,1.0,0.0,0.0,0.0
+"Tennessee, DeKalb",Tennessee,DeKalb,699.0,629.0,70.0,0.0,0.0,0.0,0.0
+"Tennessee, Dyer",Tennessee,Dyer,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Tennessee, Hamilton",Tennessee,Hamilton,728.0,454.0,271.0,3.0,0.0,0.0,0.0
+"Tennessee, Jefferson",Tennessee,Jefferson,473.0,387.0,84.0,2.0,0.0,0.0,0.0
+"Tennessee, Knox",Tennessee,Knox,685.0,529.0,154.0,2.0,0.0,0.0,0.0
+"Tennessee, Lawrence",Tennessee,Lawrence,391.0,350.0,41.0,0.0,0.0,0.0,0.0
+"Tennessee, Loudon",Tennessee,Loudon,605.0,516.0,88.0,1.0,0.0,0.0,0.0
+"Tennessee, Madison",Tennessee,Madison,414.0,382.0,32.0,0.0,0.0,0.0,0.0
+"Tennessee, Maury",Tennessee,Maury,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Tennessee, McMinn",Tennessee,McMinn,712.0,671.0,41.0,0.0,0.0,0.0,0.0
+"Tennessee, Montgomery",Tennessee,Montgomery,424.0,384.0,40.0,0.0,0.0,0.0,0.0
+"Tennessee, Putnam",Tennessee,Putnam,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Tennessee, Roane",Tennessee,Roane,710.0,637.0,72.0,0.0,1.0,0.0,0.0
+"Tennessee, Sevier",Tennessee,Sevier,729.0,526.0,198.0,5.0,0.0,0.0,0.0
+"Tennessee, Shelby",Tennessee,Shelby,730.0,430.0,292.0,8.0,0.0,0.0,0.0
+"Tennessee, Sullivan",Tennessee,Sullivan,727.0,616.0,109.0,2.0,0.0,0.0,0.0
+"Tennessee, Sumner",Tennessee,Sumner,602.0,472.0,127.0,3.0,0.0,0.0,0.0
+"Tennessee, Williamson",Tennessee,Williamson,486.0,423.0,62.0,1.0,0.0,0.0,0.0
+"Tennessee, Wilson",Tennessee,Wilson,469.0,403.0,66.0,0.0,0.0,0.0,0.0
+"Texas, Bell",Texas,Bell,566.0,465.0,97.0,4.0,0.0,0.0,0.0
+"Texas, Bexar",Texas,Bexar,730.0,408.0,308.0,12.0,2.0,0.0,0.0
+"Texas, Bowie",Texas,Bowie,406.0,292.0,113.0,1.0,0.0,0.0,0.0
+"Texas, Brazoria",Texas,Brazoria,730.0,633.0,79.0,12.0,6.0,0.0,0.0
+"Texas, Brewster",Texas,Brewster,723.0,621.0,101.0,1.0,0.0,0.0,0.0
+"Texas, Cameron",Texas,Cameron,730.0,475.0,255.0,0.0,0.0,0.0,0.0
+"Texas, Collin",Texas,Collin,725.0,587.0,116.0,21.0,1.0,0.0,0.0
+"Texas, Culberson",Texas,Culberson,287.0,269.0,16.0,2.0,0.0,0.0,0.0
+"Texas, Dallas",Texas,Dallas,730.0,433.0,268.0,25.0,4.0,0.0,0.0
+"Texas, Denton",Texas,Denton,730.0,507.0,182.0,38.0,3.0,0.0,0.0
+"Texas, Ector",Texas,Ector,719.0,650.0,69.0,0.0,0.0,0.0,0.0
+"Texas, El Paso",Texas,El Paso,730.0,288.0,418.0,22.0,2.0,0.0,0.0
+"Texas, Ellis",Texas,Ellis,730.0,532.0,186.0,12.0,0.0,0.0,0.0
+"Texas, Galveston",Texas,Galveston,720.0,552.0,154.0,14.0,0.0,0.0,0.0
+"Texas, Gregg",Texas,Gregg,727.0,640.0,80.0,7.0,0.0,0.0,0.0
+"Texas, Harris",Texas,Harris,730.0,300.0,374.0,41.0,12.0,3.0,0.0
+"Texas, Harrison",Texas,Harrison,723.0,584.0,137.0,2.0,0.0,0.0,0.0
+"Texas, Hidalgo",Texas,Hidalgo,730.0,477.0,251.0,2.0,0.0,0.0,0.0
+"Texas, Hood",Texas,Hood,721.0,621.0,85.0,14.0,1.0,0.0,0.0
+"Texas, Hunt",Texas,Hunt,729.0,664.0,65.0,0.0,0.0,0.0,0.0
+"Texas, Jefferson",Texas,Jefferson,730.0,487.0,227.0,16.0,0.0,0.0,0.0
+"Texas, Johnson",Texas,Johnson,714.0,589.0,104.0,20.0,1.0,0.0,0.0
+"Texas, Kaufman",Texas,Kaufman,730.0,580.0,148.0,2.0,0.0,0.0,0.0
+"Texas, Kleberg",Texas,Kleberg,606.0,453.0,153.0,0.0,0.0,0.0,0.0
+"Texas, Lubbock",Texas,Lubbock,670.0,629.0,39.0,2.0,0.0,0.0,0.0
+"Texas, Maverick",Texas,Maverick,684.0,564.0,119.0,1.0,0.0,0.0,0.0
+"Texas, McLennan",Texas,McLennan,730.0,583.0,142.0,5.0,0.0,0.0,0.0
+"Texas, Montgomery",Texas,Montgomery,730.0,539.0,186.0,5.0,0.0,0.0,0.0
+"Texas, Navarro",Texas,Navarro,559.0,442.0,117.0,0.0,0.0,0.0,0.0
+"Texas, Nueces",Texas,Nueces,730.0,514.0,213.0,3.0,0.0,0.0,0.0
+"Texas, Orange",Texas,Orange,730.0,612.0,112.0,4.0,2.0,0.0,0.0
+"Texas, Parker",Texas,Parker,726.0,603.0,110.0,12.0,1.0,0.0,0.0
+"Texas, Polk",Texas,Polk,688.0,630.0,55.0,3.0,0.0,0.0,0.0
+"Texas, Potter",Texas,Potter,703.0,686.0,17.0,0.0,0.0,0.0,0.0
+"Texas, Randall",Texas,Randall,715.0,595.0,118.0,2.0,0.0,0.0,0.0
+"Texas, Rockwall",Texas,Rockwall,684.0,594.0,83.0,5.0,2.0,0.0,0.0
+"Texas, Smith",Texas,Smith,728.0,623.0,99.0,6.0,0.0,0.0,0.0
+"Texas, Tarrant",Texas,Tarrant,730.0,431.0,250.0,39.0,10.0,0.0,0.0
+"Texas, Travis",Texas,Travis,730.0,491.0,232.0,7.0,0.0,0.0,0.0
+"Texas, Victoria",Texas,Victoria,692.0,643.0,47.0,2.0,0.0,0.0,0.0
+"Texas, Webb",Texas,Webb,730.0,515.0,214.0,1.0,0.0,0.0,0.0
+"Utah, Box Elder",Utah,Box Elder,603.0,451.0,145.0,7.0,0.0,0.0,0.0
+"Utah, Cache",Utah,Cache,730.0,455.0,233.0,38.0,4.0,0.0,0.0
+"Utah, Carbon",Utah,Carbon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Utah, Davis",Utah,Davis,724.0,540.0,166.0,17.0,1.0,0.0,0.0
+"Utah, Duchesne",Utah,Duchesne,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Utah, Garfield",Utah,Garfield,417.0,373.0,44.0,0.0,0.0,0.0,0.0
+"Utah, Iron",Utah,Iron,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Utah, Salt Lake",Utah,Salt Lake,730.0,332.0,345.0,48.0,5.0,0.0,0.0
+"Utah, San Juan",Utah,San Juan,702.0,515.0,185.0,2.0,0.0,0.0,0.0
+"Utah, Tooele",Utah,Tooele,730.0,526.0,192.0,11.0,1.0,0.0,0.0
+"Utah, Uintah",Utah,Uintah,619.0,400.0,200.0,13.0,5.0,1.0,0.0
+"Utah, Utah",Utah,Utah,730.0,452.0,255.0,18.0,5.0,0.0,0.0
+"Utah, Washington",Utah,Washington,719.0,534.0,182.0,3.0,0.0,0.0,0.0
+"Utah, Wayne",Utah,Wayne,223.0,222.0,1.0,0.0,0.0,0.0,0.0
+"Utah, Weber",Utah,Weber,673.0,400.0,255.0,17.0,1.0,0.0,0.0
+"Vermont, Bennington",Vermont,Bennington,724.0,651.0,70.0,3.0,0.0,0.0,0.0
+"Vermont, Chittenden",Vermont,Chittenden,730.0,636.0,94.0,0.0,0.0,0.0,0.0
+"Vermont, Rutland",Vermont,Rutland,730.0,603.0,125.0,2.0,0.0,0.0,0.0
+"Vermont, Windham",Vermont,Windham,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Virgin Islands, St Croix",Virgin Islands,St Croix,300.0,268.0,32.0,0.0,0.0,0.0,0.0
+"Virgin Islands, St John",Virgin Islands,St John,216.0,198.0,17.0,1.0,0.0,0.0,0.0
+"Virgin Islands, St Thomas",Virgin Islands,St Thomas,380.0,328.0,52.0,0.0,0.0,0.0,0.0
+"Virginia, Albemarle",Virginia,Albemarle,546.0,483.0,63.0,0.0,0.0,0.0,0.0
+"Virginia, Alexandria City",Virginia,Alexandria City,474.0,442.0,32.0,0.0,0.0,0.0,0.0
+"Virginia, Arlington",Virginia,Arlington,730.0,605.0,121.0,4.0,0.0,0.0,0.0
+"Virginia, Bristol City",Virginia,Bristol City,235.0,203.0,32.0,0.0,0.0,0.0,0.0
+"Virginia, Caroline",Virginia,Caroline,446.0,412.0,34.0,0.0,0.0,0.0,0.0
+"Virginia, Carroll",Virginia,Carroll,108.0,108.0,0.0,0.0,0.0,0.0,0.0
+"Virginia, Charles",Virginia,Charles,721.0,648.0,73.0,0.0,0.0,0.0,0.0
+"Virginia, Chesterfield",Virginia,Chesterfield,539.0,459.0,80.0,0.0,0.0,0.0,0.0
+"Virginia, Fairfax",Virginia,Fairfax,730.0,494.0,229.0,7.0,0.0,0.0,0.0
+"Virginia, Fauquier",Virginia,Fauquier,446.0,425.0,21.0,0.0,0.0,0.0,0.0
+"Virginia, Frederick",Virginia,Frederick,626.0,535.0,90.0,1.0,0.0,0.0,0.0
+"Virginia, Giles",Virginia,Giles,667.0,597.0,70.0,0.0,0.0,0.0,0.0
+"Virginia, Hampton City",Virginia,Hampton City,463.0,420.0,43.0,0.0,0.0,0.0,0.0
+"Virginia, Hanover",Virginia,Hanover,457.0,392.0,64.0,1.0,0.0,0.0,0.0
+"Virginia, Henrico",Virginia,Henrico,728.0,584.0,143.0,1.0,0.0,0.0,0.0
+"Virginia, Hopewell City",Virginia,Hopewell City,116.0,116.0,0.0,0.0,0.0,0.0,0.0
+"Virginia, Loudoun",Virginia,Loudoun,699.0,598.0,100.0,1.0,0.0,0.0,0.0
+"Virginia, Lynchburg City",Virginia,Lynchburg City,230.0,209.0,21.0,0.0,0.0,0.0,0.0
+"Virginia, Madison",Virginia,Madison,723.0,653.0,68.0,2.0,0.0,0.0,0.0
+"Virginia, Norfolk City",Virginia,Norfolk City,666.0,629.0,37.0,0.0,0.0,0.0,0.0
+"Virginia, Prince Edward",Virginia,Prince Edward,712.0,678.0,34.0,0.0,0.0,0.0,0.0
+"Virginia, Prince William",Virginia,Prince William,727.0,678.0,49.0,0.0,0.0,0.0,0.0
+"Virginia, Richmond City",Virginia,Richmond City,727.0,669.0,58.0,0.0,0.0,0.0,0.0
+"Virginia, Roanoke",Virginia,Roanoke,730.0,665.0,65.0,0.0,0.0,0.0,0.0
+"Virginia, Rockbridge",Virginia,Rockbridge,537.0,502.0,35.0,0.0,0.0,0.0,0.0
+"Virginia, Rockingham",Virginia,Rockingham,728.0,663.0,64.0,1.0,0.0,0.0,0.0
+"Virginia, Salem City",Virginia,Salem City,239.0,205.0,34.0,0.0,0.0,0.0,0.0
+"Virginia, Stafford",Virginia,Stafford,474.0,437.0,37.0,0.0,0.0,0.0,0.0
+"Virginia, Suffolk City",Virginia,Suffolk City,459.0,400.0,59.0,0.0,0.0,0.0,0.0
+"Virginia, Virginia Beach City",Virginia,Virginia Beach City,463.0,367.0,96.0,0.0,0.0,0.0,0.0
+"Virginia, Winchester City",Virginia,Winchester City,114.0,114.0,0.0,0.0,0.0,0.0,0.0
+"Virginia, Wythe",Virginia,Wythe,456.0,427.0,29.0,0.0,0.0,0.0,0.0
+"Washington, Adams",Washington,Adams,725.0,714.0,11.0,0.0,0.0,0.0,0.0
+"Washington, Asotin",Washington,Asotin,713.0,590.0,122.0,1.0,0.0,0.0,0.0
+"Washington, Benton",Washington,Benton,726.0,627.0,98.0,0.0,1.0,0.0,0.0
+"Washington, Chelan",Washington,Chelan,730.0,568.0,161.0,1.0,0.0,0.0,0.0
+"Washington, Clallam",Washington,Clallam,729.0,645.0,84.0,0.0,0.0,0.0,0.0
+"Washington, Clark",Washington,Clark,729.0,576.0,143.0,9.0,1.0,0.0,0.0
+"Washington, Columbia",Washington,Columbia,726.0,694.0,32.0,0.0,0.0,0.0,0.0
+"Washington, Cowlitz",Washington,Cowlitz,708.0,661.0,47.0,0.0,0.0,0.0,0.0
+"Washington, Franklin",Washington,Franklin,698.0,665.0,33.0,0.0,0.0,0.0,0.0
+"Washington, Garfield",Washington,Garfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Washington, Grant",Washington,Grant,727.0,685.0,42.0,0.0,0.0,0.0,0.0
+"Washington, Grays Harbor",Washington,Grays Harbor,717.0,666.0,51.0,0.0,0.0,0.0,0.0
+"Washington, Jefferson",Washington,Jefferson,729.0,689.0,40.0,0.0,0.0,0.0,0.0
+"Washington, King",Washington,King,730.0,443.0,276.0,10.0,1.0,0.0,0.0
+"Washington, Kitsap",Washington,Kitsap,696.0,631.0,61.0,4.0,0.0,0.0,0.0
+"Washington, Kittitas",Washington,Kittitas,728.0,608.0,120.0,0.0,0.0,0.0,0.0
+"Washington, Klickitat",Washington,Klickitat,487.0,458.0,29.0,0.0,0.0,0.0,0.0
+"Washington, Lewis",Washington,Lewis,485.0,462.0,23.0,0.0,0.0,0.0,0.0
+"Washington, Mason",Washington,Mason,721.0,656.0,65.0,0.0,0.0,0.0,0.0
+"Washington, Okanogan",Washington,Okanogan,729.0,509.0,220.0,0.0,0.0,0.0,0.0
+"Washington, Pierce",Washington,Pierce,730.0,543.0,177.0,9.0,1.0,0.0,0.0
+"Washington, San Juan",Washington,San Juan,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Washington, Skagit",Washington,Skagit,729.0,717.0,12.0,0.0,0.0,0.0,0.0
+"Washington, Snohomish",Washington,Snohomish,729.0,520.0,195.0,14.0,0.0,0.0,0.0
+"Washington, Spokane",Washington,Spokane,730.0,586.0,143.0,1.0,0.0,0.0,0.0
+"Washington, Stevens",Washington,Stevens,730.0,540.0,189.0,1.0,0.0,0.0,0.0
+"Washington, Thurston",Washington,Thurston,729.0,625.0,102.0,2.0,0.0,0.0,0.0
+"Washington, Walla Walla",Washington,Walla Walla,730.0,640.0,90.0,0.0,0.0,0.0,0.0
+"Washington, Whatcom",Washington,Whatcom,728.0,682.0,46.0,0.0,0.0,0.0,0.0
+"Washington, Whitman",Washington,Whitman,730.0,708.0,22.0,0.0,0.0,0.0,0.0
+"Washington, Yakima",Washington,Yakima,730.0,494.0,216.0,19.0,1.0,0.0,0.0
+"West Virginia, Berkeley",West Virginia,Berkeley,541.0,438.0,101.0,2.0,0.0,0.0,0.0
+"West Virginia, Brooke",West Virginia,Brooke,725.0,635.0,87.0,3.0,0.0,0.0,0.0
+"West Virginia, Cabell",West Virginia,Cabell,536.0,448.0,88.0,0.0,0.0,0.0,0.0
+"West Virginia, Gilmer",West Virginia,Gilmer,694.0,682.0,12.0,0.0,0.0,0.0,0.0
+"West Virginia, Greenbrier",West Virginia,Greenbrier,451.0,411.0,40.0,0.0,0.0,0.0,0.0
+"West Virginia, Hancock",West Virginia,Hancock,668.0,557.0,110.0,1.0,0.0,0.0,0.0
+"West Virginia, Harrison",West Virginia,Harrison,229.0,171.0,58.0,0.0,0.0,0.0,0.0
+"West Virginia, Kanawha",West Virginia,Kanawha,730.0,494.0,236.0,0.0,0.0,0.0,0.0
+"West Virginia, Marion",West Virginia,Marion,220.0,156.0,64.0,0.0,0.0,0.0,0.0
+"West Virginia, Marshall",West Virginia,Marshall,483.0,278.0,205.0,0.0,0.0,0.0,0.0
+"West Virginia, Monongalia",West Virginia,Monongalia,638.0,483.0,155.0,0.0,0.0,0.0,0.0
+"West Virginia, Ohio",West Virginia,Ohio,545.0,422.0,118.0,5.0,0.0,0.0,0.0
+"West Virginia, Tucker",West Virginia,Tucker,691.0,655.0,36.0,0.0,0.0,0.0,0.0
+"West Virginia, Wood",West Virginia,Wood,630.0,450.0,180.0,0.0,0.0,0.0,0.0
+"Wisconsin, Ashland",Wisconsin,Ashland,694.0,663.0,31.0,0.0,0.0,0.0,0.0
+"Wisconsin, Brown",Wisconsin,Brown,722.0,546.0,168.0,8.0,0.0,0.0,0.0
+"Wisconsin, Columbia",Wisconsin,Columbia,389.0,357.0,32.0,0.0,0.0,0.0,0.0
+"Wisconsin, Dane",Wisconsin,Dane,730.0,519.0,206.0,5.0,0.0,0.0,0.0
+"Wisconsin, Dodge",Wisconsin,Dodge,719.0,585.0,132.0,2.0,0.0,0.0,0.0
+"Wisconsin, Door",Wisconsin,Door,393.0,357.0,31.0,5.0,0.0,0.0,0.0
+"Wisconsin, Eau Claire",Wisconsin,Eau Claire,402.0,338.0,64.0,0.0,0.0,0.0,0.0
+"Wisconsin, Fond du Lac",Wisconsin,Fond du Lac,404.0,371.0,33.0,0.0,0.0,0.0,0.0
+"Wisconsin, Forest",Wisconsin,Forest,721.0,677.0,44.0,0.0,0.0,0.0,0.0
+"Wisconsin, Grant",Wisconsin,Grant,487.0,384.0,100.0,3.0,0.0,0.0,0.0
+"Wisconsin, Jefferson",Wisconsin,Jefferson,383.0,340.0,42.0,1.0,0.0,0.0,0.0
+"Wisconsin, Kenosha",Wisconsin,Kenosha,632.0,496.0,128.0,7.0,1.0,0.0,0.0
+"Wisconsin, Kewaunee",Wisconsin,Kewaunee,404.0,367.0,33.0,4.0,0.0,0.0,0.0
+"Wisconsin, La Crosse",Wisconsin,La Crosse,682.0,574.0,106.0,2.0,0.0,0.0,0.0
+"Wisconsin, Manitowoc",Wisconsin,Manitowoc,449.0,382.0,62.0,4.0,1.0,0.0,0.0
+"Wisconsin, Marathon",Wisconsin,Marathon,422.0,396.0,26.0,0.0,0.0,0.0,0.0
+"Wisconsin, Milwaukee",Wisconsin,Milwaukee,730.0,554.0,165.0,10.0,1.0,0.0,0.0
+"Wisconsin, Outagamie",Wisconsin,Outagamie,728.0,554.0,166.0,8.0,0.0,0.0,0.0
+"Wisconsin, Ozaukee",Wisconsin,Ozaukee,615.0,508.0,101.0,5.0,1.0,0.0,0.0
+"Wisconsin, Racine",Wisconsin,Racine,380.0,328.0,47.0,4.0,1.0,0.0,0.0
+"Wisconsin, Rock",Wisconsin,Rock,395.0,348.0,47.0,0.0,0.0,0.0,0.0
+"Wisconsin, Sauk",Wisconsin,Sauk,678.0,571.0,103.0,4.0,0.0,0.0,0.0
+"Wisconsin, Sheboygan",Wisconsin,Sheboygan,401.0,347.0,48.0,5.0,1.0,0.0,0.0
+"Wisconsin, Taylor",Wisconsin,Taylor,724.0,637.0,87.0,0.0,0.0,0.0,0.0
+"Wisconsin, Vilas",Wisconsin,Vilas,584.0,541.0,43.0,0.0,0.0,0.0,0.0
+"Wisconsin, Walworth",Wisconsin,Walworth,406.0,349.0,54.0,3.0,0.0,0.0,0.0
+"Wisconsin, Waukesha",Wisconsin,Waukesha,682.0,531.0,148.0,3.0,0.0,0.0,0.0
+"Wyoming, Albany",Wyoming,Albany,730.0,512.0,217.0,0.0,1.0,0.0,0.0
+"Wyoming, Big Horn",Wyoming,Big Horn,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Wyoming, Campbell",Wyoming,Campbell,730.0,554.0,174.0,2.0,0.0,0.0,0.0
+"Wyoming, Carbon",Wyoming,Carbon,525.0,484.0,40.0,1.0,0.0,0.0,0.0
+"Wyoming, Converse",Wyoming,Converse,705.0,632.0,72.0,1.0,0.0,0.0,0.0
+"Wyoming, Fremont",Wyoming,Fremont,729.0,559.0,159.0,9.0,2.0,0.0,0.0
+"Wyoming, Johnson",Wyoming,Johnson,486.0,467.0,19.0,0.0,0.0,0.0,0.0
+"Wyoming, Laramie",Wyoming,Laramie,486.0,425.0,61.0,0.0,0.0,0.0,0.0
+"Wyoming, Lincoln",Wyoming,Lincoln,730.0,679.0,49.0,2.0,0.0,0.0,0.0
+"Wyoming, Natrona",Wyoming,Natrona,483.0,446.0,37.0,0.0,0.0,0.0,0.0
+"Wyoming, Park",Wyoming,Park,429.0,416.0,13.0,0.0,0.0,0.0,0.0
+"Wyoming, Platte",Wyoming,Platte,121.0,113.0,7.0,1.0,0.0,0.0,0.0
+"Wyoming, Sheridan",Wyoming,Sheridan,728.0,662.0,65.0,1.0,0.0,0.0,0.0
+"Wyoming, Sublette",Wyoming,Sublette,730.0,543.0,176.0,8.0,3.0,0.0,0.0
+"Wyoming, Sweetwater",Wyoming,Sweetwater,730.0,542.0,183.0,4.0,1.0,0.0,0.0
+"Wyoming, Teton",Wyoming,Teton,730.0,653.0,75.0,1.0,1.0,0.0,0.0
+"Wyoming, Uinta",Wyoming,Uinta,730.0,656.0,73.0,1.0,0.0,0.0,0.0
+"Wyoming, Weston",Wyoming,Weston,0.0,0.0,0.0,0.0,0.0,0.0,0.0

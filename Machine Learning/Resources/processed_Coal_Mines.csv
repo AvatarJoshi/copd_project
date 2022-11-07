@@ -1,107 +1,107 @@
-State&County,Surface_Mines,Underground_Mines
-"Pennsylvania, Clearfield",22,2.0
-"Pennsylvania, Schuylkill",22,5.0
-"Pennsylvania, Somerset",13,5.0
-"West Virginia, Mcdowell",13,12.0
-"Kentucky, Pike",13,14.0
-"Wyoming, Campbell",11,
-"Pennsylvania, Northumberland",10,3.0
-"West Virginia, Logan",9,12.0
-"Virginia, Buchanan",9,8.0
-"Virginia, Wise",8,5.0
-"West Virginia, Boone",8,5.0
-"Kentucky, Bell",8,2.0
-"Maryland, Allegany",7,
-"Alabama, Jefferson",7,3.0
-"Alabama, Walker",7,2.0
-"Kentucky, Harlan",7,5.0
-"West Virginia, Mingo",6,2.0
-"Pennsylvania, Cambria",6,2.0
-"West Virginia, Wyoming",6,8.0
-"Pennsylvania, Jefferson",5,1.0
-"Virginia, Dickenson",5,4.0
-"West Virginia, Raleigh",5,8.0
-"Kentucky, Whitley",5,
-"Pennsylvania, Luzerne",4,
-"Alabama, Tuscaloosa",4,1.0
-"Pennsylvania, Clarion",4,
-"Kentucky, Perry",4,4.0
-"West Virginia, Nicholas",4,1.0
-"Kentucky, Knox",4,1.0
-"Kentucky, Knott",4,1.0
-"West Virginia, Fayette",3,3.0
-"West Virginia, Webster",3,
-"Maryland, Garrett",3,1.0
-"Montana, Big Horn",3,
-"North Dakota, Mercer",3,
-"Kentucky, Johnson",3,
-"Kentucky, Leslie",3,1.0
-"Indiana, Warrick",3,
-"Pennsylvania, Indiana",3,7.0
-"Pennsylvania, Fayette",3,
-"West Virginia, Kanawha",3,4.0
-"West Virginia, Greenbrier",3,1.0
-"Texas, Harrison",2,
-"Ohio, Harrison",2,2.0
-"Pennsylvania, Westmoreland",2,1.0
-"Virginia, Russell",2,
-"Kentucky, Martin",2,
-"Pennsylvania, Columbia",2,
-"Wyoming, Sweetwater",2,1.0
-"Colorado, Moffat",2,
-"Virginia, Tazewell",2,
-"Pennsylvania, Bedford",2,
-"Illinois, Perry",2,1.0
-"Kentucky, Letcher",2,
-"Indiana, Daviess",2,
-"West Virginia, Randolph",2,2.0
-"Kentucky, Daviess",2,
-"Indiana, Dubois",2,
-"Pennsylvania, Carbon",1,
-"Wyoming, Converse",1,
-"Wyoming, Lincoln",1,
-"West Virginia, Grant",1,
-"West Virginia, Mercer",1,1.0
-"Utah, Kane",1,
-"West Virginia, Marion",1,1.0
-"Tennessee, Claiborne",1,1.0
-"West Virginia, Moffat",1,
-"Texas, Atascosa",1,
-"West Virginia, Mineral",1,
-"Texas, Robertson",1,
-"Texas, Maverick",1,
-"Texas, Limestone",1,
-"Texas, Rusk",1,
-"Pennsylvania, Washington",1,1.0
-"North Dakota, Oliver",1,
-"Pennsylvania, Lycoming",1,
-"Indiana, Saline",1,
-"Alabama, De Kalb",1,
-"Alabama, Shelby",1,
-"Illinois, Wabash",1,
-"Illinois, Saline",1,
-"Illinois, Randolph",1,1.0
-"Indiana, Pike",1,
-"Indiana, Gibson",1,2.0
-"Indiana, Sullivan",1,1.0
-"Illinois, Gibson",1,
-"Indiana, Clay",1,
-"Indiana, Spencer",1,
-"Kentucky, Floyd",1,4.0
-"Kentucky, Breathitt",1,
-"Kentucky, Morgan",1,
-"Oklahoma, Craig",1,
-"Louisiana, De Soto",1,
-"Louisiana, Natchitoches",1,
-"Mississippi, Choctaw",1,
-"Missouri, Bates",1,
-"Montana, Richland",1,
-"Montana, Rosebud",1,
-"New Mexico, San Juan",1,1.0
-"New Mexico, Mckinley",1,
-"North Dakota, Mclean",1,
-"Ohio, Belmont",1,
-"Ohio, Noble",1,
-"Ohio, Tuscarawas",1,1.0
-"Oklahoma, Okmulgee",1,
-"Alaska, Denali",1,
+State_County,State,County,Surface_Mines,Underground_Mines
+"Pennsylvania, Clearfield",Alabama,Walker,22,2.0
+"Pennsylvania, Schuylkill",Alabama,Jefferson,22,5.0
+"Pennsylvania, Somerset",Alabama,Jefferson,13,5.0
+"West Virginia, Mcdowell",Alabama,Tuscaloosa,13,12.0
+"Kentucky, Pike",Alabama,Jefferson,13,14.0
+"Wyoming, Campbell",Alabama,Walker,11,0.0
+"Pennsylvania, Northumberland",Alabama,Tuscaloosa,10,3.0
+"West Virginia, Logan",Alabama,Jefferson,9,12.0
+"Virginia, Buchanan",West Virginia,Nicholas,9,8.0
+"Virginia, Wise",Alabama,Walker,8,5.0
+"West Virginia, Boone",Alabama,Jefferson,8,5.0
+"Kentucky, Bell",Alabama,Walker,8,2.0
+"Maryland, Allegany",Alabama,Tuscaloosa,7,0.0
+"Alabama, Jefferson",Alabama,Jefferson,7,3.0
+"Alabama, Walker",Alabama,Jefferson,7,2.0
+"Kentucky, Harlan",Alabama,Tuscaloosa,7,5.0
+"West Virginia, Mingo",Alabama,De Kalb,6,2.0
+"Pennsylvania, Cambria",Alabama,Walker,6,2.0
+"West Virginia, Wyoming",Alabama,Shelby,6,8.0
+"Pennsylvania, Jefferson",Alabama,Walker,5,1.0
+"Virginia, Dickenson",Alabama,Jefferson,5,4.0
+"West Virginia, Raleigh",Alabama,Jefferson,5,8.0
+"Kentucky, Whitley",Alabama,Walker,5,0.0
+"Pennsylvania, Luzerne",Alabama,Walker,4,0.0
+"Alabama, Tuscaloosa",Alabama,Tuscaloosa,4,1.0
+"Pennsylvania, Clarion",Colorado,Moffat,4,0.0
+"Kentucky, Perry",Colorado,Moffat,4,4.0
+"West Virginia, Nicholas",Colorado,Rio Blanco,4,1.0
+"Kentucky, Knox",Colorado,Gunnison,4,1.0
+"Kentucky, Knott",Colorado,Routt,4,1.0
+"West Virginia, Fayette",Colorado,La Plata,3,3.0
+"West Virginia, Webster",Illinois,Macoupin,3,0.0
+"Maryland, Garrett",Illinois,Sangamon,3,1.0
+"Montana, Big Horn",Illinois,Wabash,3,0.0
+"North Dakota, Mercer",Illinois,Perry,3,0.0
+"Kentucky, Johnson",Illinois,Williamson,3,0.0
+"Kentucky, Leslie",Illinois,Perry,3,1.0
+"Indiana, Warrick",Illinois,Montgomery,3,0.0
+"Pennsylvania, Indiana",Illinois,Franklin,3,7.0
+"Pennsylvania, Fayette",Illinois,Washington,3,0.0
+"West Virginia, Kanawha",Illinois,Hamilton,3,4.0
+"West Virginia, Greenbrier",Illinois,Saline,3,1.0
+"Texas, Harrison",Illinois,Randolph,2,0.0
+"Ohio, Harrison",Illinois,Randolph,2,2.0
+"Pennsylvania, Westmoreland",Illinois,Perry,2,1.0
+"Virginia, Russell",Indiana,Pike,2,0.0
+"Kentucky, Martin",Indiana,Daviess,2,0.0
+"Pennsylvania, Columbia",Indiana,Gibson,2,0.0
+"Wyoming, Sweetwater",Indiana,Gibson,2,1.0
+"Colorado, Moffat",Indiana,Sullivan,2,0.0
+"Virginia, Tazewell",Indiana,Daviess,2,0.0
+"Pennsylvania, Bedford",Indiana,Dubois,2,0.0
+"Illinois, Perry",Indiana,Gibson,2,1.0
+"Kentucky, Letcher",Indiana,Knox,2,0.0
+"Indiana, Daviess",Indiana,Knox,2,0.0
+"West Virginia, Randolph",Indiana,Sullivan,2,2.0
+"Kentucky, Daviess",Indiana,Dubois,2,0.0
+"Indiana, Dubois",Indiana,Warrick,2,0.0
+"Pennsylvania, Carbon",Illinois,Gibson,1,0.0
+"Wyoming, Converse",Indiana,Clay,1,0.0
+"Wyoming, Lincoln",Indiana,Spencer,1,0.0
+"West Virginia, Grant",Kentucky,Harlan,1,0.0
+"West Virginia, Mercer",Kentucky,Perry,1,1.0
+"Utah, Kane",Kentucky,Leslie,1,0.0
+"West Virginia, Marion",Kentucky,Pike,1,1.0
+"Tennessee, Claiborne",Kentucky,Hopkins,1,1.0
+"West Virginia, Moffat",Kentucky,Knox,1,0.0
+"Texas, Atascosa",Kentucky,Pike,1,0.0
+"West Virginia, Mineral",Kentucky,Pike,1,0.0
+"Texas, Robertson",Kentucky,Pike,1,0.0
+"Texas, Maverick",Kentucky,Pike,1,0.0
+"Texas, Limestone",Kentucky,Harlan,1,0.0
+"Texas, Rusk",Kentucky,Harlan,1,0.0
+"Pennsylvania, Washington",Kentucky,Daviess,1,1.0
+"North Dakota, Oliver",Kentucky,Harlan,1,0.0
+"Pennsylvania, Lycoming",Kentucky,Knox,1,0.0
+"Indiana, Saline",Kentucky,Pike,1,0.0
+"Alabama, De Kalb",Kentucky,Perry,1,0.0
+"Alabama, Shelby",Kentucky,Floyd,1,0.0
+"Illinois, Wabash",Kentucky,Pike,1,0.0
+"Illinois, Saline",Kentucky,Pike,1,0.0
+"Illinois, Randolph",Kentucky,Pike,1,1.0
+"Indiana, Pike",Kentucky,Bell,1,0.0
+"Indiana, Gibson",Kentucky,Knott,1,2.0
+"Indiana, Sullivan",Kentucky,Perry,1,1.0
+"Illinois, Gibson",West Virginia,Mcdowell,1,0.0
+"Indiana, Clay",Kentucky,Pike,1,0.0
+"Indiana, Spencer",Kentucky,Pike,1,0.0
+"Kentucky, Floyd",Kentucky,Pike,1,4.0
+"Kentucky, Breathitt",Indiana,Warrick,1,0.0
+"Kentucky, Morgan",Kentucky,Perry,1,0.0
+"Oklahoma, Craig",West Virginia,Boone,1,0.0
+"Louisiana, De Soto",Kentucky,Breathitt,1,0.0
+"Louisiana, Natchitoches",Kentucky,Perry,1,0.0
+"Mississippi, Choctaw",Kentucky,Pike,1,0.0
+"Missouri, Bates",Kentucky,Knox,1,0.0
+"Montana, Richland",Kentucky,Floyd,1,0.0
+"Montana, Rosebud",Kentucky,Bell,1,0.0
+"New Mexico, San Juan",Kentucky,Bell,1,1.0
+"New Mexico, Mckinley",Kentucky,Pike,1,0.0
+"North Dakota, Mclean",Kentucky,Perry,1,0.0
+"Ohio, Belmont",West Virginia,Wyoming,1,0.0
+"Ohio, Noble",Kentucky,Union,1,0.0
+"Ohio, Tuscarawas",Kentucky,Pike,1,1.0
+"Oklahoma, Okmulgee",Kentucky,Perry,1,0.0
+"Alaska, Denali",Kentucky,Perry,1,0.0

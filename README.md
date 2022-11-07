@@ -76,18 +76,12 @@ Success! Our database and notebook are communicating without issues. There are d
  
 
 ## Visualizations and Website
-Goals:
-    Creating map with pop-up feature
+Goals: Creating map with pop-up feature containg data regarding COPD levels and associated risk factors in each county.
 
-Accomplishments:    
-    Creating map object
-    Adding tile layer
-    Creating & testing getColor function for heatmap
-    Testing GeoJson Data file for mapping 
-    Pop-up feature testing
-    
-Next Goals:
-    Trying to apply to real GeoJson Data file and adding some feature
+Accomplishments:
+Creating map object, Added tile layers, Created & tested getColor function for heatmap Testing GeoJson Data file for mapping Pop-up feature testing.
+
+Next Goals: Trying to apply to real GeoJson Data file and adding some feature
    
 ## Machine Learning
 **Purpose:** To determine if machine learning is capable of predicting COPD levels based on our data we choose to start our analysis using RandomForestRegression and DeepLearning. We plan to connect the database directly to the notebooks where the machine learning algorithms will be run in the future. We have shown we can connect the database to a notebook and load data in [Connecting_JN.ipynb](Connecting_JN_SQL.pynb). For the time being, we have directly loaded data from processed .csv files we have created into the models.
@@ -98,3 +92,4 @@ For random forest regression we imported the PLACES dataset (which contains leve
 
 ### DeepLearning
 For DeepLearning we imported all of our datasets and merged them into a master dataframe. This dataframe was encoded and run through our prelminary neural network. We used relU as our activation function for the input and hidden layers. Since this is a regression problem, we used 'linear' as the activation function for the output layer. The "mean squared error" was used to assess model performance. After 75 epochs we acheived an MSE of ~1.12. 
+![DeepLearning](/Images/DeepLearningError.png)
