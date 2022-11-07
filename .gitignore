@@ -24,6 +24,7 @@ processed_census_data2019.csv
 processed_census_data.csv
 2019/Resources/processed_census_data.csv
 2019/Resources/processed_PLACES_COPD.csv
+Machine Learning/Resources/processed_PLACES_COPD.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
