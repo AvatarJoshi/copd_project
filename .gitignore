@@ -18,6 +18,7 @@ county.geo.json
 state.geo.json
 testData.geo.json
 test.html
+COPD_Mapping/static/data/county.geojson
 
 
 # Byte-compiled / optimized / DLL files
