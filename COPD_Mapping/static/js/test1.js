@@ -26,16 +26,16 @@ var light1 =L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}
 
 
 // If data.beta.nyc is down comment out this link
-var data_county = "static/data/testData.geo.json";
-// var data_state = "static/data/state.geo.json";
+// var data_county = "static/data/testData.geo.json";
+var data_state = "static/data/state.geojson";
 
 // 1. Add a 2nd layer group for the tectonic plate data.
-let data_county = new L.LayerGroup(data_county);
+// let data_county = new L.LayerGroup(data_county);
 // let data_state = new L.LayerGroup(data_state);
 
 // 2. Add a reference to the tectonic plates group to the overlays object.
 // var overlays = {
-//   "State": data_state,
+// "State": data_state,
 //   "County": data_county
   
 // };
@@ -59,7 +59,7 @@ L.control.layers(myMap).addTo(myMap);
 
 // ------ Earthquake Info —————
 // Grabbing our GeoJSON data..
-d3.json(data_county, function(data) {
+d3.json(state_county, function(data) {
     console.log(data);
     // Creating a geoJSON layer with the retrieved data
     L.geoJson(data, {
@@ -101,9 +101,9 @@ d3.json(data_county, function(data) {
         layer.bindPopup("<h1>" + feature.properties.NAME10 + "</h1> <hr> <h2>" + feature.properties.CODP + "</h2>");
   
       }
-    }).addTo(data_county);
+    }).addTo(state_county);
  // Then we add the earthquake layer to our map.
-data_county.addTo(myMap);
+state_county.addTo(myMap);
 
 
 //   // Here we create a legend control object.
@@ -166,4 +166,3 @@ data_county.addTo(myMap);
 
 
     });
-});
