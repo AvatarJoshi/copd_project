@@ -19,7 +19,18 @@ state.geo.json
 state.geojson
 testData.geo.json
 test.html
+
 COPD_Mapping/static/data/county.geojson
+
+
+Pandas_Learn.ipynb
+county.geo.json
+county.geojson
+processed_census_data2019.csv
+processed_census_data.csv
+2019/Resources/processed_census_data.csv
+2019/Resources/processed_PLACES_COPD.csv
+Machine Learning/Resources/processed_PLACES_COPD.csv
 
 
 # Byte-compiled / optimized / DLL files
