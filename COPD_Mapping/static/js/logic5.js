@@ -80,8 +80,8 @@ d3.json("static/data/state.geojson").then(function(data) {
         return {
           color: "blck",
           // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
-          fillColor: "pink",
-          fillOpacity: 1,
+          fillColor: "0",
+          fillOpacity: 0.5,
           weight: 1.5
         };
       },
@@ -94,7 +94,7 @@ d3.json("static/data/state.geojson").then(function(data) {
           mouseover: function(event) {
             layer = event.target;
             layer.setStyle({
-              fillOpacity: 0.9
+            fillOpacity: 0.9
             });
           },
           // When the cursor no longer hovers over a map feature - when the mouseout event occurs - the feature's opacity reverts back to 50%
@@ -110,7 +110,7 @@ d3.json("static/data/state.geojson").then(function(data) {
           }
         });
         // Giving each feature a pop-up with information pertinent to it
-        layer.bindPopup("State:" + "<h1>" + feature.properties.NAME10 + "COPD:" + "Smoker:");
+        layer.bindPopup("State: " + "<h1>" + feature.properties.NAME10 + "COPD: " + "Smoker: ");
   
       }
     }).addTo(data_state);
@@ -229,7 +229,7 @@ d3.json("static/data/county.geojson").then(function(data) {
       opacity: 1,
       fillOpacity: 1,
       fillColor: getColor(feature.properties.NAME10),
-      color: "red",
+      color: "yellow",
       // radius: getRadius(feature.properties.NAME10),
       // stroke: true,
       weight: 0.5
@@ -267,13 +267,6 @@ d3.json("static/data/county.geojson").then(function(data) {
 
 //   // Creating a GeoJSON layer with the retrieved data.
   L.geoJson(data, {
-//     	// We turn each feature into a circleMarker on the map.
-//     	pointToLayer: function(feature, latlng) {
-//       		console.log(data);
-//       		return L.circleMarker(latlng);
-//         },
-//       // We set the style for each circleMarker using our styleInfo function.
-//     style: styleInfo,
      // We create a popup for each circleMarker to display the magnitude and location of the earthquake
      //  after the marker has been created and styled.
      onEachFeature: function(feature, layer) {
