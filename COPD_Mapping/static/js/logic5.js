@@ -38,6 +38,8 @@ let baseMaps = {
 let data_county = new L.LayerGroup();
 let data_state = new L.LayerGroup();
 
+// var state_county = L.layerGroup([data_state, data_county]);
+
 // 2. Add a reference to the tectonic plates group to the overlays object.
 let overlays = {
   "State": data_state,
@@ -48,7 +50,7 @@ let overlays = {
 var myMap = L.map("map", {
   center: [38.50445, -98.39784],
   zoom: 5,
-  layer: [streets]
+  layer:[streets]
 });
 
 
@@ -57,11 +59,6 @@ var myMap = L.map("map", {
 // L.control.layers(baseMaps, overlays, {
 //   collapsed: true
 // }).addTo(myMap);
-
-// Then we add a control to the map that will allow the user to change which
-// layers are visible.
-L.control.layers(baseMaps, overlays).addTo(myMap);
-
 
 
   // Here we create a legend control object.
@@ -78,10 +75,10 @@ d3.json("static/data/state.geojson").then(function(data) {
       // Style each feature (in this case a neighborhood)
       style: function(feature) {
         return {
-          color: "blck",
+          color: "pink",
           // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
-          fillColor: "0",
-          fillOpacity: 0.5,
+          // fillColor: "white",
+          // fillOpacity: 0.5,
           weight: 1.5
         };
       },
@@ -110,8 +107,9 @@ d3.json("static/data/state.geojson").then(function(data) {
           }
         });
         // Giving each feature a pop-up with information pertinent to it
-        layer.bindPopup("State: " + "<h1>" + feature.properties.NAME10 + "COPD: " + "Smoker: ");
-  
+        layer.bindPopup("<br><b>State:</b>" + feature.properties.NAME10 + "<br><b>COPD:</b>"+ "<br><b>Smoker:</b>");
+     
+      
       }
     }).addTo(data_state);
     console.log(data_state);
@@ -229,7 +227,7 @@ d3.json("static/data/county.geojson").then(function(data) {
       opacity: 1,
       fillOpacity: 1,
       fillColor: getColor(feature.properties.NAME10),
-      color: "yellow",
+      color: "black",
       // radius: getRadius(feature.properties.NAME10),
       // stroke: true,
       weight: 0.5
@@ -266,15 +264,23 @@ d3.json("static/data/county.geojson").then(function(data) {
 //   }
 
 //   // Creating a GeoJSON layer with the retrieved data.
-  L.geoJson(data, {
+    L.geoJson(data, {
      // We create a popup for each circleMarker to display the magnitude and location of the earthquake
      //  after the marker has been created and styled.
      onEachFeature: function(feature, layer) {
-      layer.bindPopup("County: " + feature.properties.NAME10 + "<br>Location: " + feature.properties.place);
+      layer.bindPopup("<b>County:</b> " + feature.properties.NAME10 + "<br>Location: " + feature.properties.place);
     }
-  }).addTo(data_county);
+}).addTo(data_county);
 
   // Then we add the earthquake layer to our map.
   data_county.addTo(myMap);
+
+
+  // Create a layer control
+  // Pass in our baseMaps and overlayMaps
+  // Add the layer control to the map
+  L.control.layers(baseMaps, overlays, {
+    collapsed: false
+  }).addTo(myMap);
 
 });
