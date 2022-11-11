@@ -1,0 +1,3123 @@
+State_County,State,County,Levels_Smokers,Levels_COPD
+"Cass, Iowa",Iowa,Cass,19.3,8.3
+"Monona, Iowa",Iowa,Monona,18.5,8.3
+"Dillingham, Alaska",Alaska,Dillingham,31.1,8.9
+"Custer, Colorado",Colorado,Custer,13.8,7.5
+"Ketchikan Gateway, Alaska",Alaska,Ketchikan Gateway,19.4,6.6
+"Mendocino, California",California,Mendocino,14.3,7.4
+"Jefferson, Arkansas",Arkansas,Jefferson,22.9,9.6
+"Van Buren, Arkansas",Arkansas,Van Buren,22.8,13.0
+"Limestone, Alabama",Alabama,Limestone,20.7,8.4
+"Perry, Arkansas",Arkansas,Perry,22.6,11.1
+"Carroll, Arkansas",Arkansas,Carroll,19.2,9.8
+"Phillips, Arkansas",Arkansas,Phillips,24.2,12.6
+"Arkansas, Arkansas",Arkansas,Arkansas,22.5,10.6
+"Kern, California",California,Kern,15.3,5.7
+"Madison, Arkansas",Arkansas,Madison,23.5,11.3
+"Otero, Colorado",Colorado,Otero,16.3,7.1
+"Crowley, Colorado",Colorado,Crowley,21.2,6.2
+"El Dorado, California",California,El Dorado,11.7,6.1
+"Bullock, Alabama",Alabama,Bullock,25.0,10.0
+"Sonoma, California",California,Sonoma,11.1,5.4
+"Del Norte, California",California,Del Norte,17.5,8.0
+"Kodiak Island, Alaska",Alaska,Kodiak Island,16.9,5.0
+"Columbia, Arkansas",Arkansas,Columbia,22.0,9.7
+"Cross, Arkansas",Arkansas,Cross,23.5,10.6
+"Jackson, Alabama",Alabama,Jackson,23.0,11.6
+"Coosa, Alabama",Alabama,Coosa,22.2,11.3
+"Baca, Colorado",Colorado,Baca,17.8,8.7
+"Marion, Alabama",Alabama,Marion,22.8,11.6
+"Ashley, Arkansas",Arkansas,Ashley,22.9,10.9
+"Conejos, Colorado",Colorado,Conejos,14.9,6.3
+"Santa Clara, California",California,Santa Clara,8.8,3.5
+"Gilpin, Colorado",Colorado,Gilpin,13.4,5.2
+"Desha, Arkansas",Arkansas,Desha,25.0,12.0
+"nan, United States",United States,,15.3,6.6
+"Los Angeles, California",California,Los Angeles,10.9,4.3
+"Searcy, Arkansas",Arkansas,Searcy,23.7,13.4
+"Perry, Alabama",Alabama,Perry,22.7,11.8
+"Fairbanks North Star, Alaska",Alaska,Fairbanks North Star,17.6,4.9
+"Glenn, California",California,Glenn,14.9,6.7
+"Lincoln, Arkansas",Arkansas,Lincoln,24.5,9.5
+"Calhoun, Alabama",Alabama,Calhoun,21.8,9.8
+"Anchorage, Alaska",Alaska,Anchorage,15.5,4.9
+"Matanuska-Susitna, Alaska",Alaska,Matanuska-Susitna,20.1,6.4
+"Tallapoosa, Alabama",Alabama,Tallapoosa,22.2,11.0
+"Cheyenne, Colorado",Colorado,Cheyenne,16.3,6.8
+"Santa Barbara, California",California,Santa Barbara,11.1,4.8
+"Monterey, California",California,Monterey,12.0,5.0
+"Etowah, Alabama",Alabama,Etowah,22.5,10.0
+"Valdez-Cordova, Alaska",Alaska,Valdez-Cordova,17.3,6.0
+"Kiowa, Colorado",Colorado,Kiowa,16.9,8.0
+"Montgomery, Alabama",Alabama,Montgomery,19.6,7.7
+"Napa, California",California,Napa,10.6,4.9
+"Denver, Colorado",Colorado,Denver,13.8,3.9
+"Arapahoe, Colorado",Colorado,Arapahoe,13.4,4.2
+"Dolores, Colorado",Colorado,Dolores,16.0,7.4
+"Placer, California",California,Placer,10.6,5.2
+"Archuleta, Colorado",Colorado,Archuleta,13.5,6.4
+"Logan, Colorado",Colorado,Logan,17.8,6.3
+"Cleveland, Arkansas",Arkansas,Cleveland,22.5,11.1
+"Sharp, Arkansas",Arkansas,Sharp,24.7,13.8
+"Logan, Arkansas",Arkansas,Logan,22.6,11.3
+"Cleburne, Alabama",Alabama,Cleburne,22.7,10.9
+"Nevada, California",California,Nevada,11.4,6.9
+"White, Arkansas",Arkansas,White,22.2,9.6
+"Lincoln, Colorado",Colorado,Lincoln,18.9,6.6
+"Hinsdale, Colorado",Colorado,Hinsdale,12.4,6.5
+"Calhoun, Arkansas",Arkansas,Calhoun,22.0,10.7
+"Lake, California",California,Lake,15.8,8.4
+"Autauga, Alabama",Alabama,Autauga,19.3,8.4
+"Izard, Arkansas",Arkansas,Izard,21.7,11.5
+"La Paz, Arizona",Arizona,La Paz,16.9,11.5
+"Mobile, Alabama",Alabama,Mobile,20.8,8.9
+"Washington, Arkansas",Arkansas,Washington,18.3,6.7
+"Mariposa, California",California,Mariposa,13.5,8.2
+"St. Francis, Arkansas",Arkansas,St. Francis,24.6,10.2
+"Lawrence, Alabama",Alabama,Lawrence,24.6,11.3
+"Conecuh, Alabama",Alabama,Conecuh,23.3,11.7
+"Lee, Arkansas",Arkansas,Lee,24.3,11.0
+"Stanislaus, California",California,Stanislaus,14.2,5.7
+"Siskiyou, California",California,Siskiyou,14.4,8.5
+"Wilcox, Alabama",Alabama,Wilcox,25.6,12.6
+"Fremont, Colorado",Colorado,Fremont,18.2,7.2
+"Yuma, Arizona",Arizona,Yuma,14.4,6.7
+"Lauderdale, Alabama",Alabama,Lauderdale,19.0,9.2
+"Plumas, California",California,Plumas,12.8,7.7
+"Marion, Arkansas",Arkansas,Marion,20.6,12.2
+"San Mateo, California",California,San Mateo,9.2,3.8
+"Butte, California",California,Butte,13.6,6.6
+"Maricopa, Arizona",Arizona,Maricopa,14.2,5.7
+"Garfield, Colorado",Colorado,Garfield,14.8,5.0
+"Calaveras, California",California,Calaveras,13.7,7.8
+"Bristol Bay, Alaska",Alaska,Bristol Bay,21.2,7.2
+"Jackson, Arkansas",Arkansas,Jackson,25.9,11.9
+"Franklin, Alabama",Alabama,Franklin,22.4,9.8
+"Bethel, Alaska",Alaska,Bethel,35.7,10.9
+"Tuolumne, California",California,Tuolumne,13.9,7.7
+"Winston, Alabama",Alabama,Winston,24.7,12.6
+"Solano, California",California,Solano,11.9,4.9
+"Lonoke, Arkansas",Arkansas,Lonoke,21.3,8.1
+"Alameda, California",California,Alameda,10.1,3.9
+"Lake, Colorado",Colorado,Lake,16.2,5.4
+"Morgan, Alabama",Alabama,Morgan,20.1,9.1
+"Lawrence, Arkansas",Arkansas,Lawrence,22.4,11.0
+"Aleutians East, Alaska",Alaska,Aleutians East,20.2,5.4
+"Blount, Alabama",Alabama,Blount,21.5,10.0
+"El Paso, Colorado",Colorado,El Paso,14.1,4.7
+"Cochise, Arizona",Arizona,Cochise,16.6,7.2
+"Mohave, Arizona",Arizona,Mohave,19.0,10.4
+"Lassen, California",California,Lassen,16.6,6.5
+"Ouachita, Arkansas",Arkansas,Ouachita,22.8,11.4
+"Independence, Arkansas",Arkansas,Independence,21.5,10.0
+"Miller, Arkansas",Arkansas,Miller,21.6,9.7
+"Sebastian, Arkansas",Arkansas,Sebastian,19.4,9.0
+"Montgomery, Arkansas",Arkansas,Montgomery,22.6,13.0
+"Madison, Alabama",Alabama,Madison,15.7,6.7
+"Sutter, California",California,Sutter,14.4,6.2
+"Gunnison, Colorado",Colorado,Gunnison,13.1,4.5
+"Yavapai, Arizona",Arizona,Yavapai,15.5,9.3
+"San Bernardino, California",California,San Bernardino,13.3,4.9
+"Alpine, California",California,Alpine,14.7,8.4
+"Howard, Arkansas",Arkansas,Howard,21.0,10.1
+"Amador, California",California,Amador,13.5,7.4
+"Jefferson, Colorado",Colorado,Jefferson,13.4,4.5
+"Elmore, Alabama",Alabama,Elmore,20.2,8.1
+"Cleburne, Arkansas",Arkansas,Cleburne,22.0,11.1
+"Escambia, Alabama",Alabama,Escambia,23.8,11.1
+"Alamosa, Colorado",Colorado,Alamosa,15.7,5.5
+"Lamar, Alabama",Alabama,Lamar,23.2,12.0
+"Coffee, Alabama",Alabama,Coffee,20.2,8.4
+"Yell, Arkansas",Arkansas,Yell,22.6,10.6
+"Mesa, Colorado",Colorado,Mesa,17.1,6.4
+"Little River, Arkansas",Arkansas,Little River,21.7,10.6
+"Tulare, California",California,Tulare,14.9,5.9
+"Southeast Fairbanks, Alaska",Alaska,Southeast Fairbanks,21.0,7.2
+"Nevada, Arkansas",Arkansas,Nevada,21.7,10.3
+"Hoonah-Angoon, Alaska",Alaska,Hoonah-Angoon,21.5,9.0
+"Sumter, Alabama",Alabama,Sumter,20.4,9.8
+"San Diego, California",California,San Diego,11.0,4.6
+"Scott, Arkansas",Arkansas,Scott,24.0,12.3
+"Delta, Colorado",Colorado,Delta,18.0,8.6
+"Colusa, California",California,Colusa,13.5,5.5
+"Kit Carson, Colorado",Colorado,Kit Carson,17.0,6.9
+"Coconino, Arizona",Arizona,Coconino,16.7,5.9
+"Drew, Arkansas",Arkansas,Drew,19.9,9.0
+"Newton, Arkansas",Arkansas,Newton,19.9,11.3
+"Jackson, Colorado",Colorado,Jackson,16.6,7.2
+"Fayette, Alabama",Alabama,Fayette,23.0,11.7
+"Marshall, Alabama",Alabama,Marshall,21.9,10.0
+"San Luis Obispo, California",California,San Luis Obispo,11.0,5.5
+"Graham, Arizona",Arizona,Graham,17.1,6.6
+"Bibb, Alabama",Alabama,Bibb,24.9,10.1
+"Butler, Alabama",Alabama,Butler,23.2,11.1
+"St. Clair, Alabama",Alabama,St. Clair,22.8,9.4
+"Geneva, Alabama",Alabama,Geneva,24.0,11.8
+"Apache, Arizona",Arizona,Apache,23.0,12.2
+"Franklin, Arkansas",Arkansas,Franklin,24.6,12.0
+"Woodruff, Arkansas",Arkansas,Woodruff,23.3,12.2
+"Ventura, California",California,Ventura,10.5,4.7
+"Crawford, Arkansas",Arkansas,Crawford,22.1,9.9
+"Barbour, Alabama",Alabama,Barbour,26.9,12.3
+"Pulaski, Arkansas",Arkansas,Pulaski,19.2,7.6
+"Faulkner, Arkansas",Arkansas,Faulkner,19.3,7.4
+"Poinsett, Arkansas",Arkansas,Poinsett,24.6,11.2
+"Pike, Arkansas",Arkansas,Pike,21.6,10.6
+"Baldwin, Alabama",Alabama,Baldwin,18.9,8.4
+"Kenai Peninsula, Alaska",Alaska,Kenai Peninsula,19.4,7.4
+"Clarke, Alabama",Alabama,Clarke,23.4,11.2
+"La Plata, Colorado",Colorado,La Plata,13.9,5.1
+"Yukon-Koyukuk, Alaska",Alaska,Yukon-Koyukuk,30.5,10.8
+"Dallas, Alabama",Alabama,Dallas,23.0,11.1
+"Covington, Alabama",Alabama,Covington,23.1,11.2
+"Merced, California",California,Merced,14.4,5.6
+"Garland, Arkansas",Arkansas,Garland,19.5,10.2
+"Greenlee, Arizona",Arizona,Greenlee,15.0,5.4
+"Gila, Arizona",Arizona,Gila,17.6,10.2
+"Juneau, Alaska",Alaska,Juneau,15.3,5.1
+"Trinity, California",California,Trinity,16.0,9.7
+"Northwest Arctic, Alaska",Alaska,Northwest Arctic,34.9,9.6
+"DeKalb, Alabama",Alabama,DeKalb,24.5,11.3
+"San Francisco, California",California,San Francisco,9.6,3.6
+"Yuba, California",California,Yuba,14.8,6.0
+"Randolph, Alabama",Alabama,Randolph,21.9,10.6
+"Huerfano, Colorado",Colorado,Huerfano,13.7,7.1
+"Riverside, California",California,Riverside,12.4,5.2
+"Morgan, Colorado",Colorado,Morgan,16.5,5.9
+"Imperial, California",California,Imperial,13.1,5.3
+"Mono, California",California,Mono,13.0,5.6
+"Cullman, Alabama",Alabama,Cullman,22.5,10.2
+"Macon, Alabama",Alabama,Macon,20.4,9.4
+"Pinal, Arizona",Arizona,Pinal,16.9,7.0
+"Sierra, California",California,Sierra,13.8,8.9
+"Colbert, Alabama",Alabama,Colbert,20.5,9.6
+"Henry, Alabama",Alabama,Henry,21.0,10.5
+"Jefferson, Alabama",Alabama,Jefferson,17.2,7.7
+"Shasta, California",California,Shasta,15.3,7.6
+"Dallas, Arkansas",Arkansas,Dallas,21.6,10.8
+"Pitkin, Colorado",Colorado,Pitkin,11.0,4.3
+"Russell, Alabama",Alabama,Russell,21.7,9.0
+"Douglas, Colorado",Colorado,Douglas,10.0,3.6
+"Sitka, Alaska",Alaska,Sitka,17.2,5.9
+"Stone, Arkansas",Arkansas,Stone,22.7,13.5
+"Marengo, Alabama",Alabama,Marengo,22.6,10.6
+"Adams, Colorado",Colorado,Adams,15.4,4.5
+"Houston, Alabama",Alabama,Houston,21.0,9.6
+"Montezuma, Colorado",Colorado,Montezuma,17.3,7.6
+"Santa Cruz, Arizona",Arizona,Santa Cruz,13.8,6.3
+"Tehama, California",California,Tehama,16.1,8.3
+"Modoc, California",California,Modoc,16.0,9.3
+"Skagway, Alaska",Alaska,Skagway,17.7,5.8
+"Sevier, Arkansas",Arkansas,Sevier,20.0,8.6
+"Lafayette, Arkansas",Arkansas,Lafayette,24.0,12.7
+"Elbert, Colorado",Colorado,Elbert,13.9,5.5
+"Greene, Arkansas",Arkansas,Greene,23.2,9.7
+"Montrose, Colorado",Colorado,Montrose,16.0,7.0
+"Navajo, Arizona",Arizona,Navajo,19.6,11.1
+"Yolo, California",California,Yolo,11.4,4.5
+"Pope, Arkansas",Arkansas,Pope,19.9,8.9
+"Shelby, Alabama",Alabama,Shelby,15.0,6.3
+"Mineral, Colorado",Colorado,Mineral,12.4,6.5
+"Aleutians West, Alaska",Alaska,Aleutians West,17.9,4.3
+"Dale, Alabama",Alabama,Dale,21.3,9.1
+"Boulder, Colorado",Colorado,Boulder,10.6,4.1
+"Choctaw, Alabama",Alabama,Choctaw,22.6,11.9
+"Larimer, Colorado",Colorado,Larimer,13.3,4.6
+"Crenshaw, Alabama",Alabama,Crenshaw,22.9,10.7
+"Clay, Alabama",Alabama,Clay,24.1,12.2
+"Monroe, Alabama",Alabama,Monroe,23.6,11.8
+"Prince of Wales-Hyder, Alaska",Alaska,Prince of Wales-Hyder,25.0,9.4
+"Union, Arkansas",Arkansas,Union,20.6,9.6
+"Chicot, Arkansas",Arkansas,Chicot,23.7,11.9
+"Talladega, Alabama",Alabama,Talladega,24.2,10.7
+"San Benito, California",California,San Benito,11.8,4.5
+"Johnson, Arkansas",Arkansas,Johnson,24.0,10.9
+"Saline, Arkansas",Arkansas,Saline,16.7,7.7
+"Crittenden, Arkansas",Arkansas,Crittenden,23.4,9.9
+"Kusilvak, Alaska",Alaska,Kusilvak,43.8,13.3
+"Nome, Alaska",Alaska,Nome,31.6,9.0
+"North Slope, Alaska",Alaska,North Slope,25.4,6.6
+"Broomfield, Colorado",Colorado,Broomfield,10.9,3.8
+"Walker, Alabama",Alabama,Walker,24.8,11.7
+"Yakutat, Alaska",Alaska,Yakutat,21.5,8.0
+"Sacramento, California",California,Sacramento,13.3,5.4
+"Clay, Arkansas",Arkansas,Clay,23.3,12.1
+"Bradley, Arkansas",Arkansas,Bradley,22.0,9.9
+"Hale, Alabama",Alabama,Hale,24.3,11.2
+"Eagle, Colorado",Colorado,Eagle,12.7,4.2
+"Polk, Arkansas",Arkansas,Polk,22.7,12.3
+"Petersburg, Alaska",Alaska,Petersburg,17.4,6.7
+"Pike, Alabama",Alabama,Pike,18.3,8.1
+"Grant, Arkansas",Arkansas,Grant,20.6,9.3
+"Las Animas, Colorado",Colorado,Las Animas,14.5,6.6
+"Denali, Alaska",Alaska,Denali,18.7,6.0
+"Chilton, Alabama",Alabama,Chilton,23.4,10.5
+"Craighead, Arkansas",Arkansas,Craighead,21.3,8.0
+"Humboldt, California",California,Humboldt,14.6,7.1
+"Pima, Arizona",Arizona,Pima,13.5,6.0
+"Contra Costa, California",California,Contra Costa,10.0,4.4
+"Moffat, Colorado",Colorado,Moffat,18.5,6.8
+"Benton, Arkansas",Arkansas,Benton,16.6,6.5
+"Lake and Peninsula, Alaska",Alaska,Lake and Peninsula,29.7,9.7
+"Pickens, Alabama",Alabama,Pickens,22.6,10.4
+"Lowndes, Alabama",Alabama,Lowndes,24.3,11.8
+"Park, Colorado",Colorado,Park,15.4,6.4
+"Chambers, Alabama",Alabama,Chambers,22.4,10.4
+"Phillips, Colorado",Colorado,Phillips,15.5,7.0
+"Hot Spring, Arkansas",Arkansas,Hot Spring,21.9,10.4
+"Tuscaloosa, Alabama",Alabama,Tuscaloosa,19.3,7.3
+"Hempstead, Arkansas",Arkansas,Hempstead,21.5,10.1
+"Inyo, California",California,Inyo,12.9,6.7
+"Fresno, California",California,Fresno,14.4,5.4
+"Monroe, Arkansas",Arkansas,Monroe,23.8,12.6
+"Marin, California",California,Marin,9.0,4.9
+"Prairie, Arkansas",Arkansas,Prairie,21.3,11.2
+"Cherokee, Alabama",Alabama,Cherokee,23.0,12.0
+"Madera, California",California,Madera,14.0,6.0
+"Conway, Arkansas",Arkansas,Conway,22.1,10.5
+"Clear Creek, Colorado",Colorado,Clear Creek,13.5,5.5
+"Chaffee, Colorado",Colorado,Chaffee,14.7,6.5
+"Mississippi, Arkansas",Arkansas,Mississippi,24.9,10.4
+"Orange, California",California,Orange,10.4,4.3
+"Costilla, Colorado",Colorado,Costilla,15.9,8.1
+"Lee, Alabama",Alabama,Lee,17.6,6.9
+"Santa Cruz, California",California,Santa Cruz,10.8,5.0
+"Kings, California",California,Kings,14.5,5.2
+"San Joaquin, California",California,San Joaquin,13.9,5.3
+"Baxter, Arkansas",Arkansas,Baxter,19.4,11.3
+"Fulton, Arkansas",Arkansas,Fulton,23.4,13.9
+"Grand, Colorado",Colorado,Grand,15.6,5.9
+"Ouray, Colorado",Colorado,Ouray,11.9,5.8
+"Greene, Alabama",Alabama,Greene,26.2,13.9
+"Haines, Alaska",Alaska,Haines,17.1,7.4
+"Washington, Alabama",Alabama,Washington,23.3,11.7
+"Randolph, Arkansas",Arkansas,Randolph,23.8,12.0
+"Boone, Arkansas",Arkansas,Boone,21.3,10.5
+"Bent, Colorado",Colorado,Bent,20.8,7.8
+"Clark, Arkansas",Arkansas,Clark,18.1,7.9
+"Wrangell, Alaska",Alaska,Wrangell,19.7,8.8
+"Charlotte, Florida",Florida,Charlotte,16.1,11.8
+"McDuffie, Georgia",Georgia,McDuffie,23.7,10.7
+"Bibb, Georgia",Georgia,Bibb,21.7,8.7
+"Butts, Georgia",Georgia,Butts,24.6,9.7
+"Idaho, Idaho",Idaho,Idaho,17.3,9.8
+"Gordon, Georgia",Georgia,Gordon,21.7,9.1
+"DeSoto, Florida",Florida,DeSoto,22.0,11.5
+"Jefferson, Georgia",Georgia,Jefferson,24.7,11.2
+"Wilkes, Georgia",Georgia,Wilkes,22.1,11.3
+"Glynn, Georgia",Georgia,Glynn,19.0,8.7
+"Okaloosa, Florida",Florida,Okaloosa,17.8,7.7
+"Miller, Georgia",Georgia,Miller,21.8,11.1
+"Evans, Georgia",Georgia,Evans,24.1,10.8
+"Dodge, Georgia",Georgia,Dodge,24.1,10.6
+"Calhoun, Florida",Florida,Calhoun,24.4,11.4
+"Atkinson, Georgia",Georgia,Atkinson,25.3,10.7
+"Baker, Florida",Florida,Baker,24.1,9.9
+"Clayton, Georgia",Georgia,Clayton,20.3,6.8
+"Bear Lake, Idaho",Idaho,Bear Lake,16.4,7.8
+"Marion, Florida",Florida,Marion,19.4,10.9
+"Lemhi, Idaho",Idaho,Lemhi,16.2,9.2
+"Boundary, Idaho",Idaho,Boundary,18.4,8.6
+"Wilkinson, Georgia",Georgia,Wilkinson,23.1,11.0
+"Clearwater, Idaho",Idaho,Clearwater,17.7,8.7
+"Ware, Georgia",Georgia,Ware,23.9,10.8
+"Okeechobee, Florida",Florida,Okeechobee,23.0,11.0
+"Stewart, Georgia",Georgia,Stewart,23.9,7.7
+"Henry, Georgia",Georgia,Henry,16.9,6.1
+"Telfair, Georgia",Georgia,Telfair,25.3,10.5
+"Lumpkin, Georgia",Georgia,Lumpkin,18.8,8.4
+"Whitfield, Georgia",Georgia,Whitfield,20.6,7.9
+"Bleckley, Georgia",Georgia,Bleckley,20.0,8.8
+"Clarke, Georgia",Georgia,Clarke,17.6,6.3
+"Teller, Colorado",Colorado,Teller,13.9,6.2
+"Madison, Florida",Florida,Madison,23.3,12.0
+"Pierce, Georgia",Georgia,Pierce,23.4,10.6
+"Stephens, Georgia",Georgia,Stephens,20.2,9.3
+"Canyon, Idaho",Idaho,Canyon,17.5,6.3
+"Honolulu, Hawaii",Hawaii,Honolulu,13.1,4.2
+"Jackson, Georgia",Georgia,Jackson,20.4,7.8
+"Hawaii, Hawaii",Hawaii,Hawaii,16.7,6.1
+"Pulaski, Georgia",Georgia,Pulaski,21.3,10.4
+"New London, Connecticut",Connecticut,New London,13.0,6.0
+"Walton, Georgia",Georgia,Walton,20.3,8.3
+"Flagler, Florida",Florida,Flagler,18.5,10.3
+"Charlton, Georgia",Georgia,Charlton,26.7,10.8
+"Gadsden, Florida",Florida,Gadsden,21.2,10.5
+"Walker, Georgia",Georgia,Walker,22.5,10.1
+"Macon, Georgia",Georgia,Macon,25.4,11.1
+"Pickens, Georgia",Georgia,Pickens,18.9,9.2
+"Catoosa, Georgia",Georgia,Catoosa,19.4,8.4
+"Echols, Georgia",Georgia,Echols,22.4,8.7
+"Palm Beach, Florida",Florida,Palm Beach,14.0,7.6
+"Newton, Georgia",Georgia,Newton,20.3,7.6
+"Manatee, Florida",Florida,Manatee,15.8,9.4
+"Seminole, Florida",Florida,Seminole,13.5,6.4
+"Hillsborough, Florida",Florida,Hillsborough,16.1,6.6
+"Camas, Idaho",Idaho,Camas,17.9,8.8
+"Payette, Idaho",Idaho,Payette,16.9,7.3
+"Wheeler, Georgia",Georgia,Wheeler,26.0,9.8
+"Summit, Colorado",Colorado,Summit,13.2,4.4
+"Oconee, Georgia",Georgia,Oconee,13.3,5.7
+"Broward, Florida",Florida,Broward,14.8,6.7
+"Duval, Florida",Florida,Duval,19.1,7.8
+"Monroe, Georgia",Georgia,Monroe,19.5,8.4
+"Jenkins, Georgia",Georgia,Jenkins,26.8,11.7
+"Early, Georgia",Georgia,Early,24.3,11.6
+"Clark, Idaho",Idaho,Clark,18.1,7.3
+"Levy, Florida",Florida,Levy,22.9,13.0
+"Burke, Georgia",Georgia,Burke,23.2,10.1
+"Butte, Idaho",Idaho,Butte,17.2,8.8
+"Johnson, Georgia",Georgia,Johnson,26.3,11.1
+"Blaine, Idaho",Idaho,Blaine,13.5,5.8
+"Pike, Georgia",Georgia,Pike,20.1,8.0
+"Elbert, Georgia",Georgia,Elbert,23.2,11.3
+"Oneida, Idaho",Idaho,Oneida,16.1,7.6
+"San Juan, Colorado",Colorado,San Juan,14.4,6.4
+"Bannock, Idaho",Idaho,Bannock,17.3,6.1
+"Emanuel, Georgia",Georgia,Emanuel,24.2,10.5
+"Terrell, Georgia",Georgia,Terrell,24.6,11.8
+"Lake, Florida",Florida,Lake,17.9,9.5
+"Bacon, Georgia",Georgia,Bacon,24.6,11.1
+"Lafayette, Florida",Florida,Lafayette,25.0,10.9
+"Lincoln, Idaho",Idaho,Lincoln,18.4,6.9
+"Liberty, Georgia",Georgia,Liberty,21.6,6.3
+"Windham, Connecticut",Connecticut,Windham,16.9,6.8
+"Montgomery, Georgia",Georgia,Montgomery,22.0,9.4
+"DeKalb, Georgia",Georgia,DeKalb,15.0,5.8
+"Leon, Florida",Florida,Leon,15.2,6.6
+"Dawson, Georgia",Georgia,Dawson,17.5,7.7
+"Bonneville, Idaho",Idaho,Bonneville,15.6,5.5
+"Spalding, Georgia",Georgia,Spalding,21.6,9.6
+"Adams, Idaho",Idaho,Adams,16.5,8.7
+"Putnam, Georgia",Georgia,Putnam,19.5,9.8
+"Treutlen, Georgia",Georgia,Treutlen,25.3,11.6
+"Jefferson, Florida",Florida,Jefferson,21.2,11.5
+"Ada, Idaho",Idaho,Ada,13.2,5.0
+"Taylor, Georgia",Georgia,Taylor,25.8,12.6
+"Volusia, Florida",Florida,Volusia,19.4,9.6
+"Cassia, Idaho",Idaho,Cassia,15.6,6.2
+"Collier, Florida",Florida,Collier,14.2,8.7
+"Glascock, Georgia",Georgia,Glascock,23.6,10.9
+"Dade, Georgia",Georgia,Dade,21.3,9.8
+"Bingham, Idaho",Idaho,Bingham,15.9,6.3
+"Houston, Georgia",Georgia,Houston,18.0,6.8
+"Liberty, Florida",Florida,Liberty,26.0,11.0
+"Brevard, Florida",Florida,Brevard,16.7,9.2
+"Laurens, Georgia",Georgia,Laurens,22.9,10.4
+"Lanier, Georgia",Georgia,Lanier,23.6,9.6
+"Fayette, Georgia",Georgia,Fayette,13.2,5.9
+"Douglas, Georgia",Georgia,Douglas,18.7,6.6
+"Franklin, Florida",Florida,Franklin,24.1,12.2
+"Baker, Georgia",Georgia,Baker,21.2,10.4
+"Ben Hill, Georgia",Georgia,Ben Hill,23.5,10.8
+"San Miguel, Colorado",Colorado,San Miguel,12.2,4.5
+"Effingham, Georgia",Georgia,Effingham,20.4,7.0
+"Sarasota, Florida",Florida,Sarasota,14.7,9.5
+"Lamar, Georgia",Georgia,Lamar,20.6,8.6
+"Monroe, Florida",Florida,Monroe,16.6,7.6
+"Custer, Idaho",Idaho,Custer,16.7,9.3
+"Bradford, Florida",Florida,Bradford,26.3,11.6
+"New Haven, Connecticut",Connecticut,New Haven,14.5,5.7
+"Upson, Georgia",Georgia,Upson,23.4,10.5
+"Towns, Georgia",Georgia,Towns,16.0,10.1
+"Thomas, Georgia",Georgia,Thomas,20.4,9.3
+"Richmond, Georgia",Georgia,Richmond,21.0,8.4
+"Owyhee, Idaho",Idaho,Owyhee,18.1,7.7
+"Berrien, Georgia",Georgia,Berrien,25.6,11.3
+"Long, Georgia",Georgia,Long,22.8,7.8
+"Heard, Georgia",Georgia,Heard,23.2,10.2
+"Rockdale, Georgia",Georgia,Rockdale,18.1,7.1
+"Fannin, Georgia",Georgia,Fannin,18.8,10.6
+"Washington, Florida",Florida,Washington,25.4,12.4
+"Middlesex, Connecticut",Connecticut,Middlesex,12.5,5.7
+"Fulton, Georgia",Georgia,Fulton,14.2,5.2
+"Carroll, Georgia",Georgia,Carroll,21.4,8.1
+"Lee, Georgia",Georgia,Lee,19.0,7.1
+"Seminole, Georgia",Georgia,Seminole,21.7,11.0
+"Lewis, Idaho",Idaho,Lewis,18.6,9.9
+"Tolland, Connecticut",Connecticut,Tolland,12.4,5.1
+"Miami-Dade, Florida",Florida,Miami-Dade,13.2,6.0
+"Lincoln, Georgia",Georgia,Lincoln,21.4,11.0
+"Dixie, Florida",Florida,Dixie,26.2,14.2
+"Gilmer, Georgia",Georgia,Gilmer,20.1,10.5
+"Wakulla, Florida",Florida,Wakulla,21.0,9.2
+"Caribou, Idaho",Idaho,Caribou,18.0,7.0
+"Clinch, Georgia",Georgia,Clinch,29.5,13.9
+"Hernando, Florida",Florida,Hernando,19.1,10.7
+"Worth, Georgia",Georgia,Worth,22.5,10.5
+"Coffee, Georgia",Georgia,Coffee,24.5,9.5
+"Schley, Georgia",Georgia,Schley,20.8,9.3
+"Peach, Georgia",Georgia,Peach,20.5,8.5
+"Grady, Georgia",Georgia,Grady,21.9,10.2
+"Greene, Georgia",Georgia,Greene,18.8,10.6
+"Washington, Colorado",Colorado,Washington,17.2,7.3
+"Routt, Colorado",Colorado,Routt,13.6,5.0
+"Hardee, Florida",Florida,Hardee,21.9,10.4
+"Taylor, Florida",Florida,Taylor,26.5,12.4
+"Bonner, Idaho",Idaho,Bonner,17.1,8.4
+"Nassau, Florida",Florida,Nassau,17.8,9.0
+"Jones, Georgia",Georgia,Jones,20.4,8.9
+"Chattooga, Georgia",Georgia,Chattooga,26.5,11.7
+"Hendry, Florida",Florida,Hendry,21.5,9.0
+"Kent, Delaware",Delaware,Kent,18.1,8.6
+"Lee, Florida",Florida,Lee,16.0,9.0
+"Union, Florida",Florida,Union,27.0,11.0
+"Minidoka, Idaho",Idaho,Minidoka,16.5,6.5
+"Colquitt, Georgia",Georgia,Colquitt,23.0,10.0
+"Twiggs, Georgia",Georgia,Twiggs,23.5,11.5
+"Marion, Georgia",Georgia,Marion,22.5,10.8
+"Yuma, Colorado",Colorado,Yuma,16.4,6.6
+"Clay, Florida",Florida,Clay,19.6,8.2
+"Quitman, Georgia",Georgia,Quitman,23.5,14.2
+"Gooding, Idaho",Idaho,Gooding,16.8,6.9
+"Jerome, Idaho",Idaho,Jerome,18.0,6.5
+"Litchfield, Connecticut",Connecticut,Litchfield,13.3,6.2
+"Hancock, Georgia",Georgia,Hancock,25.8,11.8
+"Appling, Georgia",Georgia,Appling,24.6,11.3
+"Toombs, Georgia",Georgia,Toombs,22.5,10.1
+"Gulf, Florida",Florida,Gulf,21.2,11.6
+"Columbia, Georgia",Georgia,Columbia,16.0,5.8
+"Walton, Florida",Florida,Walton,20.2,9.9
+"St. Lucie, Florida",Florida,St. Lucie,17.0,9.3
+"Polk, Florida",Florida,Polk,17.8,9.2
+"Bay, Florida",Florida,Bay,21.6,9.5
+"Oglethorpe, Georgia",Georgia,Oglethorpe,21.7,9.9
+"Cobb, Georgia",Georgia,Cobb,14.2,5.2
+"Boise, Idaho",Idaho,Boise,14.9,7.6
+"Fremont, Idaho",Idaho,Fremont,16.6,6.9
+"Banks, Georgia",Georgia,Banks,23.2,10.4
+"Crawford, Georgia",Georgia,Crawford,23.2,10.7
+"Hamilton, Florida",Florida,Hamilton,26.4,12.4
+"Kalawao, Hawaii",Hawaii,Kalawao,14.6,8.2
+"Franklin, Georgia",Georgia,Franklin,21.6,10.3
+"Talbot, Georgia",Georgia,Talbot,23.2,11.8
+"Jasper, Georgia",Georgia,Jasper,22.6,10.3
+"Sedgwick, Colorado",Colorado,Sedgwick,17.3,8.5
+"Irwin, Georgia",Georgia,Irwin,23.9,10.4
+"Clay, Georgia",Georgia,Clay,25.5,14.7
+"Columbia, Florida",Florida,Columbia,24.8,11.1
+"Habersham, Georgia",Georgia,Habersham,19.8,8.7
+"Elmore, Idaho",Idaho,Elmore,18.0,6.3
+"Latah, Idaho",Idaho,Latah,13.6,5.1
+"Taliaferro, Georgia",Georgia,Taliaferro,23.6,12.0
+"Madison, Georgia",Georgia,Madison,21.3,9.6
+"District of Columbia, District of Columbia",District of Columbia,District of Columbia,14.7,4.3
+"Barrow, Georgia",Georgia,Barrow,21.2,7.4
+"Union, Georgia",Georgia,Union,17.8,10.8
+"Turner, Georgia",Georgia,Turner,23.9,11.2
+"Tattnall, Georgia",Georgia,Tattnall,24.7,9.6
+"Bartow, Georgia",Georgia,Bartow,21.0,8.6
+"Alachua, Florida",Florida,Alachua,14.8,6.7
+"Baldwin, Georgia",Georgia,Baldwin,20.6,8.5
+"Jeff Davis, Georgia",Georgia,Jeff Davis,26.4,11.7
+"Santa Rosa, Florida",Florida,Santa Rosa,19.3,8.3
+"Crisp, Georgia",Georgia,Crisp,24.6,12.1
+"Tift, Georgia",Georgia,Tift,22.2,8.9
+"Dougherty, Georgia",Georgia,Dougherty,22.2,9.4
+"Hartford, Connecticut",Connecticut,Hartford,12.9,5.2
+"Troup, Georgia",Georgia,Troup,22.2,9.1
+"Maui, Hawaii",Hawaii,Maui,15.2,5.0
+"Gem, Idaho",Idaho,Gem,17.2,8.1
+"Harris, Georgia",Georgia,Harris,16.6,7.1
+"Dooly, Georgia",Georgia,Dooly,23.3,10.3
+"Randolph, Georgia",Georgia,Randolph,25.2,13.9
+"Pasco, Florida",Florida,Pasco,20.1,9.4
+"Cherokee, Georgia",Georgia,Cherokee,15.1,6.0
+"Wilcox, Georgia",Georgia,Wilcox,24.5,10.2
+"Wayne, Georgia",Georgia,Wayne,24.0,9.9
+"Orange, Florida",Florida,Orange,15.5,6.1
+"Escambia, Florida",Florida,Escambia,18.7,8.5
+"Decatur, Georgia",Georgia,Decatur,21.6,9.7
+"Muscogee, Georgia",Georgia,Muscogee,20.6,7.6
+"Bulloch, Georgia",Georgia,Bulloch,19.4,7.4
+"Pinellas, Florida",Florida,Pinellas,17.7,9.4
+"Rio Grande, Colorado",Colorado,Rio Grande,14.9,6.0
+"St. Johns, Florida",Florida,St. Johns,15.7,7.5
+"Madison, Idaho",Idaho,Madison,14.1,4.9
+"Highlands, Florida",Florida,Highlands,18.2,12.0
+"Fairfield, Connecticut",Connecticut,Fairfield,10.7,4.6
+"Weld, Colorado",Colorado,Weld,15.0,4.7
+"Washington, Georgia",Georgia,Washington,23.8,10.2
+"Calhoun, Georgia",Georgia,Calhoun,27.9,11.2
+"Chattahoochee, Georgia",Georgia,Chattahoochee,18.6,4.3
+"Nez Perce, Idaho",Idaho,Nez Perce,16.4,7.2
+"Candler, Georgia",Georgia,Candler,24.9,11.7
+"Hart, Georgia",Georgia,Hart,22.1,10.9
+"Saguache, Colorado",Colorado,Saguache,16.5,7.8
+"Glades, Florida",Florida,Glades,22.9,12.0
+"Putnam, Florida",Florida,Putnam,25.5,13.5
+"Rio Blanco, Colorado",Colorado,Rio Blanco,16.7,6.3
+"Gwinnett, Georgia",Georgia,Gwinnett,15.4,5.3
+"Lowndes, Georgia",Georgia,Lowndes,19.3,7.6
+"Sussex, Delaware",Delaware,Sussex,16.1,9.8
+"Kauai, Hawaii",Hawaii,Kauai,14.1,5.1
+"Indian River, Florida",Florida,Indian River,16.0,10.4
+"Suwannee, Florida",Florida,Suwannee,21.8,11.3
+"Rabun, Georgia",Georgia,Rabun,19.7,11.0
+"Paulding, Georgia",Georgia,Paulding,18.9,6.5
+"Kootenai, Idaho",Idaho,Kootenai,16.8,6.8
+"Holmes, Florida",Florida,Holmes,25.6,13.5
+"McIntosh, Georgia",Georgia,McIntosh,19.8,10.5
+"Hall, Georgia",Georgia,Hall,17.9,7.1
+"Prowers, Colorado",Colorado,Prowers,15.7,6.3
+"Murray, Georgia",Georgia,Murray,23.1,9.6
+"Forsyth, Georgia",Georgia,Forsyth,12.9,4.8
+"Osceola, Florida",Florida,Osceola,15.8,6.5
+"Brooks, Georgia",Georgia,Brooks,21.6,10.5
+"Gilchrist, Florida",Florida,Gilchrist,22.9,12.4
+"Coweta, Georgia",Georgia,Coweta,17.5,6.9
+"Morgan, Georgia",Georgia,Morgan,18.6,8.2
+"Franklin, Idaho",Idaho,Franklin,15.8,6.5
+"Citrus, Florida",Florida,Citrus,19.9,13.3
+"Brantley, Georgia",Georgia,Brantley,26.7,12.0
+"Camden, Georgia",Georgia,Camden,18.8,7.2
+"Jefferson, Idaho",Idaho,Jefferson,15.2,5.5
+"Sumter, Florida",Florida,Sumter,13.2,11.7
+"Jackson, Florida",Florida,Jackson,24.4,11.9
+"Chatham, Georgia",Georgia,Chatham,17.6,6.8
+"Bryan, Georgia",Georgia,Bryan,17.3,6.1
+"Warren, Georgia",Georgia,Warren,24.2,12.5
+"Benewah, Idaho",Idaho,Benewah,19.5,9.3
+"Cook, Georgia",Georgia,Cook,23.5,10.5
+"New Castle, Delaware",Delaware,New Castle,15.2,6.7
+"Martin, Florida",Florida,Martin,15.2,9.5
+"Pueblo, Colorado",Colorado,Pueblo,17.3,5.8
+"Floyd, Georgia",Georgia,Floyd,21.4,8.9
+"White, Georgia",Georgia,White,18.3,9.1
+"Mitchell, Georgia",Georgia,Mitchell,24.7,10.8
+"Polk, Georgia",Georgia,Polk,23.2,9.5
+"Screven, Georgia",Georgia,Screven,23.8,10.6
+"Webster, Georgia",Georgia,Webster,20.9,10.5
+"Meriwether, Georgia",Georgia,Meriwether,23.6,11.4
+"Sumter, Georgia",Georgia,Sumter,21.7,9.5
+"Haralson, Georgia",Georgia,Haralson,22.5,9.6
+"Beauregard, Louisiana",Louisiana,Beauregard,22.2,8.6
+"Greene, Illinois",Illinois,Greene,20.7,9.1
+"Palo Alto, Iowa",Iowa,Palo Alto,15.6,6.6
+"Hamilton, Iowa",Iowa,Hamilton,16.7,6.8
+"Story, Iowa",Iowa,Story,12.6,4.4
+"Lee, Iowa",Iowa,Lee,19.7,7.8
+"Hardin, Iowa",Iowa,Hardin,17.7,7.2
+"Harrison, Indiana",Indiana,Harrison,21.7,9.4
+"Henderson, Illinois",Illinois,Henderson,17.6,8.9
+"Clinton, Indiana",Indiana,Clinton,20.6,9.1
+"Scott, Indiana",Indiana,Scott,25.2,10.9
+"Clay, Illinois",Illinois,Clay,20.6,9.7
+"Wayne, Indiana",Indiana,Wayne,23.4,10.3
+"Wayne, Illinois",Illinois,Wayne,19.9,9.5
+"Johnson, Indiana",Indiana,Johnson,18.5,7.2
+"Clay, Indiana",Indiana,Clay,22.2,9.8
+"Sullivan, Indiana",Indiana,Sullivan,23.8,10.1
+"DeKalb, Illinois",Illinois,DeKalb,16.0,5.8
+"Howard, Indiana",Indiana,Howard,20.7,9.5
+"Knox, Indiana",Indiana,Knox,21.1,9.7
+"Peoria, Illinois",Illinois,Peoria,17.0,7.3
+"Kosciusko, Indiana",Indiana,Kosciusko,18.9,8.5
+"Crawford, Indiana",Indiana,Crawford,25.8,12.6
+"Delaware, Iowa",Iowa,Delaware,18.1,7.3
+"Wapello, Iowa",Iowa,Wapello,18.5,7.3
+"Rock Island, Illinois",Illinois,Rock Island,17.8,7.3
+"Starke, Indiana",Indiana,Starke,23.1,10.8
+"Jefferson, Illinois",Illinois,Jefferson,20.1,8.9
+"Pottawattamie, Iowa",Iowa,Pottawattamie,20.2,6.9
+"Marion, Iowa",Iowa,Marion,15.4,6.1
+"Benton, Iowa",Iowa,Benton,16.9,6.6
+"Chickasaw, Iowa",Iowa,Chickasaw,17.9,7.3
+"Pike, Illinois",Illinois,Pike,20.1,9.6
+"Buchanan, Iowa",Iowa,Buchanan,17.4,6.6
+"Adams, Indiana",Indiana,Adams,23.0,10.3
+"Effingham, Illinois",Illinois,Effingham,18.2,7.7
+"Fayette, Iowa",Iowa,Fayette,17.8,7.5
+"DuPage, Illinois",Illinois,DuPage,11.0,4.8
+"Washington, Iowa",Iowa,Washington,17.1,6.8
+"Jackson, Indiana",Indiana,Jackson,22.2,9.6
+"Lake, Indiana",Indiana,Lake,20.2,7.9
+"Piatt, Illinois",Illinois,Piatt,16.3,7.1
+"Ogle, Illinois",Illinois,Ogle,17.3,7.5
+"Dubuque, Iowa",Iowa,Dubuque,15.4,6.0
+"Wabash, Illinois",Illinois,Wabash,18.3,8.6
+"Fayette, Indiana",Indiana,Fayette,24.8,11.8
+"Blackford, Indiana",Indiana,Blackford,23.2,11.3
+"Woodford, Illinois",Illinois,Woodford,15.4,6.7
+"Spencer, Indiana",Indiana,Spencer,21.1,9.7
+"Crawford, Illinois",Illinois,Crawford,19.7,8.5
+"Mahaska, Iowa",Iowa,Mahaska,18.2,7.3
+"Marshall, Illinois",Illinois,Marshall,17.9,8.5
+"Adair, Iowa",Iowa,Adair,18.0,7.6
+"Floyd, Indiana",Indiana,Floyd,18.9,7.9
+"Jasper, Illinois",Illinois,Jasper,19.5,8.8
+"Vigo, Indiana",Indiana,Vigo,21.5,9.0
+"Hardin, Illinois",Illinois,Hardin,20.9,10.8
+"Fountain, Indiana",Indiana,Fountain,21.2,9.9
+"Fremont, Iowa",Iowa,Fremont,17.7,7.9
+"Noble, Indiana",Indiana,Noble,21.2,9.0
+"Jay, Indiana",Indiana,Jay,23.6,10.8
+"Montgomery, Illinois",Illinois,Montgomery,20.1,9.2
+"Clayton, Iowa",Iowa,Clayton,18.7,8.4
+"Tippecanoe, Indiana",Indiana,Tippecanoe,16.2,6.3
+"Emmet, Iowa",Iowa,Emmet,17.1,7.1
+"Morgan, Illinois",Illinois,Morgan,19.4,8.6
+"Rush, Indiana",Indiana,Rush,22.9,10.4
+"Cumberland, Illinois",Illinois,Cumberland,20.0,9.2
+"Wabash, Indiana",Indiana,Wabash,21.5,10.0
+"Warren, Iowa",Iowa,Warren,16.0,5.5
+"Stephenson, Illinois",Illinois,Stephenson,17.7,9.0
+"Jennings, Indiana",Indiana,Jennings,22.7,9.9
+"Henry, Illinois",Illinois,Henry,17.5,7.8
+"Sangamon, Illinois",Illinois,Sangamon,16.9,7.3
+"Lake, Illinois",Illinois,Lake,12.6,5.0
+"Gallatin, Illinois",Illinois,Gallatin,22.0,11.3
+"Valley, Idaho",Idaho,Valley,14.2,6.9
+"Des Moines, Iowa",Iowa,Des Moines,18.7,7.9
+"Fayette, Illinois",Illinois,Fayette,22.0,9.9
+"Huntington, Indiana",Indiana,Huntington,20.6,9.0
+"Monroe, Illinois",Illinois,Monroe,14.7,6.4
+"LaSalle, Illinois",Illinois,LaSalle,18.4,8.0
+"Wayne, Iowa",Iowa,Wayne,20.0,9.3
+"Whiteside, Illinois",Illinois,Whiteside,17.5,7.9
+"Hendricks, Indiana",Indiana,Hendricks,16.5,6.4
+"McDonough, Illinois",Illinois,McDonough,17.0,7.4
+"Mills, Iowa",Iowa,Mills,17.4,6.6
+"Jasper, Iowa",Iowa,Jasper,17.7,6.8
+"Franklin, Iowa",Iowa,Franklin,17.1,7.5
+"Tipton, Indiana",Indiana,Tipton,19.2,9.2
+"Dallas, Iowa",Iowa,Dallas,13.1,4.0
+"Porter, Indiana",Indiana,Porter,17.6,7.5
+"Williamson, Illinois",Illinois,Williamson,18.8,8.2
+"Howard, Iowa",Iowa,Howard,17.7,7.4
+"Delaware, Indiana",Indiana,Delaware,20.2,9.3
+"Marshall, Indiana",Indiana,Marshall,21.0,9.6
+"Cherokee, Iowa",Iowa,Cherokee,16.3,7.4
+"Buena Vista, Iowa",Iowa,Buena Vista,16.3,6.1
+"Henry, Indiana",Indiana,Henry,22.9,10.3
+"Fulton, Indiana",Indiana,Fulton,20.6,9.6
+"Franklin, Illinois",Illinois,Franklin,21.3,10.2
+"Kossuth, Iowa",Iowa,Kossuth,16.8,7.6
+"Clinton, Illinois",Illinois,Clinton,18.2,7.5
+"Hancock, Indiana",Indiana,Hancock,17.5,7.6
+"Elkhart, Indiana",Indiana,Elkhart,19.4,8.3
+"Bartholomew, Indiana",Indiana,Bartholomew,18.9,7.6
+"Adams, Iowa",Iowa,Adams,18.3,8.0
+"Stark, Illinois",Illinois,Stark,19.3,9.4
+"Marion, Illinois",Illinois,Marion,20.7,9.7
+"Audubon, Iowa",Iowa,Audubon,17.6,8.1
+"LaGrange, Indiana",Indiana,LaGrange,24.4,10.6
+"Carroll, Illinois",Illinois,Carroll,17.5,8.6
+"Monroe, Indiana",Indiana,Monroe,16.8,6.6
+"Pike, Indiana",Indiana,Pike,21.8,10.4
+"Mercer, Illinois",Illinois,Mercer,18.1,8.3
+"Edgar, Illinois",Illinois,Edgar,18.5,8.7
+"Putnam, Illinois",Illinois,Putnam,17.0,7.9
+"Woodbury, Iowa",Iowa,Woodbury,17.9,6.1
+"Vermillion, Indiana",Indiana,Vermillion,22.4,10.3
+"Winnebago, Illinois",Illinois,Winnebago,17.7,7.7
+"Greene, Iowa",Iowa,Greene,18.1,7.5
+"McLean, Illinois",Illinois,McLean,14.9,5.7
+"Poweshiek, Iowa",Iowa,Poweshiek,16.0,6.6
+"Monroe, Iowa",Iowa,Monroe,18.7,7.6
+"Cook, Illinois",Illinois,Cook,14.6,5.3
+"Montgomery, Iowa",Iowa,Montgomery,19.0,8.2
+"Vermilion, Illinois",Illinois,Vermilion,20.6,9.3
+"Perry, Indiana",Indiana,Perry,22.2,9.4
+"Madison, Illinois",Illinois,Madison,18.2,7.4
+"Appanoose, Iowa",Iowa,Appanoose,19.6,8.8
+"Cass, Indiana",Indiana,Cass,22.0,9.7
+"Carroll, Iowa",Iowa,Carroll,16.9,6.8
+"Fulton, Illinois",Illinois,Fulton,19.3,8.9
+"Knox, Illinois",Illinois,Knox,19.2,9.1
+"Jo Daviess, Illinois",Illinois,Jo Daviess,16.1,8.7
+"Keokuk, Iowa",Iowa,Keokuk,19.3,7.7
+"Douglas, Illinois",Illinois,Douglas,19.8,8.5
+"Randolph, Indiana",Indiana,Randolph,22.1,10.6
+"Franklin, Indiana",Indiana,Franklin,21.3,9.6
+"Marshall, Iowa",Iowa,Marshall,17.1,6.6
+"Allamakee, Iowa",Iowa,Allamakee,17.0,7.9
+"Shelby, Iowa",Iowa,Shelby,16.7,7.2
+"Steuben, Indiana",Indiana,Steuben,20.5,9.2
+"Crawford, Iowa",Iowa,Crawford,18.5,6.8
+"St. Joseph, Indiana",Indiana,St. Joseph,19.0,7.9
+"Will, Illinois",Illinois,Will,14.2,5.5
+"Vanderburgh, Indiana",Indiana,Vanderburgh,21.0,9.0
+"Moultrie, Illinois",Illinois,Moultrie,19.3,8.5
+"Winneshiek, Iowa",Iowa,Winneshiek,14.4,5.9
+"Randolph, Illinois",Illinois,Randolph,21.0,8.8
+"Louisa, Iowa",Iowa,Louisa,17.9,6.8
+"Linn, Iowa",Iowa,Linn,15.3,5.7
+"Alexander, Illinois",Illinois,Alexander,21.9,11.1
+"Bremer, Iowa",Iowa,Bremer,14.8,5.8
+"Harrison, Iowa",Iowa,Harrison,17.5,7.3
+"Cass, Illinois",Illinois,Cass,19.5,8.3
+"Washington, Indiana",Indiana,Washington,23.3,10.3
+"Miami, Indiana",Indiana,Miami,23.1,10.2
+"Page, Iowa",Iowa,Page,18.5,7.3
+"Decatur, Iowa",Iowa,Decatur,17.5,7.6
+"Montgomery, Indiana",Indiana,Montgomery,21.4,9.4
+"Butler, Iowa",Iowa,Butler,16.9,7.4
+"De Witt, Illinois",Illinois,De Witt,18.9,8.5
+"Parke, Indiana",Indiana,Parke,23.0,10.8
+"Gibson, Indiana",Indiana,Gibson,20.7,9.0
+"Davis, Iowa",Iowa,Davis,20.0,7.7
+"McHenry, Illinois",Illinois,McHenry,15.0,5.7
+"Pocahontas, Iowa",Iowa,Pocahontas,18.9,8.0
+"Kendall, Illinois",Illinois,Kendall,13.7,4.5
+"Boone, Iowa",Iowa,Boone,18.3,6.5
+"Macon, Illinois",Illinois,Macon,19.1,8.6
+"Tazewell, Illinois",Illinois,Tazewell,17.2,7.5
+"White, Illinois",Illinois,White,20.1,9.6
+"Webster, Iowa",Iowa,Webster,18.9,7.3
+"Martin, Indiana",Indiana,Martin,22.0,10.2
+"Lawrence, Indiana",Indiana,Lawrence,21.8,10.2
+"Union, Indiana",Indiana,Union,21.7,10.1
+"Richland, Illinois",Illinois,Richland,19.4,9.3
+"Ohio, Indiana",Indiana,Ohio,21.0,9.8
+"Winnebago, Iowa",Iowa,Winnebago,16.5,6.9
+"Johnson, Illinois",Illinois,Johnson,19.9,8.9
+"Morgan, Indiana",Indiana,Morgan,20.5,9.2
+"Washington, Idaho",Idaho,Washington,16.8,8.8
+"White, Indiana",Indiana,White,20.3,9.5
+"Grundy, Iowa",Iowa,Grundy,15.4,6.3
+"Menard, Illinois",Illinois,Menard,17.1,7.7
+"Osceola, Iowa",Iowa,Osceola,17.1,7.6
+"Hancock, Illinois",Illinois,Hancock,18.1,9.0
+"Clinton, Iowa",Iowa,Clinton,19.1,7.8
+"Lyon, Iowa",Iowa,Lyon,17.4,6.6
+"Greene, Indiana",Indiana,Greene,22.0,10.5
+"Bond, Illinois",Illinois,Bond,19.0,8.2
+"Livingston, Illinois",Illinois,Livingston,19.9,8.8
+"Warren, Indiana",Indiana,Warren,19.8,9.4
+"Clark, Indiana",Indiana,Clark,20.6,8.6
+"Warrick, Indiana",Indiana,Warrick,17.3,7.6
+"Union, Iowa",Iowa,Union,18.6,7.7
+"Decatur, Indiana",Indiana,Decatur,21.0,9.1
+"Lee, Illinois",Illinois,Lee,18.4,8.0
+"Scott, Iowa",Iowa,Scott,17.6,6.0
+"Boone, Indiana",Indiana,Boone,15.7,6.1
+"Lawrence, Illinois",Illinois,Lawrence,21.2,8.7
+"Johnson, Iowa",Iowa,Johnson,13.6,4.4
+"Shelby, Indiana",Indiana,Shelby,21.7,9.3
+"Power, Idaho",Idaho,Power,16.4,6.5
+"Ida, Iowa",Iowa,Ida,17.4,7.1
+"Schuyler, Illinois",Illinois,Schuyler,19.4,9.3
+"Jefferson, Indiana",Indiana,Jefferson,21.4,9.6
+"Scott, Illinois",Illinois,Scott,19.6,8.8
+"Muscatine, Iowa",Iowa,Muscatine,16.6,6.1
+"Coles, Illinois",Illinois,Coles,18.8,8.0
+"Humboldt, Iowa",Iowa,Humboldt,17.5,7.6
+"Calhoun, Iowa",Iowa,Calhoun,18.0,7.6
+"Bureau, Illinois",Illinois,Bureau,17.0,8.1
+"Cedar, Iowa",Iowa,Cedar,16.2,6.3
+"Taylor, Iowa",Iowa,Taylor,18.7,7.9
+"Teton, Idaho",Idaho,Teton,13.7,4.7
+"Brown, Indiana",Indiana,Brown,18.4,9.7
+"Newton, Indiana",Indiana,Newton,21.7,10.0
+"Union, Illinois",Illinois,Union,19.7,9.5
+"Shoshone, Idaho",Idaho,Shoshone,21.1,10.1
+"Edwards, Illinois",Illinois,Edwards,18.8,8.8
+"Cerro Gordo, Iowa",Iowa,Cerro Gordo,16.4,6.9
+"Hamilton, Indiana",Indiana,Hamilton,12.7,5.0
+"Shelby, Illinois",Illinois,Shelby,19.2,9.1
+"Madison, Iowa",Iowa,Madison,16.9,6.1
+"Wells, Indiana",Indiana,Wells,20.0,9.0
+"Jackson, Iowa",Iowa,Jackson,17.9,7.7
+"Kankakee, Illinois",Illinois,Kankakee,17.7,7.5
+"DeKalb, Indiana",Indiana,DeKalb,21.2,8.9
+"Van Buren, Iowa",Iowa,Van Buren,19.7,8.4
+"Orange, Indiana",Indiana,Orange,24.0,11.6
+"Floyd, Iowa",Iowa,Floyd,18.5,7.8
+"Owen, Indiana",Indiana,Owen,23.3,11.4
+"St. Clair, Illinois",Illinois,St. Clair,18.0,7.3
+"Clark, Illinois",Illinois,Clark,19.1,8.7
+"Marion, Indiana",Indiana,Marion,18.8,7.4
+"Massac, Illinois",Illinois,Massac,20.3,9.8
+"Lucas, Iowa",Iowa,Lucas,19.1,8.0
+"Grant, Indiana",Indiana,Grant,21.3,10.1
+"Plymouth, Iowa",Iowa,Plymouth,15.6,6.4
+"Hancock, Iowa",Iowa,Hancock,16.5,7.0
+"Adams, Illinois",Illinois,Adams,17.9,8.1
+"Champaign, Illinois",Illinois,Champaign,14.6,5.5
+"Sioux, Iowa",Iowa,Sioux,14.7,5.4
+"Mitchell, Iowa",Iowa,Mitchell,17.3,7.4
+"Allen, Indiana",Indiana,Allen,19.2,7.8
+"Jackson, Illinois",Illinois,Jackson,17.9,7.5
+"Carroll, Indiana",Indiana,Carroll,20.3,9.6
+"Christian, Illinois",Illinois,Christian,19.7,8.8
+"Hamilton, Illinois",Illinois,Hamilton,18.8,9.0
+"Perry, Illinois",Illinois,Perry,21.2,9.0
+"Clay, Iowa",Iowa,Clay,17.0,7.1
+"Jersey, Illinois",Illinois,Jersey,17.9,7.9
+"Washington, Illinois",Illinois,Washington,17.3,7.8
+"Kane, Illinois",Illinois,Kane,14.9,5.4
+"Ripley, Indiana",Indiana,Ripley,21.3,9.5
+"Sac, Iowa",Iowa,Sac,16.8,7.3
+"Iowa, Iowa",Iowa,Iowa,17.0,6.8
+"Clarke, Iowa",Iowa,Clarke,18.1,7.5
+"Putnam, Indiana",Indiana,Putnam,20.6,8.6
+"LaPorte, Indiana",Indiana,LaPorte,24.1,9.9
+"Twin Falls, Idaho",Idaho,Twin Falls,16.3,6.4
+"Brown, Illinois",Illinois,Brown,20.9,7.0
+"Dearborn, Indiana",Indiana,Dearborn,21.0,9.1
+"Whitley, Indiana",Indiana,Whitley,20.0,8.9
+"Jones, Iowa",Iowa,Jones,18.3,7.4
+"Mason, Illinois",Illinois,Mason,20.1,9.7
+"Grundy, Illinois",Illinois,Grundy,16.9,6.3
+"Macoupin, Illinois",Illinois,Macoupin,19.3,8.9
+"Saline, Illinois",Illinois,Saline,21.2,10.2
+"Black Hawk, Iowa",Iowa,Black Hawk,18.0,6.3
+"Pulaski, Illinois",Illinois,Pulaski,21.9,11.0
+"Tama, Iowa",Iowa,Tama,17.8,7.2
+"Logan, Illinois",Illinois,Logan,18.3,7.5
+"Jasper, Indiana",Indiana,Jasper,20.4,8.8
+"Iroquois, Illinois",Illinois,Iroquois,19.1,9.1
+"Ford, Illinois",Illinois,Ford,18.8,8.6
+"Ringgold, Iowa",Iowa,Ringgold,17.1,7.8
+"Calhoun, Illinois",Illinois,Calhoun,18.7,9.2
+"Guthrie, Iowa",Iowa,Guthrie,17.0,7.4
+"Posey, Indiana",Indiana,Posey,19.5,8.7
+"Daviess, Indiana",Indiana,Daviess,24.0,10.7
+"Dubois, Indiana",Indiana,Dubois,18.7,8.4
+"Jefferson, Iowa",Iowa,Jefferson,15.8,6.7
+"Polk, Iowa",Iowa,Polk,17.5,5.4
+"Pulaski, Indiana",Indiana,Pulaski,22.3,10.5
+"Warren, Illinois",Illinois,Warren,17.3,7.8
+"Benton, Indiana",Indiana,Benton,21.8,10.2
+"Boone, Illinois",Illinois,Boone,16.5,6.6
+"O'Brien, Iowa",Iowa,O'Brien,18.0,7.3
+"Madison, Indiana",Indiana,Madison,23.5,10.3
+"Pope, Illinois",Illinois,Pope,19.4,10.4
+"Switzerland, Indiana",Indiana,Switzerland,25.2,11.8
+"Dickinson, Iowa",Iowa,Dickinson,14.9,6.8
+"Henry, Iowa",Iowa,Henry,18.0,6.8
+"Acadia, Louisiana",Louisiana,Acadia,24.1,10.4
+"Letcher, Kentucky",Kentucky,Letcher,30.7,16.2
+"Clark, Kentucky",Kentucky,Clark,22.9,10.4
+"Morris, Kansas",Kansas,Morris,17.1,8.1
+"Rowan, Kentucky",Kentucky,Rowan,24.8,11.0
+"Osage, Kansas",Kansas,Osage,18.5,8.5
+"Webster, Kentucky",Kentucky,Webster,27.6,12.9
+"Barren, Kentucky",Kentucky,Barren,27.2,12.7
+"Geary, Kansas",Kansas,Geary,17.9,4.6
+"Nelson, Kentucky",Kentucky,Nelson,22.1,9.2
+"Union, Louisiana",Louisiana,Union,21.9,9.7
+"Comanche, Kansas",Kansas,Comanche,16.0,7.8
+"Greeley, Kansas",Kansas,Greeley,15.1,6.6
+"Lincoln, Louisiana",Louisiana,Lincoln,18.7,7.2
+"Morton, Kansas",Kansas,Morton,17.1,7.7
+"Owen, Kentucky",Kentucky,Owen,26.6,12.6
+"West Carroll, Louisiana",Louisiana,West Carroll,24.5,10.8
+"Trimble, Kentucky",Kentucky,Trimble,25.3,11.7
+"Decatur, Kansas",Kansas,Decatur,16.5,8.6
+"Tensas, Louisiana",Louisiana,Tensas,27.1,14.5
+"Sherman, Kansas",Kansas,Sherman,15.3,6.6
+"Fayette, Kentucky",Kentucky,Fayette,16.9,7.2
+"Neosho, Kansas",Kansas,Neosho,18.9,8.5
+"Fleming, Kentucky",Kentucky,Fleming,26.7,12.9
+"Pratt, Kansas",Kansas,Pratt,16.0,7.2
+"Estill, Kentucky",Kentucky,Estill,30.0,15.1
+"Laurel, Kentucky",Kentucky,Laurel,26.5,12.8
+"Clay, Kansas",Kansas,Clay,16.0,7.6
+"Lawrence, Kentucky",Kentucky,Lawrence,30.5,14.9
+"Anderson, Kentucky",Kentucky,Anderson,22.5,10.1
+"Assumption, Louisiana",Louisiana,Assumption,24.9,10.6
+"Gove, Kansas",Kansas,Gove,16.7,8.5
+"Ellis, Kansas",Kansas,Ellis,15.5,6.2
+"Evangeline, Louisiana",Louisiana,Evangeline,27.5,11.3
+"Plaquemines, Louisiana",Louisiana,Plaquemines,21.4,7.8
+"St. Landry, Louisiana",Louisiana,St. Landry,26.0,10.5
+"Lincoln, Kentucky",Kentucky,Lincoln,27.2,13.3
+"Mason, Kentucky",Kentucky,Mason,23.6,11.1
+"Franklin, Kentucky",Kentucky,Franklin,20.2,9.1
+"Butler, Kansas",Kansas,Butler,16.5,6.4
+"Cumberland, Maine",Maine,Cumberland,13.5,6.8
+"Rapides, Louisiana",Louisiana,Rapides,21.4,8.7
+"Thomas, Kansas",Kansas,Thomas,17.0,6.9
+"Magoffin, Kentucky",Kentucky,Magoffin,30.7,15.8
+"Terrebonne, Louisiana",Louisiana,Terrebonne,24.2,9.6
+"Russell, Kansas",Kansas,Russell,17.1,8.5
+"Union, Kentucky",Kentucky,Union,24.7,10.9
+"Larue, Kentucky",Kentucky,Larue,25.5,11.6
+"Elliott, Kentucky",Kentucky,Elliott,31.1,15.3
+"Clark, Kansas",Kansas,Clark,15.5,7.0
+"Franklin, Kansas",Kansas,Franklin,18.1,7.4
+"Republic, Kansas",Kansas,Republic,15.8,8.3
+"Logan, Kentucky",Kentucky,Logan,26.0,11.6
+"Jefferson, Kansas",Kansas,Jefferson,17.5,7.1
+"Wayne, Kentucky",Kentucky,Wayne,27.6,14.7
+"Red River, Louisiana",Louisiana,Red River,24.8,11.2
+"Madison, Kentucky",Kentucky,Madison,21.0,8.7
+"Daviess, Kentucky",Kentucky,Daviess,22.6,9.8
+"Bullitt, Kentucky",Kentucky,Bullitt,23.4,9.6
+"Woodford, Kentucky",Kentucky,Woodford,18.9,8.8
+"Harrison, Kentucky",Kentucky,Harrison,25.3,12.0
+"Shelby, Kentucky",Kentucky,Shelby,20.6,8.7
+"Nemaha, Kansas",Kansas,Nemaha,16.3,7.1
+"Jefferson, Louisiana",Louisiana,Jefferson,18.5,7.3
+"Washington, Kentucky",Kentucky,Washington,23.3,10.8
+"Owsley, Kentucky",Kentucky,Owsley,29.4,15.2
+"Powell, Kentucky",Kentucky,Powell,27.0,12.3
+"Norton, Kansas",Kansas,Norton,18.1,7.6
+"Gray, Kansas",Kansas,Gray,16.5,6.5
+"Seward, Kansas",Kansas,Seward,17.2,5.8
+"Leslie, Kentucky",Kentucky,Leslie,32.1,16.6
+"Metcalfe, Kentucky",Kentucky,Metcalfe,29.2,14.4
+"Christian, Kentucky",Kentucky,Christian,24.9,8.9
+"Jefferson Davis, Louisiana",Louisiana,Jefferson Davis,23.2,9.6
+"Montgomery, Kansas",Kansas,Montgomery,19.2,8.6
+"Trego, Kansas",Kansas,Trego,15.9,7.9
+"Wichita, Kansas",Kansas,Wichita,14.1,6.0
+"Breathitt, Kentucky",Kentucky,Breathitt,30.1,15.6
+"Breckinridge, Kentucky",Kentucky,Breckinridge,25.7,12.7
+"McPherson, Kansas",Kansas,McPherson,15.9,7.0
+"East Feliciana, Louisiana",Louisiana,East Feliciana,23.9,9.3
+"Lyon, Kansas",Kansas,Lyon,15.7,6.2
+"Kearny, Kansas",Kansas,Kearny,18.6,7.4
+"Atchison, Kansas",Kansas,Atchison,18.7,7.3
+"Greenup, Kentucky",Kentucky,Greenup,22.3,11.4
+"Monroe, Kentucky",Kentucky,Monroe,27.3,13.6
+"Cheyenne, Kansas",Kansas,Cheyenne,16.1,8.3
+"Rush, Kansas",Kansas,Rush,16.1,8.1
+"Douglas, Kansas",Kansas,Douglas,13.9,4.8
+"Caldwell, Kentucky",Kentucky,Caldwell,23.6,12.0
+"Edmonson, Kentucky",Kentucky,Edmonson,27.3,13.5
+"Jewell, Kansas",Kansas,Jewell,17.1,9.8
+"Bracken, Kentucky",Kentucky,Bracken,25.8,11.8
+"Lafourche, Louisiana",Louisiana,Lafourche,22.9,8.9
+"Muhlenberg, Kentucky",Kentucky,Muhlenberg,25.5,12.2
+"Stafford, Kansas",Kansas,Stafford,16.7,8.1
+"Rockcastle, Kentucky",Kentucky,Rockcastle,27.8,13.8
+"Franklin, Maine",Maine,Franklin,18.6,9.6
+"Boyd, Kentucky",Kentucky,Boyd,23.9,11.6
+"Carter, Kentucky",Kentucky,Carter,27.5,13.8
+"Graves, Kentucky",Kentucky,Graves,25.2,11.6
+"Floyd, Kentucky",Kentucky,Floyd,30.0,15.6
+"Chase, Kansas",Kansas,Chase,16.4,8.0
+"Lyon, Kentucky",Kentucky,Lyon,22.7,11.6
+"Jackson, Kansas",Kansas,Jackson,18.1,7.6
+"Mitchell, Kansas",Kansas,Mitchell,16.9,8.0
+"Labette, Kansas",Kansas,Labette,20.3,8.8
+"Claiborne, Louisiana",Louisiana,Claiborne,27.6,11.9
+"Miami, Kansas",Kansas,Miami,16.0,6.1
+"Wolfe, Kentucky",Kentucky,Wolfe,32.6,17.3
+"Morgan, Kentucky",Kentucky,Morgan,29.8,13.4
+"Taylor, Kentucky",Kentucky,Taylor,24.1,10.9
+"Wallace, Kansas",Kansas,Wallace,14.4,7.0
+"Robertson, Kentucky",Kentucky,Robertson,24.9,13.3
+"Dickinson, Kansas",Kansas,Dickinson,17.6,7.9
+"Vermilion, Louisiana",Louisiana,Vermilion,23.8,9.4
+"Aroostook, Maine",Maine,Aroostook,20.3,11.9
+"Pointe Coupee, Louisiana",Louisiana,Pointe Coupee,23.1,10.2
+"McCreary, Kentucky",Kentucky,McCreary,32.8,15.1
+"Leavenworth, Kansas",Kansas,Leavenworth,17.4,5.8
+"Ballard, Kentucky",Kentucky,Ballard,23.2,12.0
+"Lafayette, Louisiana",Louisiana,Lafayette,20.5,7.0
+"Phillips, Kansas",Kansas,Phillips,17.3,8.5
+"Livingston, Louisiana",Louisiana,Livingston,22.9,7.9
+"Butler, Kentucky",Kentucky,Butler,26.5,12.6
+"Sumner, Kansas",Kansas,Sumner,17.3,7.7
+"Edwards, Kansas",Kansas,Edwards,16.7,7.9
+"Spencer, Kentucky",Kentucky,Spencer,22.2,8.9
+"Coffey, Kansas",Kansas,Coffey,16.8,7.8
+"East Carroll, Louisiana",Louisiana,East Carroll,32.0,13.2
+"Hopkins, Kentucky",Kentucky,Hopkins,24.6,11.3
+"Logan, Kansas",Kansas,Logan,17.6,7.8
+"Knott, Kentucky",Kentucky,Knott,29.8,16.0
+"Adair, Kentucky",Kentucky,Adair,26.9,12.7
+"Montgomery, Kentucky",Kentucky,Montgomery,25.6,11.7
+"St. James, Louisiana",Louisiana,St. James,22.1,8.7
+"Pike, Kentucky",Kentucky,Pike,27.5,14.3
+"Hamilton, Kansas",Kansas,Hamilton,17.6,6.3
+"Sedgwick, Kansas",Kansas,Sedgwick,16.8,6.2
+"Casey, Kentucky",Kentucky,Casey,28.7,14.8
+"West Feliciana, Louisiana",Louisiana,West Feliciana,21.3,7.2
+"Lewis, Kentucky",Kentucky,Lewis,30.8,15.4
+"Cowley, Kansas",Kansas,Cowley,18.6,7.3
+"West Baton Rouge, Louisiana",Louisiana,West Baton Rouge,20.9,7.2
+"Jefferson, Kentucky",Kentucky,Jefferson,21.8,8.8
+"Webster, Louisiana",Louisiana,Webster,24.9,11.8
+"Cherokee, Kansas",Kansas,Cherokee,20.2,9.0
+"Pawnee, Kansas",Kansas,Pawnee,17.5,7.3
+"Madison, Louisiana",Louisiana,Madison,29.0,11.4
+"McLean, Kentucky",Kentucky,McLean,23.6,11.6
+"Allen, Louisiana",Louisiana,Allen,24.2,8.7
+"Carlisle, Kentucky",Kentucky,Carlisle,25.0,12.9
+"Kingman, Kansas",Kansas,Kingman,15.8,7.1
+"Boone, Kentucky",Kentucky,Boone,18.1,7.4
+"Allen, Kentucky",Kentucky,Allen,26.5,11.9
+"Iberville, Louisiana",Louisiana,Iberville,23.8,9.0
+"Perry, Kentucky",Kentucky,Perry,28.9,14.0
+"Pottawatomie, Kansas",Kansas,Pottawatomie,15.6,6.0
+"Washington, Louisiana",Louisiana,Washington,26.1,11.1
+"Morehouse, Louisiana",Louisiana,Morehouse,26.5,11.3
+"Hardin, Kentucky",Kentucky,Hardin,23.0,8.7
+"Marion, Kentucky",Kentucky,Marion,27.4,12.7
+"Bienville, Louisiana",Louisiana,Bienville,25.2,11.8
+"McCracken, Kentucky",Kentucky,McCracken,21.4,10.4
+"Linn, Kansas",Kansas,Linn,19.7,9.4
+"Menifee, Kentucky",Kentucky,Menifee,27.2,14.4
+"Saline, Kansas",Kansas,Saline,16.7,6.5
+"Clinton, Kentucky",Kentucky,Clinton,29.4,15.5
+"Hart, Kentucky",Kentucky,Hart,27.9,13.5
+"Androscoggin, Maine",Maine,Androscoggin,19.0,9.1
+"Todd, Kentucky",Kentucky,Todd,25.9,11.7
+"Grayson, Kentucky",Kentucky,Grayson,27.7,13.5
+"Lincoln, Kansas",Kansas,Lincoln,16.4,8.3
+"Cloud, Kansas",Kansas,Cloud,17.3,8.1
+"Hickman, Kentucky",Kentucky,Hickman,25.2,14.2
+"Smith, Kansas",Kansas,Smith,16.5,8.6
+"Calloway, Kentucky",Kentucky,Calloway,20.5,9.5
+"Ouachita, Louisiana",Louisiana,Ouachita,22.7,9.0
+"Orleans, Louisiana",Louisiana,Orleans,21.5,7.1
+"Franklin, Louisiana",Louisiana,Franklin,26.4,12.0
+"Trigg, Kentucky",Kentucky,Trigg,21.9,11.0
+"Hodgeman, Kansas",Kansas,Hodgeman,14.6,7.2
+"Stanton, Kansas",Kansas,Stanton,16.1,6.7
+"Martin, Kentucky",Kentucky,Martin,28.0,11.9
+"Grant, Louisiana",Louisiana,Grant,24.8,8.9
+"Simpson, Kentucky",Kentucky,Simpson,23.9,10.5
+"Barber, Kansas",Kansas,Barber,19.4,9.0
+"Green, Kentucky",Kentucky,Green,26.9,13.9
+"Lane, Kansas",Kansas,Lane,16.5,7.9
+"Meade, Kentucky",Kentucky,Meade,23.1,9.4
+"Sabine, Louisiana",Louisiana,Sabine,23.5,10.2
+"Catahoula, Louisiana",Louisiana,Catahoula,25.6,10.3
+"Haskell, Kansas",Kansas,Haskell,17.5,7.1
+"Henderson, Kentucky",Kentucky,Henderson,24.8,11.0
+"Bourbon, Kentucky",Kentucky,Bourbon,23.8,11.2
+"Tangipahoa, Louisiana",Louisiana,Tangipahoa,22.5,8.9
+"Wilson, Kansas",Kansas,Wilson,19.5,9.1
+"Marshall, Kentucky",Kentucky,Marshall,21.7,10.7
+"Rice, Kansas",Kansas,Rice,15.9,7.0
+"Hancock, Kentucky",Kentucky,Hancock,23.9,11.0
+"Winn, Louisiana",Louisiana,Winn,24.0,9.9
+"Calcasieu, Louisiana",Louisiana,Calcasieu,22.0,8.1
+"LaSalle, Louisiana",Louisiana,LaSalle,25.6,10.0
+"Vernon, Louisiana",Louisiana,Vernon,22.2,7.1
+"Carroll, Kentucky",Kentucky,Carroll,27.3,12.2
+"Caldwell, Louisiana",Louisiana,Caldwell,26.0,10.9
+"St. Charles, Louisiana",Louisiana,St. Charles,18.7,6.7
+"Jackson, Louisiana",Louisiana,Jackson,24.6,10.6
+"Finney, Kansas",Kansas,Finney,17.6,5.5
+"Lee, Kentucky",Kentucky,Lee,35.4,17.4
+"Chautauqua, Kansas",Kansas,Chautauqua,19.8,10.5
+"Scott, Kansas",Kansas,Scott,16.1,6.9
+"Allen, Kansas",Kansas,Allen,18.7,8.4
+"Pulaski, Kentucky",Kentucky,Pulaski,26.1,12.7
+"Riley, Kansas",Kansas,Riley,14.0,4.5
+"Crawford, Kansas",Kansas,Crawford,17.5,7.0
+"Johnson, Kansas",Kansas,Johnson,11.8,4.3
+"Harlan, Kentucky",Kentucky,Harlan,31.0,16.9
+"Stevens, Kansas",Kansas,Stevens,18.2,7.2
+"De Soto, Louisiana",Louisiana,De Soto,23.9,9.8
+"Caddo, Louisiana",Louisiana,Caddo,21.9,8.7
+"Ford, Kansas",Kansas,Ford,17.5,5.5
+"St. Tammany, Louisiana",Louisiana,St. Tammany,18.7,7.1
+"Pendleton, Kentucky",Kentucky,Pendleton,24.5,11.2
+"Woodson, Kansas",Kansas,Woodson,19.5,10.0
+"Jackson, Kentucky",Kentucky,Jackson,29.7,14.8
+"Russell, Kentucky",Kentucky,Russell,25.4,13.1
+"St. Bernard, Louisiana",Louisiana,St. Bernard,23.8,8.5
+"Kenton, Kentucky",Kentucky,Kenton,21.1,8.2
+"Grant, Kentucky",Kentucky,Grant,25.8,10.9
+"Sheridan, Kansas",Kansas,Sheridan,15.8,7.6
+"Bourbon, Kansas",Kansas,Bourbon,18.9,9.0
+"St. Helena, Louisiana",Louisiana,St. Helena,22.9,9.6
+"Reno, Kansas",Kansas,Reno,18.1,7.6
+"Scott, Kentucky",Kentucky,Scott,20.4,7.9
+"Greenwood, Kansas",Kansas,Greenwood,18.2,9.0
+"Wyandotte, Kansas",Kansas,Wyandotte,20.3,6.7
+"St. Mary, Louisiana",Louisiana,St. Mary,23.6,9.5
+"Harvey, Kansas",Kansas,Harvey,14.9,6.4
+"Ness, Kansas",Kansas,Ness,16.5,8.5
+"Elk, Kansas",Kansas,Elk,18.9,10.7
+"Clay, Kentucky",Kentucky,Clay,33.7,16.3
+"Rawlins, Kansas",Kansas,Rawlins,16.0,8.4
+"St. John the Baptist, Louisiana",Louisiana,St. John the Baptist,20.5,7.6
+"Wabaunsee, Kansas",Kansas,Wabaunsee,16.1,6.9
+"Barton, Kansas",Kansas,Barton,17.8,7.9
+"Whitley, Kentucky",Kentucky,Whitley,26.8,12.1
+"Marshall, Kansas",Kansas,Marshall,17.5,8.2
+"Rooks, Kansas",Kansas,Rooks,17.3,8.2
+"Grant, Kansas",Kansas,Grant,16.2,5.9
+"Knox, Kentucky",Kentucky,Knox,29.3,15.2
+"Iberia, Louisiana",Louisiana,Iberia,24.3,9.5
+"Nicholas, Kentucky",Kentucky,Nicholas,29.9,14.7
+"Henry, Kentucky",Kentucky,Henry,25.1,11.6
+"Brown, Kansas",Kansas,Brown,18.4,8.3
+"Campbell, Kentucky",Kentucky,Campbell,20.3,8.3
+"St. Martin, Louisiana",Louisiana,St. Martin,24.7,9.4
+"Crittenden, Kentucky",Kentucky,Crittenden,24.8,12.8
+"Avoyelles, Louisiana",Louisiana,Avoyelles,26.1,10.7
+"Worth, Iowa",Iowa,Worth,17.3,6.8
+"Shawnee, Kansas",Kansas,Shawnee,16.3,6.6
+"Bossier, Louisiana",Louisiana,Bossier,21.4,7.4
+"Washington, Kansas",Kansas,Washington,16.8,8.3
+"Meade, Kansas",Kansas,Meade,16.9,7.2
+"Livingston, Kentucky",Kentucky,Livingston,25.1,12.8
+"Natchitoches, Louisiana",Louisiana,Natchitoches,22.0,9.4
+"Concordia, Louisiana",Louisiana,Concordia,25.7,11.1
+"Anderson, Kansas",Kansas,Anderson,19.5,9.2
+"Garrard, Kentucky",Kentucky,Garrard,24.9,11.8
+"Osborne, Kansas",Kansas,Osborne,16.7,8.3
+"Oldham, Kentucky",Kentucky,Oldham,17.0,6.7
+"Boyle, Kentucky",Kentucky,Boyle,21.7,10.1
+"Graham, Kansas",Kansas,Graham,16.2,8.9
+"Ascension, Louisiana",Louisiana,Ascension,19.4,6.4
+"Doniphan, Kansas",Kansas,Doniphan,18.6,7.9
+"Ellsworth, Kansas",Kansas,Ellsworth,17.0,7.1
+"Kiowa, Kansas",Kansas,Kiowa,16.2,7.5
+"Jessamine, Kentucky",Kentucky,Jessamine,21.9,9.4
+"Harper, Kansas",Kansas,Harper,19.0,9.0
+"Bath, Kentucky",Kentucky,Bath,27.1,12.8
+"Marion, Kansas",Kansas,Marion,15.7,7.5
+"Richland, Louisiana",Louisiana,Richland,26.6,11.4
+"Gallatin, Kentucky",Kentucky,Gallatin,25.9,11.1
+"Ottawa, Kansas",Kansas,Ottawa,17.1,7.5
+"East Baton Rouge, Louisiana",Louisiana,East Baton Rouge,18.2,6.4
+"Ohio, Kentucky",Kentucky,Ohio,25.1,11.9
+"Mercer, Kentucky",Kentucky,Mercer,23.3,11.0
+"Wright, Iowa",Iowa,Wright,17.1,7.4
+"Johnson, Kentucky",Kentucky,Johnson,25.5,13.0
+"Cameron, Louisiana",Louisiana,Cameron,22.7,9.4
+"Warren, Kentucky",Kentucky,Warren,20.8,8.2
+"Bell, Kentucky",Kentucky,Bell,32.3,17.4
+"Cumberland, Kentucky",Kentucky,Cumberland,26.3,14.0
+"Fulton, Kentucky",Kentucky,Fulton,29.0,14.3
+"Dodge, Minnesota",Minnesota,Dodge,16.8,5.2
+"Gogebic, Michigan",Michigan,Gogebic,20.2,11.6
+"Tuscola, Michigan",Michigan,Tuscola,22.4,10.6
+"DeSoto, Mississippi",Mississippi,DeSoto,17.3,6.2
+"Carroll, Maryland",Maryland,Carroll,13.6,6.2
+"Isanti, Minnesota",Minnesota,Isanti,18.7,6.0
+"Wadena, Minnesota",Minnesota,Wadena,20.8,8.0
+"Monroe, Michigan",Michigan,Monroe,19.7,9.0
+"Ingham, Michigan",Michigan,Ingham,15.4,6.8
+"Oceana, Michigan",Michigan,Oceana,21.0,10.1
+"Dorchester, Maryland",Maryland,Dorchester,18.7,9.2
+"Itasca, Minnesota",Minnesota,Itasca,19.1,7.2
+"Berkshire, Massachusetts",Massachusetts,Berkshire,16.3,7.4
+"Faribault, Minnesota",Minnesota,Faribault,17.9,7.2
+"Leflore, Mississippi",Mississippi,Leflore,23.6,10.1
+"Emmet, Michigan",Michigan,Emmet,16.3,8.7
+"Le Sueur, Minnesota",Minnesota,Le Sueur,16.8,5.8
+"Steele, Minnesota",Minnesota,Steele,17.2,6.0
+"Watonwan, Minnesota",Minnesota,Watonwan,18.2,6.5
+"Douglas, Minnesota",Minnesota,Douglas,16.9,6.3
+"Claiborne, Mississippi",Mississippi,Claiborne,21.1,9.4
+"Wilkin, Minnesota",Minnesota,Wilkin,16.8,6.1
+"Tishomingo, Mississippi",Mississippi,Tishomingo,22.3,10.9
+"Osceola, Michigan",Michigan,Osceola,22.6,11.4
+"McLeod, Minnesota",Minnesota,McLeod,17.7,6.3
+"Ogemaw, Michigan",Michigan,Ogemaw,22.8,12.8
+"Montmorency, Michigan",Michigan,Montmorency,20.7,13.1
+"Wayne, Michigan",Michigan,Wayne,21.6,9.2
+"Lee, Mississippi",Mississippi,Lee,19.7,7.6
+"Murray, Minnesota",Minnesota,Murray,16.9,7.0
+"Harrison, Mississippi",Mississippi,Harrison,20.3,7.8
+"Lowndes, Mississippi",Mississippi,Lowndes,18.8,8.0
+"Norman, Minnesota",Minnesota,Norman,18.5,7.0
+"Menominee, Michigan",Michigan,Menominee,20.3,10.8
+"Harford, Maryland",Maryland,Harford,15.5,6.3
+"Calhoun, Mississippi",Mississippi,Calhoun,21.6,10.3
+"Kandiyohi, Minnesota",Minnesota,Kandiyohi,17.2,6.3
+"Choctaw, Mississippi",Mississippi,Choctaw,20.4,9.8
+"Newton, Mississippi",Mississippi,Newton,21.3,9.5
+"Stone, Mississippi",Mississippi,Stone,21.6,9.3
+"Renville, Minnesota",Minnesota,Renville,18.1,6.8
+"Hampden, Massachusetts",Massachusetts,Hampden,17.4,6.6
+"Gladwin, Michigan",Michigan,Gladwin,22.1,12.6
+"Bolivar, Mississippi",Mississippi,Bolivar,21.6,9.8
+"Allegan, Michigan",Michigan,Allegan,18.8,8.4
+"Wright, Minnesota",Minnesota,Wright,15.7,4.9
+"Crawford, Michigan",Michigan,Crawford,20.3,11.3
+"Meeker, Minnesota",Minnesota,Meeker,17.6,6.5
+"George, Mississippi",Mississippi,George,21.1,8.8
+"Talbot, Maryland",Maryland,Talbot,12.8,7.6
+"Yellow Medicine, Minnesota",Minnesota,Yellow Medicine,18.7,7.0
+"Cottonwood, Minnesota",Minnesota,Cottonwood,17.6,7.3
+"Kent, Maryland",Maryland,Kent,15.0,8.2
+"Lafayette, Mississippi",Mississippi,Lafayette,15.6,5.9
+"Nobles, Minnesota",Minnesota,Nobles,17.6,6.3
+"Marshall, Mississippi",Mississippi,Marshall,20.3,9.0
+"Nicollet, Minnesota",Minnesota,Nicollet,16.2,5.1
+"Marquette, Michigan",Michigan,Marquette,17.9,8.2
+"Jackson, Michigan",Michigan,Jackson,22.0,9.3
+"Panola, Mississippi",Mississippi,Panola,22.1,9.5
+"Marion, Mississippi",Mississippi,Marion,23.1,10.6
+"Muskegon, Michigan",Michigan,Muskegon,22.4,9.3
+"Madison, Mississippi",Mississippi,Madison,13.6,5.4
+"Washington, Maryland",Maryland,Washington,17.8,8.4
+"Copiah, Mississippi",Mississippi,Copiah,20.7,9.2
+"Walthall, Mississippi",Mississippi,Walthall,23.0,10.5
+"Barry, Michigan",Michigan,Barry,18.1,8.5
+"Neshoba, Mississippi",Mississippi,Neshoba,24.8,10.6
+"Somerset, Maryland",Maryland,Somerset,21.7,9.3
+"Morrison, Minnesota",Minnesota,Morrison,18.3,7.0
+"Sunflower, Mississippi",Mississippi,Sunflower,24.7,9.5
+"Dakota, Minnesota",Minnesota,Dakota,14.1,4.3
+"Lake of the Woods, Minnesota",Minnesota,Lake of the Woods,18.6,7.7
+"Rice, Minnesota",Minnesota,Rice,16.3,5.3
+"Charles, Maryland",Maryland,Charles,16.2,5.9
+"Bristol, Massachusetts",Massachusetts,Bristol,17.3,7.3
+"Huron, Michigan",Michigan,Huron,20.1,11.0
+"Charlevoix, Michigan",Michigan,Charlevoix,17.4,9.3
+"Brown, Minnesota",Minnesota,Brown,16.9,6.1
+"Hillsdale, Michigan",Michigan,Hillsdale,22.0,10.7
+"Wexford, Michigan",Michigan,Wexford,22.3,10.6
+"Stearns, Minnesota",Minnesota,Stearns,16.6,5.6
+"Montcalm, Michigan",Michigan,Montcalm,22.3,9.9
+"Delta, Michigan",Michigan,Delta,19.6,10.4
+"Alcona, Michigan",Michigan,Alcona,19.7,12.9
+"Mille Lacs, Minnesota",Minnesota,Mille Lacs,21.0,7.3
+"Queen Anne's, Maryland",Maryland,Queen Anne's,14.9,6.8
+"Kent, Michigan",Michigan,Kent,17.3,6.7
+"Oakland, Michigan",Michigan,Oakland,13.3,6.2
+"Montgomery, Mississippi",Mississippi,Montgomery,21.3,10.7
+"Kalamazoo, Michigan",Michigan,Kalamazoo,15.9,6.8
+"Clare, Michigan",Michigan,Clare,23.8,12.9
+"Cecil, Maryland",Maryland,Cecil,19.1,7.7
+"Missaukee, Michigan",Michigan,Missaukee,21.6,10.8
+"St. Mary's, Maryland",Maryland,St. Mary's,16.6,6.2
+"Quitman, Mississippi",Mississippi,Quitman,25.6,12.2
+"Pipestone, Minnesota",Minnesota,Pipestone,18.1,7.1
+"Clinton, Michigan",Michigan,Clinton,17.2,7.5
+"Baraga, Michigan",Michigan,Baraga,22.7,10.9
+"Alpena, Michigan",Michigan,Alpena,20.4,10.7
+"Chippewa, Minnesota",Minnesota,Chippewa,18.2,7.0
+"Hubbard, Minnesota",Minnesota,Hubbard,17.5,7.4
+"Franklin, Mississippi",Mississippi,Franklin,20.9,9.9
+"Lawrence, Mississippi",Mississippi,Lawrence,21.2,9.5
+"Waldo, Maine",Maine,Waldo,19.2,10.0
+"Attala, Mississippi",Mississippi,Attala,22.0,10.4
+"Calhoun, Michigan",Michigan,Calhoun,20.1,9.1
+"Carlton, Minnesota",Minnesota,Carlton,19.8,6.5
+"Jefferson, Mississippi",Mississippi,Jefferson,23.5,10.4
+"Arenac, Michigan",Michigan,Arenac,22.2,12.1
+"Monroe, Mississippi",Mississippi,Monroe,21.0,9.4
+"Macomb, Michigan",Michigan,Macomb,19.3,8.5
+"Otsego, Michigan",Michigan,Otsego,19.4,9.9
+"Shiawassee, Michigan",Michigan,Shiawassee,19.3,9.1
+"Leelanau, Michigan",Michigan,Leelanau,13.5,8.2
+"Lincoln, Minnesota",Minnesota,Lincoln,17.7,7.3
+"Union, Mississippi",Mississippi,Union,20.8,8.8
+"Branch, Michigan",Michigan,Branch,22.3,10.2
+"Pearl River, Mississippi",Mississippi,Pearl River,21.0,8.9
+"Ramsey, Minnesota",Minnesota,Ramsey,15.1,5.0
+"Berrien, Michigan",Michigan,Berrien,18.9,9.2
+"Cook, Minnesota",Minnesota,Cook,14.7,6.7
+"Howard, Maryland",Maryland,Howard,9.6,4.1
+"Blue Earth, Minnesota",Minnesota,Blue Earth,16.1,5.0
+"Sherburne, Minnesota",Minnesota,Sherburne,16.6,5.0
+"Calvert, Maryland",Maryland,Calvert,15.5,6.2
+"Benton, Mississippi",Mississippi,Benton,22.7,10.1
+"Wabasha, Minnesota",Minnesota,Wabasha,17.2,6.5
+"Lauderdale, Mississippi",Mississippi,Lauderdale,20.9,8.7
+"Piscataquis, Maine",Maine,Piscataquis,21.6,12.5
+"Wicomico, Maryland",Maryland,Wicomico,17.8,7.5
+"Lenawee, Michigan",Michigan,Lenawee,19.4,8.8
+"Penobscot, Maine",Maine,Penobscot,19.3,9.4
+"Manistee, Michigan",Michigan,Manistee,19.4,10.4
+"Midland, Michigan",Michigan,Midland,17.1,7.8
+"Tunica, Mississippi",Mississippi,Tunica,20.9,8.0
+"Forrest, Mississippi",Mississippi,Forrest,18.7,7.6
+"Amite, Mississippi",Mississippi,Amite,21.2,11.1
+"Mahnomen, Minnesota",Minnesota,Mahnomen,27.7,9.9
+"Issaquena, Mississippi",Mississippi,Issaquena,27.5,11.5
+"Carver, Minnesota",Minnesota,Carver,12.9,4.1
+"Pope, Minnesota",Minnesota,Pope,16.6,6.7
+"Bay, Michigan",Michigan,Bay,20.1,9.7
+"Oscoda, Michigan",Michigan,Oscoda,22.5,12.9
+"Cass, Minnesota",Minnesota,Cass,20.0,8.2
+"Clay, Minnesota",Minnesota,Clay,15.6,4.9
+"Winona, Minnesota",Minnesota,Winona,16.2,5.6
+"Prince George's, Maryland",Maryland,Prince George's,13.3,4.8
+"Tallahatchie, Mississippi",Mississippi,Tallahatchie,25.3,9.8
+"Lincoln, Maine",Maine,Lincoln,17.2,9.7
+"Humphreys, Mississippi",Mississippi,Humphreys,25.5,12.3
+"Pine, Minnesota",Minnesota,Pine,21.7,7.7
+"Chisago, Minnesota",Minnesota,Chisago,18.9,5.6
+"Van Buren, Michigan",Michigan,Van Buren,21.1,9.5
+"Luce, Michigan",Michigan,Luce,22.2,10.3
+"Roseau, Minnesota",Minnesota,Roseau,18.5,6.4
+"Kennebec, Maine",Maine,Kennebec,18.7,9.4
+"Keweenaw, Michigan",Michigan,Keweenaw,15.7,10.4
+"Suffolk, Massachusetts",Massachusetts,Suffolk,13.2,4.5
+"Frederick, Maryland",Maryland,Frederick,12.2,5.5
+"Washington, Maine",Maine,Washington,21.2,12.0
+"Rock, Minnesota",Minnesota,Rock,17.3,6.4
+"Otter Tail, Minnesota",Minnesota,Otter Tail,15.2,6.8
+"Prentiss, Mississippi",Mississippi,Prentiss,23.5,10.9
+"Holmes, Mississippi",Mississippi,Holmes,26.4,11.4
+"Lac qui Parle, Minnesota",Minnesota,Lac qui Parle,16.8,7.3
+"Clarke, Mississippi",Mississippi,Clarke,20.7,9.3
+"Antrim, Michigan",Michigan,Antrim,18.5,10.1
+"Redwood, Minnesota",Minnesota,Redwood,18.2,7.0
+"Scott, Minnesota",Minnesota,Scott,14.0,4.3
+"Benzie, Michigan",Michigan,Benzie,17.0,9.4
+"Clearwater, Minnesota",Minnesota,Clearwater,21.7,8.1
+"Beltrami, Minnesota",Minnesota,Beltrami,20.0,6.9
+"Grenada, Mississippi",Mississippi,Grenada,20.4,9.0
+"Waseca, Minnesota",Minnesota,Waseca,18.8,6.3
+"Lake, Michigan",Michigan,Lake,23.4,14.6
+"Polk, Minnesota",Minnesota,Polk,18.4,6.3
+"Grant, Minnesota",Minnesota,Grant,18.3,7.4
+"Montgomery, Maryland",Maryland,Montgomery,8.9,4.3
+"Baltimore City, Maryland",Maryland,Baltimore City,20.8,7.2
+"Oxford, Maine",Maine,Oxford,20.3,10.8
+"Chippewa, Michigan",Michigan,Chippewa,23.0,9.9
+"Todd, Minnesota",Minnesota,Todd,19.0,7.6
+"Barnstable, Massachusetts",Massachusetts,Barnstable,12.7,7.1
+"Red Lake, Minnesota",Minnesota,Red Lake,18.8,7.1
+"Worcester, Maryland",Maryland,Worcester,15.3,8.1
+"Freeborn, Minnesota",Minnesota,Freeborn,18.1,7.2
+"Crow Wing, Minnesota",Minnesota,Crow Wing,19.2,7.0
+"Smith, Mississippi",Mississippi,Smith,20.9,10.2
+"Kittson, Minnesota",Minnesota,Kittson,16.7,7.0
+"Baltimore, Maryland",Maryland,Baltimore,15.1,6.3
+"Big Stone, Minnesota",Minnesota,Big Stone,18.4,7.8
+"Sagadahoc, Maine",Maine,Sagadahoc,15.6,8.5
+"Sibley, Minnesota",Minnesota,Sibley,18.1,6.3
+"Eaton, Michigan",Michigan,Eaton,17.3,7.8
+"Simpson, Mississippi",Mississippi,Simpson,20.8,9.3
+"Schoolcraft, Michigan",Michigan,Schoolcraft,22.3,12.3
+"Jasper, Mississippi",Mississippi,Jasper,21.2,9.7
+"Franklin, Massachusetts",Massachusetts,Franklin,15.4,7.2
+"Koochiching, Minnesota",Minnesota,Koochiching,18.4,8.1
+"Mecosta, Michigan",Michigan,Mecosta,20.0,9.5
+"Ottawa, Michigan",Michigan,Ottawa,15.4,6.6
+"Covington, Mississippi",Mississippi,Covington,23.2,10.0
+"Leake, Mississippi",Mississippi,Leake,23.6,10.0
+"Presque Isle, Michigan",Michigan,Presque Isle,19.4,11.8
+"Tippah, Mississippi",Mississippi,Tippah,22.1,9.9
+"Iron, Michigan",Michigan,Iron,20.2,12.2
+"Caroline, Maryland",Maryland,Caroline,19.7,8.8
+"Isabella, Michigan",Michigan,Isabella,19.9,8.1
+"Jackson, Mississippi",Mississippi,Jackson,18.7,7.4
+"Sanilac, Michigan",Michigan,Sanilac,21.0,10.9
+"Washtenaw, Michigan",Michigan,Washtenaw,13.1,5.5
+"Plymouth, Massachusetts",Massachusetts,Plymouth,15.4,6.3
+"Becker, Minnesota",Minnesota,Becker,18.2,7.0
+"St. Louis, Minnesota",Minnesota,St. Louis,17.9,6.4
+"Cass, Michigan",Michigan,Cass,20.6,9.6
+"Anne Arundel, Maryland",Maryland,Anne Arundel,15.0,5.6
+"Benton, Minnesota",Minnesota,Benton,18.8,5.7
+"Clay, Mississippi",Mississippi,Clay,20.6,9.8
+"Lake, Minnesota",Minnesota,Lake,16.3,6.8
+"Kanabec, Minnesota",Minnesota,Kanabec,20.3,7.5
+"Rankin, Mississippi",Mississippi,Rankin,17.5,6.6
+"Essex, Massachusetts",Massachusetts,Essex,13.5,5.5
+"Saginaw, Michigan",Michigan,Saginaw,20.1,9.1
+"Jackson, Minnesota",Minnesota,Jackson,17.0,6.6
+"St. Clair, Michigan",Michigan,St. Clair,20.4,9.6
+"Nantucket, Massachusetts",Massachusetts,Nantucket,12.8,4.8
+"Pontotoc, Mississippi",Mississippi,Pontotoc,20.9,8.9
+"Ionia, Michigan",Michigan,Ionia,21.2,8.6
+"Hancock, Maine",Maine,Hancock,16.6,9.1
+"Pennington, Minnesota",Minnesota,Pennington,17.9,6.4
+"Alger, Michigan",Michigan,Alger,20.7,10.7
+"Lincoln, Mississippi",Mississippi,Lincoln,19.8,8.9
+"Lyon, Minnesota",Minnesota,Lyon,18.4,6.2
+"Livingston, Michigan",Michigan,Livingston,15.6,7.1
+"Jefferson Davis, Mississippi",Mississippi,Jefferson Davis,20.9,10.6
+"Adams, Mississippi",Mississippi,Adams,22.4,9.6
+"York, Maine",Maine,York,16.0,8.2
+"Alcorn, Mississippi",Mississippi,Alcorn,21.1,9.9
+"Roscommon, Michigan",Michigan,Roscommon,20.1,12.8
+"Hampshire, Massachusetts",Massachusetts,Hampshire,12.5,5.5
+"Cheboygan, Michigan",Michigan,Cheboygan,20.1,11.4
+"Sharkey, Mississippi",Mississippi,Sharkey,23.2,11.8
+"Kalkaska, Michigan",Michigan,Kalkaska,23.3,11.3
+"Jones, Mississippi",Mississippi,Jones,18.9,8.8
+"Allegany, Maryland",Maryland,Allegany,18.5,8.9
+"Genesee, Michigan",Michigan,Genesee,21.9,9.9
+"Itawamba, Mississippi",Mississippi,Itawamba,20.5,9.0
+"Chickasaw, Mississippi",Mississippi,Chickasaw,22.9,10.1
+"St. Joseph, Michigan",Michigan,St. Joseph,21.0,9.8
+"Tate, Mississippi",Mississippi,Tate,19.9,8.6
+"Washington, Minnesota",Minnesota,Washington,12.8,4.2
+"Fillmore, Minnesota",Minnesota,Fillmore,18.1,6.9
+"Swift, Minnesota",Minnesota,Swift,19.2,7.3
+"Pike, Mississippi",Mississippi,Pike,22.5,10.4
+"Noxubee, Mississippi",Mississippi,Noxubee,23.1,10.4
+"Iosco, Michigan",Michigan,Iosco,21.0,12.3
+"Lamar, Mississippi",Mississippi,Lamar,18.2,7.0
+"Hennepin, Minnesota",Minnesota,Hennepin,12.8,4.2
+"Aitkin, Minnesota",Minnesota,Aitkin,17.5,8.8
+"Coahoma, Mississippi",Mississippi,Coahoma,22.9,10.4
+"Scott, Mississippi",Mississippi,Scott,24.0,10.0
+"Houghton, Michigan",Michigan,Houghton,18.7,8.6
+"Mason, Michigan",Michigan,Mason,18.9,10.2
+"Worcester, Massachusetts",Massachusetts,Worcester,14.5,5.9
+"Marshall, Minnesota",Minnesota,Marshall,17.4,6.7
+"Newaygo, Michigan",Michigan,Newaygo,21.4,10.4
+"Greene, Mississippi",Mississippi,Greene,22.2,8.3
+"Martin, Minnesota",Minnesota,Martin,18.6,7.2
+"Grand Traverse, Michigan",Michigan,Grand Traverse,16.9,7.9
+"Anoka, Minnesota",Minnesota,Anoka,16.6,5.0
+"Olmsted, Minnesota",Minnesota,Olmsted,13.4,4.6
+"Oktibbeha, Mississippi",Mississippi,Oktibbeha,15.3,5.9
+"Stevens, Minnesota",Minnesota,Stevens,15.5,5.1
+"Goodhue, Minnesota",Minnesota,Goodhue,17.6,6.1
+"Middlesex, Massachusetts",Massachusetts,Middlesex,11.5,4.5
+"Traverse, Minnesota",Minnesota,Traverse,17.6,7.0
+"Hinds, Mississippi",Mississippi,Hinds,17.9,7.1
+"Perry, Mississippi",Mississippi,Perry,22.7,10.6
+"Knox, Maine",Maine,Knox,16.3,9.2
+"Mackinac, Michigan",Michigan,Mackinac,20.4,11.4
+"Ontonagon, Michigan",Michigan,Ontonagon,19.7,12.9
+"Gratiot, Michigan",Michigan,Gratiot,21.0,9.1
+"Dickinson, Michigan",Michigan,Dickinson,18.0,9.4
+"Garrett, Maryland",Maryland,Garrett,19.3,9.5
+"Mower, Minnesota",Minnesota,Mower,18.2,6.6
+"Lapeer, Michigan",Michigan,Lapeer,20.5,9.3
+"Hancock, Mississippi",Mississippi,Hancock,19.3,9.0
+"Carroll, Mississippi",Mississippi,Carroll,21.1,10.4
+"Kemper, Mississippi",Mississippi,Kemper,22.0,10.7
+"Houston, Minnesota",Minnesota,Houston,16.8,6.3
+"Dukes, Massachusetts",Massachusetts,Dukes,13.8,6.7
+"Somerset, Maine",Maine,Somerset,23.6,12.4
+"Norfolk, Massachusetts",Massachusetts,Norfolk,11.9,5.0
+"Pemiscot, Missouri",Missouri,Pemiscot,28.8,12.7
+"Phillips, Montana",Montana,Phillips,19.5,8.9
+"Lincoln, Montana",Montana,Lincoln,18.1,10.2
+"Ralls, Missouri",Missouri,Ralls,22.5,10.5
+"Clinton, Missouri",Missouri,Clinton,20.3,8.6
+"Lincoln, Nevada",Nevada,Lincoln,17.1,8.1
+"Henry, Missouri",Missouri,Henry,23.7,11.3
+"Shelby, Missouri",Missouri,Shelby,22.7,10.9
+"Broadwater, Montana",Montana,Broadwater,17.2,7.8
+"Cass, Missouri",Missouri,Cass,19.2,8.1
+"Brown, Nebraska",Nebraska,Brown,16.8,8.4
+"Platte, Nebraska",Nebraska,Platte,14.5,5.5
+"Wilkinson, Mississippi",Mississippi,Wilkinson,26.1,11.6
+"Petroleum, Montana",Montana,Petroleum,15.4,7.7
+"Thayer, Nebraska",Nebraska,Thayer,15.3,7.3
+"Gasconade, Missouri",Missouri,Gasconade,20.3,9.9
+"Cedar, Nebraska",Nebraska,Cedar,13.6,6.7
+"Phelps, Nebraska",Nebraska,Phelps,14.6,6.4
+"Jefferson, Nebraska",Nebraska,Jefferson,17.4,7.9
+"Daviess, Missouri",Missouri,Daviess,23.8,11.4
+"Phelps, Missouri",Missouri,Phelps,20.3,8.8
+"Coos, New Hampshire",New Hampshire,Coos,20.0,9.4
+"Warren, Missouri",Missouri,Warren,22.8,9.6
+"Schuyler, Missouri",Missouri,Schuyler,23.5,10.9
+"Carter, Montana",Montana,Carter,17.2,8.4
+"Wheeler, Nebraska",Nebraska,Wheeler,16.3,9.1
+"Greeley, Nebraska",Nebraska,Greeley,15.1,7.2
+"Garden, Nebraska",Nebraska,Garden,14.8,7.4
+"Iron, Missouri",Missouri,Iron,25.5,12.5
+"Butler, Nebraska",Nebraska,Butler,15.8,6.4
+"Morrill, Nebraska",Nebraska,Morrill,15.7,6.6
+"Madison, Montana",Montana,Madison,14.1,7.1
+"Flathead, Montana",Montana,Flathead,16.5,7.0
+"Park, Montana",Montana,Park,16.0,7.2
+"Crawford, Missouri",Missouri,Crawford,25.8,12.3
+"Harrison, Missouri",Missouri,Harrison,23.4,11.8
+"Custer, Nebraska",Nebraska,Custer,15.5,7.0
+"Nodaway, Missouri",Missouri,Nodaway,19.0,7.7
+"Logan, Nebraska",Nebraska,Logan,16.6,7.3
+"Oregon, Missouri",Missouri,Oregon,26.1,13.9
+"Mineral, Montana",Montana,Mineral,19.9,10.4
+"Teton, Montana",Montana,Teton,16.7,8.1
+"Webster, Nebraska",Nebraska,Webster,15.1,7.2
+"Keith, Nebraska",Nebraska,Keith,16.0,7.5
+"Humboldt, Nevada",Nevada,Humboldt,18.8,7.4
+"Pettis, Missouri",Missouri,Pettis,22.3,9.4
+"Merrick, Nebraska",Nebraska,Merrick,16.0,7.0
+"Scotland, Missouri",Missouri,Scotland,24.4,11.7
+"Nuckolls, Nebraska",Nebraska,Nuckolls,16.3,8.3
+"Howell, Missouri",Missouri,Howell,24.6,11.6
+"Vernon, Missouri",Missouri,Vernon,23.9,10.9
+"Storey, Nevada",Nevada,Storey,15.0,8.5
+"Ozark, Missouri",Missouri,Ozark,26.7,15.6
+"Madison, Nebraska",Nebraska,Madison,15.0,6.0
+"Worth, Missouri",Missouri,Worth,19.9,10.6
+"Powder River, Montana",Montana,Powder River,16.5,8.3
+"Webster, Mississippi",Mississippi,Webster,21.1,9.4
+"Hitchcock, Nebraska",Nebraska,Hitchcock,16.2,7.8
+"Franklin, Missouri",Missouri,Franklin,20.9,9.1
+"Barry, Missouri",Missouri,Barry,22.7,11.1
+"Musselshell, Montana",Montana,Musselshell,19.5,9.5
+"Reynolds, Missouri",Missouri,Reynolds,24.3,12.5
+"Cherry, Nebraska",Nebraska,Cherry,15.5,7.1
+"Douglas, Nevada",Nevada,Douglas,14.9,7.9
+"Dixon, Nebraska",Nebraska,Dixon,15.1,6.5
+"Fergus, Montana",Montana,Fergus,16.9,8.1
+"Clay, Missouri",Missouri,Clay,18.4,6.6
+"Lander, Nevada",Nevada,Lander,19.4,8.0
+"Box Butte, Nebraska",Nebraska,Box Butte,17.6,6.8
+"Hickory, Missouri",Missouri,Hickory,23.0,13.7
+"Yalobusha, Mississippi",Mississippi,Yalobusha,21.4,9.8
+"Dakota, Nebraska",Nebraska,Dakota,16.1,5.7
+"Lawrence, Missouri",Missouri,Lawrence,23.1,10.6
+"Moniteau, Missouri",Missouri,Moniteau,21.8,8.6
+"St. Francois, Missouri",Missouri,St. Francois,25.2,9.9
+"Loup, Nebraska",Nebraska,Loup,14.3,7.2
+"Knox, Nebraska",Nebraska,Knox,15.5,7.5
+"Churchill, Nevada",Nevada,Churchill,18.2,8.1
+"Douglas, Missouri",Missouri,Douglas,26.4,14.1
+"Hooker, Nebraska",Nebraska,Hooker,13.8,7.4
+"McCone, Montana",Montana,McCone,16.7,8.1
+"Franklin, Nebraska",Nebraska,Franklin,17.0,8.3
+"Lewis and Clark, Montana",Montana,Lewis and Clark,15.6,6.1
+"Lewis, Missouri",Missouri,Lewis,22.5,10.2
+"Stone, Missouri",Missouri,Stone,21.5,11.9
+"Newton, Missouri",Missouri,Newton,21.2,9.5
+"Stanton, Nebraska",Nebraska,Stanton,15.5,6.2
+"Howard, Nebraska",Nebraska,Howard,15.2,6.9
+"Judith Basin, Montana",Montana,Judith Basin,15.8,8.0
+"Sheridan, Montana",Montana,Sheridan,17.0,7.6
+"Callaway, Missouri",Missouri,Callaway,21.1,8.5
+"Nemaha, Nebraska",Nebraska,Nemaha,15.4,6.3
+"New Madrid, Missouri",Missouri,New Madrid,26.5,12.5
+"Burt, Nebraska",Nebraska,Burt,16.7,7.7
+"Clark, Missouri",Missouri,Clark,24.0,11.4
+"Ste. Genevieve, Missouri",Missouri,Ste. Genevieve,21.2,9.9
+"Cedar, Missouri",Missouri,Cedar,23.5,12.3
+"Elko, Nevada",Nevada,Elko,18.8,6.5
+"Fallon, Montana",Montana,Fallon,17.3,6.8
+"Yazoo, Mississippi",Mississippi,Yazoo,24.2,8.5
+"Yellowstone, Montana",Montana,Yellowstone,17.0,6.1
+"Cheyenne, Nebraska",Nebraska,Cheyenne,16.0,6.3
+"Hall, Nebraska",Nebraska,Hall,14.8,5.7
+"Scotts Bluff, Nebraska",Nebraska,Scotts Bluff,15.7,6.5
+"Wayne, Mississippi",Mississippi,Wayne,21.4,9.4
+"Richardson, Nebraska",Nebraska,Richardson,18.0,8.1
+"Dawson, Montana",Montana,Dawson,16.9,7.0
+"Roosevelt, Montana",Montana,Roosevelt,31.5,9.9
+"Pondera, Montana",Montana,Pondera,18.9,8.2
+"Liberty, Montana",Montana,Liberty,22.3,10.4
+"Wayne, Missouri",Missouri,Wayne,27.0,14.4
+"Otoe, Nebraska",Nebraska,Otoe,16.7,6.4
+"Polk, Missouri",Missouri,Polk,22.3,9.9
+"Washoe, Nevada",Nevada,Washoe,15.5,6.3
+"Furnas, Nebraska",Nebraska,Furnas,17.2,8.4
+"Cass, Nebraska",Nebraska,Cass,15.9,6.0
+"Adams, Nebraska",Nebraska,Adams,16.0,6.4
+"Dade, Missouri",Missouri,Dade,24.2,12.7
+"Eureka, Nevada",Nevada,Eureka,19.6,8.0
+"Washington, Mississippi",Mississippi,Washington,23.6,10.5
+"Gage, Nebraska",Nebraska,Gage,17.4,7.3
+"Christian, Missouri",Missouri,Christian,19.7,7.9
+"Texas, Missouri",Missouri,Texas,25.7,12.6
+"Miller, Missouri",Missouri,Miller,22.5,10.4
+"Cuming, Nebraska",Nebraska,Cuming,15.5,6.9
+"Lake, Montana",Montana,Lake,19.5,8.8
+"Colfax, Nebraska",Nebraska,Colfax,16.8,5.8
+"Mississippi, Missouri",Missouri,Mississippi,28.8,12.6
+"Wibaux, Montana",Montana,Wibaux,17.0,8.2
+"Cooper, Missouri",Missouri,Cooper,20.9,8.7
+"Boyd, Nebraska",Nebraska,Boyd,14.7,7.7
+"Sullivan, Missouri",Missouri,Sullivan,22.5,10.0
+"Big Horn, Montana",Montana,Big Horn,27.0,9.6
+"York, Nebraska",Nebraska,York,14.5,6.1
+"Carbon, Montana",Montana,Carbon,15.5,7.5
+"Dunklin, Missouri",Missouri,Dunklin,27.6,12.6
+"Macon, Missouri",Missouri,Macon,21.1,10.2
+"Kimball, Nebraska",Nebraska,Kimball,16.7,8.0
+"Blaine, Nebraska",Nebraska,Blaine,15.0,7.2
+"Osage, Missouri",Missouri,Osage,20.5,8.6
+"Lafayette, Missouri",Missouri,Lafayette,21.9,9.2
+"Carroll, New Hampshire",New Hampshire,Carroll,15.6,8.3
+"Jasper, Missouri",Missouri,Jasper,21.1,8.8
+"DeKalb, Missouri",Missouri,DeKalb,23.9,8.8
+"Hayes, Nebraska",Nebraska,Hayes,15.5,8.3
+"Sioux, Nebraska",Nebraska,Sioux,14.0,7.4
+"Laclede, Missouri",Missouri,Laclede,23.7,10.6
+"Deuel, Nebraska",Nebraska,Deuel,16.8,7.5
+"Rosebud, Montana",Montana,Rosebud,22.1,8.3
+"Nye, Nevada",Nevada,Nye,20.5,11.1
+"Cole, Missouri",Missouri,Cole,18.6,7.6
+"Frontier, Nebraska",Nebraska,Frontier,14.5,6.7
+"Thomas, Nebraska",Nebraska,Thomas,14.0,6.3
+"Lincoln, Nebraska",Nebraska,Lincoln,17.6,6.5
+"Benton, Missouri",Missouri,Benton,22.0,13.1
+"Maries, Missouri",Missouri,Maries,22.9,11.0
+"Lyon, Nevada",Nevada,Lyon,20.1,8.6
+"Gosper, Nebraska",Nebraska,Gosper,13.4,6.2
+"Thurston, Nebraska",Nebraska,Thurston,27.4,8.6
+"Stoddard, Missouri",Missouri,Stoddard,24.5,11.5
+"Blaine, Montana",Montana,Blaine,26.5,9.6
+"Polk, Nebraska",Nebraska,Polk,15.2,6.9
+"Wheatland, Montana",Montana,Wheatland,19.5,9.8
+"Toole, Montana",Montana,Toole,21.3,8.0
+"Silver Bow, Montana",Montana,Silver Bow,18.8,7.7
+"Garfield, Montana",Montana,Garfield,18.7,8.4
+"Hamilton, Nebraska",Nebraska,Hamilton,14.4,5.9
+"Camden, Missouri",Missouri,Camden,20.4,10.8
+"Sanders, Montana",Montana,Sanders,19.1,11.1
+"Pulaski, Missouri",Missouri,Pulaski,19.4,5.6
+"Glacier, Montana",Montana,Glacier,29.0,10.3
+"Morgan, Missouri",Missouri,Morgan,25.3,13.5
+"Dawes, Nebraska",Nebraska,Dawes,13.1,5.3
+"Stillwater, Montana",Montana,Stillwater,16.0,7.2
+"Livingston, Missouri",Missouri,Livingston,22.4,9.9
+"Bollinger, Missouri",Missouri,Bollinger,25.1,12.3
+"Grundy, Missouri",Missouri,Grundy,21.7,10.7
+"Sweet Grass, Montana",Montana,Sweet Grass,15.2,7.5
+"Madison, Missouri",Missouri,Madison,23.3,10.7
+"Keya Paha, Nebraska",Nebraska,Keya Paha,14.7,8.6
+"Putnam, Missouri",Missouri,Putnam,21.3,11.0
+"St. Louis, Missouri",Missouri,St. Louis,15.9,6.8
+"Granite, Montana",Montana,Granite,15.9,8.3
+"Jefferson, Missouri",Missouri,Jefferson,22.3,8.3
+"Pawnee, Nebraska",Nebraska,Pawnee,17.5,9.6
+"Lancaster, Nebraska",Nebraska,Lancaster,13.6,4.9
+"Clay, Nebraska",Nebraska,Clay,16.4,7.1
+"Barton, Missouri",Missouri,Barton,22.7,11.4
+"Washington, Nebraska",Nebraska,Washington,14.7,5.9
+"Prairie, Montana",Montana,Prairie,17.4,9.7
+"Marion, Missouri",Missouri,Marion,22.1,9.9
+"Dodge, Nebraska",Nebraska,Dodge,18.3,6.9
+"Rock, Nebraska",Nebraska,Rock,14.3,6.8
+"Atchison, Missouri",Missouri,Atchison,19.7,10.0
+"Harlan, Nebraska",Nebraska,Harlan,14.8,7.4
+"Taney, Missouri",Missouri,Taney,21.0,9.9
+"Butler, Missouri",Missouri,Butler,25.4,12.0
+"St. Charles, Missouri",Missouri,St. Charles,15.3,6.4
+"Hillsborough, New Hampshire",New Hampshire,Hillsborough,15.2,6.1
+"Jefferson, Montana",Montana,Jefferson,15.1,6.9
+"Esmeralda, Nevada",Nevada,Esmeralda,19.2,11.2
+"St. Louis City, Missouri",Missouri,St. Louis City,20.0,7.5
+"Lincoln, Missouri",Missouri,Lincoln,23.2,8.6
+"Wayne, Nebraska",Nebraska,Wayne,13.8,5.3
+"Buffalo, Nebraska",Nebraska,Buffalo,15.9,5.4
+"Linn, Missouri",Missouri,Linn,22.3,10.3
+"Custer, Montana",Montana,Custer,17.5,7.3
+"Saline, Nebraska",Nebraska,Saline,16.6,6.5
+"Knox, Missouri",Missouri,Knox,22.7,11.8
+"Wright, Missouri",Missouri,Wright,28.0,13.7
+"Saline, Missouri",Missouri,Saline,21.0,9.3
+"Dawson, Nebraska",Nebraska,Dawson,15.7,6.1
+"Holt, Nebraska",Nebraska,Holt,14.5,6.7
+"Adair, Missouri",Missouri,Adair,19.2,8.0
+"Belknap, New Hampshire",New Hampshire,Belknap,15.7,7.4
+"Ripley, Missouri",Missouri,Ripley,27.8,14.1
+"Dallas, Missouri",Missouri,Dallas,24.7,11.8
+"Missoula, Montana",Montana,Missoula,15.5,5.5
+"Treasure, Montana",Montana,Treasure,17.0,8.9
+"Daniels, Montana",Montana,Daniels,15.3,7.6
+"Chariton, Missouri",Missouri,Chariton,20.8,10.8
+"Saunders, Nebraska",Nebraska,Saunders,16.1,6.3
+"St. Clair, Missouri",Missouri,St. Clair,22.7,12.6
+"Clark, Nevada",Nevada,Clark,16.6,6.6
+"Golden Valley, Montana",Montana,Golden Valley,17.6,8.8
+"Douglas, Nebraska",Nebraska,Douglas,15.9,5.2
+"Andrew, Missouri",Missouri,Andrew,20.3,8.5
+"Gallatin, Montana",Montana,Gallatin,12.0,4.6
+"Winston, Mississippi",Mississippi,Winston,21.0,9.9
+"Valley, Montana",Montana,Valley,17.7,8.3
+"Randolph, Missouri",Missouri,Randolph,23.7,9.7
+"Carter, Missouri",Missouri,Carter,23.8,11.1
+"Howard, Missouri",Missouri,Howard,20.3,9.4
+"Bates, Missouri",Missouri,Bates,22.4,10.4
+"Nance, Nebraska",Nebraska,Nance,16.7,7.3
+"Pierce, Nebraska",Nebraska,Pierce,15.2,6.3
+"Cheshire, New Hampshire",New Hampshire,Cheshire,16.4,7.2
+"Valley, Nebraska",Nebraska,Valley,14.9,7.1
+"Richland, Montana",Montana,Richland,16.3,6.1
+"Montgomery, Missouri",Missouri,Montgomery,23.7,11.7
+"Mineral, Nevada",Nevada,Mineral,21.1,10.8
+"Boone, Nebraska",Nebraska,Boone,15.4,7.3
+"Carson City, Nevada",Nevada,Carson City,16.9,7.7
+"Sheridan, Nebraska",Nebraska,Sheridan,16.5,8.4
+"Carroll, Missouri",Missouri,Carroll,22.2,10.7
+"Fillmore, Nebraska",Nebraska,Fillmore,15.8,6.9
+"Jackson, Missouri",Missouri,Jackson,21.6,7.8
+"Sarpy, Nebraska",Nebraska,Sarpy,13.3,4.3
+"Johnson, Missouri",Missouri,Johnson,18.2,6.9
+"Shannon, Missouri",Missouri,Shannon,26.4,13.9
+"Johnson, Nebraska",Nebraska,Johnson,18.2,6.5
+"Greene, Missouri",Missouri,Greene,18.9,8.2
+"Kearney, Nebraska",Nebraska,Kearney,15.5,6.2
+"Beaverhead, Montana",Montana,Beaverhead,15.7,6.8
+"Perry, Missouri",Missouri,Perry,21.9,9.5
+"Buchanan, Missouri",Missouri,Buchanan,23.2,9.3
+"Mercer, Missouri",Missouri,Mercer,20.8,10.1
+"Ray, Missouri",Missouri,Ray,21.8,9.5
+"Warren, Mississippi",Mississippi,Warren,19.9,8.5
+"Garfield, Nebraska",Nebraska,Garfield,13.7,7.0
+"Monroe, Missouri",Missouri,Monroe,22.5,11.1
+"Chouteau, Montana",Montana,Chouteau,19.0,8.3
+"Scott, Missouri",Missouri,Scott,23.5,10.7
+"Gentry, Missouri",Missouri,Gentry,22.0,10.2
+"Meagher, Montana",Montana,Meagher,16.4,8.8
+"Powell, Montana",Montana,Powell,19.3,7.8
+"Hill, Montana",Montana,Hill,22.8,7.9
+"Boone, Missouri",Missouri,Boone,17.1,6.3
+"Banner, Nebraska",Nebraska,Banner,14.4,6.6
+"Sherman, Nebraska",Nebraska,Sherman,15.5,8.0
+"Audrain, Missouri",Missouri,Audrain,23.9,10.4
+"Caldwell, Missouri",Missouri,Caldwell,22.6,10.8
+"Arthur, Nebraska",Nebraska,Arthur,16.1,7.2
+"Ravalli, Montana",Montana,Ravalli,17.1,8.2
+"Grant, Nebraska",Nebraska,Grant,16.5,7.7
+"Antelope, Nebraska",Nebraska,Antelope,15.8,7.5
+"McPherson, Nebraska",Nebraska,McPherson,16.1,8.3
+"Perkins, Nebraska",Nebraska,Perkins,14.7,6.4
+"Pike, Missouri",Missouri,Pike,24.3,10.1
+"Webster, Missouri",Missouri,Webster,24.6,10.5
+"Chase, Nebraska",Nebraska,Chase,14.5,6.5
+"Red Willow, Nebraska",Nebraska,Red Willow,16.9,7.0
+"Cascade, Montana",Montana,Cascade,18.4,7.3
+"Grafton, New Hampshire",New Hampshire,Grafton,14.9,6.8
+"Holt, Missouri",Missouri,Holt,20.6,10.7
+"Washington, Missouri",Missouri,Washington,26.5,12.0
+"Deer Lodge, Montana",Montana,Deer Lodge,20.4,9.4
+"Platte, Missouri",Missouri,Platte,15.4,6.0
+"Dent, Missouri",Missouri,Dent,24.6,12.4
+"Pershing, Nevada",Nevada,Pershing,20.5,7.3
+"White Pine, Nevada",Nevada,White Pine,20.1,8.0
+"Cape Girardeau, Missouri",Missouri,Cape Girardeau,19.4,7.9
+"McDonald, Missouri",Missouri,McDonald,26.4,11.5
+"Dundy, Nebraska",Nebraska,Dundy,16.8,8.7
+"Seward, Nebraska",Nebraska,Seward,15.0,5.7
+"Ashtabula, Ohio",Ohio,Ashtabula,25.8,12.4
+"Jefferson, New York",New York,Jefferson,19.8,7.6
+"Socorro, New Mexico",New Mexico,Socorro,17.4,7.1
+"Clinton, Ohio",Ohio,Clinton,24.5,10.7
+"McIntosh, North Dakota",North Dakota,McIntosh,16.6,9.2
+"Alamance, North Carolina",North Carolina,Alamance,18.7,8.0
+"Monroe, New York",New York,Monroe,16.9,7.0
+"Pamlico, North Carolina",North Carolina,Pamlico,19.5,10.7
+"Dare, North Carolina",North Carolina,Dare,16.1,7.6
+"Iredell, North Carolina",North Carolina,Iredell,18.5,7.4
+"Buncombe, North Carolina",North Carolina,Buncombe,16.5,7.5
+"Anson, North Carolina",North Carolina,Anson,23.4,9.9
+"Greene, Ohio",Ohio,Greene,17.6,7.7
+"Athens, Ohio",Ohio,Athens,22.3,9.0
+"Ontario, New York",New York,Ontario,15.5,7.5
+"Granville, North Carolina",North Carolina,Granville,20.1,8.4
+"Schoharie, New York",New York,Schoharie,17.7,9.1
+"Onondaga, New York",New York,Onondaga,16.6,7.5
+"Benson, North Dakota",North Dakota,Benson,27.6,10.4
+"Eddy, New Mexico",New Mexico,Eddy,16.0,5.4
+"Clinton, New York",New York,Clinton,18.9,8.5
+"Oliver, North Dakota",North Dakota,Oliver,16.8,7.1
+"Belmont, Ohio",Ohio,Belmont,24.4,10.8
+"Harding, New Mexico",New Mexico,Harding,13.3,7.7
+"Cass, North Dakota",North Dakota,Cass,15.7,4.6
+"Avery, North Carolina",North Carolina,Avery,21.6,9.8
+"Washington, North Carolina",North Carolina,Washington,22.2,11.3
+"Morton, North Dakota",North Dakota,Morton,17.3,5.7
+"Williams, North Dakota",North Dakota,Williams,18.9,4.7
+"Queens, New York",New York,Queens,12.4,5.6
+"Dunn, North Dakota",North Dakota,Dunn,17.5,6.2
+"Robeson, North Carolina",North Carolina,Robeson,27.9,11.7
+"Divide, North Dakota",North Dakota,Divide,17.8,8.2
+"Scotland, North Carolina",North Carolina,Scotland,25.4,10.9
+"Stark, North Dakota",North Dakota,Stark,18.8,5.7
+"Butler, Ohio",Ohio,Butler,20.9,8.2
+"Chenango, New York",New York,Chenango,20.0,10.1
+"Beaufort, North Carolina",North Carolina,Beaufort,20.0,10.0
+"Montgomery, New York",New York,Montgomery,20.3,9.4
+"Carroll, Ohio",Ohio,Carroll,22.6,11.2
+"Essex, New York",New York,Essex,17.2,8.9
+"Moore, North Carolina",North Carolina,Moore,16.0,7.8
+"Foster, North Dakota",North Dakota,Foster,15.9,7.0
+"Schenectady, New York",New York,Schenectady,16.7,7.3
+"Emmons, North Dakota",North Dakota,Emmons,16.7,8.2
+"Sandoval, New Mexico",New Mexico,Sandoval,13.6,5.2
+"Carteret, North Carolina",North Carolina,Carteret,17.4,8.7
+"Auglaize, Ohio",Ohio,Auglaize,20.4,9.5
+"Hyde, North Carolina",North Carolina,Hyde,23.2,10.8
+"Johnston, North Carolina",North Carolina,Johnston,19.5,7.3
+"Putnam, New York",New York,Putnam,13.3,5.9
+"Cherokee, North Carolina",North Carolina,Cherokee,20.3,11.4
+"Columbia, New York",New York,Columbia,16.3,8.4
+"Ashe, North Carolina",North Carolina,Ashe,20.1,10.3
+"Rutherford, North Carolina",North Carolina,Rutherford,21.8,10.6
+"Burleigh, North Dakota",North Dakota,Burleigh,15.9,5.4
+"Brunswick, North Carolina",North Carolina,Brunswick,16.9,9.3
+"Kidder, North Dakota",North Dakota,Kidder,18.1,8.4
+"Oswego, New York",New York,Oswego,20.5,9.4
+"Guadalupe, New Mexico",New Mexico,Guadalupe,14.8,5.1
+"Rio Arriba, New Mexico",New Mexico,Rio Arriba,15.6,5.9
+"Orange, North Carolina",North Carolina,Orange,13.2,5.3
+"Wells, North Dakota",North Dakota,Wells,15.6,7.9
+"Gates, North Carolina",North Carolina,Gates,20.5,9.2
+"Sampson, North Carolina",North Carolina,Sampson,21.4,9.3
+"Westchester, New York",New York,Westchester,10.5,5.4
+"Oneida, New York",New York,Oneida,18.6,8.9
+"Madison, North Carolina",North Carolina,Madison,19.3,9.3
+"Onslow, North Carolina",North Carolina,Onslow,18.1,5.6
+"Schuyler, New York",New York,Schuyler,19.9,9.9
+"Pembina, North Dakota",North Dakota,Pembina,17.4,7.0
+"Quay, New Mexico",New Mexico,Quay,16.3,7.8
+"San Miguel, New Mexico",New Mexico,San Miguel,14.9,6.1
+"Hoke, North Carolina",North Carolina,Hoke,22.2,7.2
+"Otero, New Mexico",New Mexico,Otero,17.5,6.5
+"Alexander, North Carolina",North Carolina,Alexander,21.5,9.7
+"Griggs, North Dakota",North Dakota,Griggs,15.6,8.1
+"Pierce, North Dakota",North Dakota,Pierce,17.9,8.0
+"Grant, New Mexico",New Mexico,Grant,13.2,6.7
+"Richmond, North Carolina",North Carolina,Richmond,24.4,10.7
+"Clermont, Ohio",Ohio,Clermont,22.6,9.0
+"Greene, North Carolina",North Carolina,Greene,23.4,9.4
+"Lincoln, New Mexico",New Mexico,Lincoln,13.8,6.8
+"Guilford, North Carolina",North Carolina,Guilford,18.2,6.9
+"Columbus, North Carolina",North Carolina,Columbus,23.3,10.8
+"Washington, New York",New York,Washington,19.1,9.4
+"Wyoming, New York",New York,Wyoming,19.6,8.7
+"Erie, New York",New York,Erie,16.9,7.7
+"Caldwell, North Carolina",North Carolina,Caldwell,22.8,10.4
+"Graham, North Carolina",North Carolina,Graham,22.7,11.5
+"Wayne, New York",New York,Wayne,18.3,8.8
+"Towner, North Dakota",North Dakota,Towner,18.1,8.3
+"Clark, Ohio",Ohio,Clark,23.5,10.8
+"Bernalillo, New Mexico",New Mexico,Bernalillo,14.6,4.9
+"Crawford, Ohio",Ohio,Crawford,24.4,11.4
+"Vance, North Carolina",North Carolina,Vance,23.2,10.3
+"Hamilton, New York",New York,Hamilton,19.6,12.2
+"Perquimans, North Carolina",North Carolina,Perquimans,19.3,10.2
+"Eddy, North Dakota",North Dakota,Eddy,16.7,7.4
+"Transylvania, North Carolina",North Carolina,Transylvania,17.5,9.8
+"Livingston, New York",New York,Livingston,17.4,8.0
+"Madison, New York",New York,Madison,17.7,8.1
+"Fairfield, Ohio",Ohio,Fairfield,20.4,8.6
+"Watauga, North Carolina",North Carolina,Watauga,16.9,7.4
+"Rolette, North Dakota",North Dakota,Rolette,30.7,10.0
+"Gaston, North Carolina",North Carolina,Gaston,20.8,8.6
+"Henry, Ohio",Ohio,Henry,20.6,9.0
+"San Juan, New Mexico",New Mexico,San Juan,21.9,7.8
+"Yancey, North Carolina",North Carolina,Yancey,20.2,10.6
+"Taos, New Mexico",New Mexico,Taos,12.8,6.3
+"Allen, Ohio",Ohio,Allen,21.6,9.7
+"Halifax, North Carolina",North Carolina,Halifax,24.7,11.7
+"Tioga, New York",New York,Tioga,18.6,8.9
+"Franklin, Ohio",Ohio,Franklin,20.5,6.9
+"Saratoga, New York",New York,Saratoga,14.5,6.7
+"Bladen, North Carolina",North Carolina,Bladen,22.8,10.9
+"Genesee, New York",New York,Genesee,18.1,8.5
+"Greene, New York",New York,Greene,18.6,9.5
+"Rowan, North Carolina",North Carolina,Rowan,20.1,8.8
+"Pasquotank, North Carolina",North Carolina,Pasquotank,20.4,8.2
+"Person, North Carolina",North Carolina,Person,21.1,9.4
+"Hettinger, North Dakota",North Dakota,Hettinger,18.9,7.8
+"Sullivan, New York",New York,Sullivan,18.2,8.3
+"Camden, North Carolina",North Carolina,Camden,20.4,8.3
+"Adams, Ohio",Ohio,Adams,29.0,13.9
+"Harnett, North Carolina",North Carolina,Harnett,19.9,7.2
+"Sierra, New Mexico",New Mexico,Sierra,16.5,9.9
+"Guernsey, Ohio",Ohio,Guernsey,24.9,12.2
+"Henderson, North Carolina",North Carolina,Henderson,16.3,8.1
+"Mora, New Mexico",New Mexico,Mora,12.8,6.2
+"Cavalier, North Dakota",North Dakota,Cavalier,15.9,7.5
+"Randolph, North Carolina",North Carolina,Randolph,21.2,9.5
+"Cuyahoga, Ohio",Ohio,Cuyahoga,20.7,8.6
+"LaMoure, North Dakota",North Dakota,LaMoure,17.0,8.5
+"Los Alamos, New Mexico",New Mexico,Los Alamos,9.0,3.7
+"Franklin, New York",New York,Franklin,21.4,9.3
+"Champaign, Ohio",Ohio,Champaign,22.4,9.9
+"Dutchess, New York",New York,Dutchess,15.2,6.7
+"Wayne, North Carolina",North Carolina,Wayne,20.5,8.6
+"Stokes, North Carolina",North Carolina,Stokes,21.7,10.1
+"Geauga, Ohio",Ohio,Geauga,17.7,8.8
+"Rockingham, North Carolina",North Carolina,Rockingham,21.8,10.3
+"Erie, Ohio",Ohio,Erie,21.5,9.8
+"Warren, New York",New York,Warren,15.7,8.2
+"Delaware, New York",New York,Delaware,18.5,9.7
+"Grant, North Dakota",North Dakota,Grant,17.8,9.1
+"Davidson, North Carolina",North Carolina,Davidson,21.6,9.4
+"Seneca, New York",New York,Seneca,19.9,9.1
+"Cortland, New York",New York,Cortland,17.7,7.9
+"Sheridan, North Dakota",North Dakota,Sheridan,17.3,9.5
+"Alleghany, North Carolina",North Carolina,Alleghany,21.9,12.4
+"Northampton, North Carolina",North Carolina,Northampton,22.4,11.6
+"Currituck, North Carolina",North Carolina,Currituck,18.8,7.8
+"McLean, North Dakota",North Dakota,McLean,17.2,7.2
+"Sullivan, New Hampshire",New Hampshire,Sullivan,18.3,8.3
+"Rockland, New York",New York,Rockland,13.0,6.3
+"Cumberland, North Carolina",North Carolina,Cumberland,19.1,6.6
+"Torrance, New Mexico",New Mexico,Torrance,17.8,7.7
+"McKinley, New Mexico",New Mexico,McKinley,24.2,10.3
+"Sioux, North Dakota",North Dakota,Sioux,34.1,10.9
+"Merrimack, New Hampshire",New Hampshire,Merrimack,15.2,6.6
+"Steuben, New York",New York,Steuben,20.1,9.6
+"Hamilton, Ohio",Ohio,Hamilton,19.6,7.9
+"Union, North Carolina",North Carolina,Union,17.7,6.4
+"Hertford, North Carolina",North Carolina,Hertford,22.1,9.8
+"Ulster, New York",New York,Ulster,16.0,7.7
+"Chautauqua, New York",New York,Chautauqua,20.1,9.6
+"Fulton, New York",New York,Fulton,21.9,9.9
+"De Baca, New Mexico",New Mexico,De Baca,16.0,8.2
+"Cleveland, North Carolina",North Carolina,Cleveland,22.3,10.1
+"Mercer, North Dakota",North Dakota,Mercer,17.3,6.8
+"Yates, New York",New York,Yates,18.1,9.3
+"Curry, New Mexico",New Mexico,Curry,17.2,5.9
+"Ashland, Ohio",Ohio,Ashland,21.9,10.2
+"Nash, North Carolina",North Carolina,Nash,20.2,8.5
+"Steele, North Dakota",North Dakota,Steele,14.0,6.3
+"Lee, North Carolina",North Carolina,Lee,19.4,8.1
+"Hardin, Ohio",Ohio,Hardin,22.6,10.0
+"Valencia, New Mexico",New Mexico,Valencia,15.8,5.7
+"Montgomery, North Carolina",North Carolina,Montgomery,20.4,9.5
+"Franklin, North Carolina",North Carolina,Franklin,20.5,8.1
+"Adams, North Dakota",North Dakota,Adams,15.8,7.4
+"Haywood, North Carolina",North Carolina,Haywood,18.4,9.2
+"Colfax, New Mexico",New Mexico,Colfax,14.8,7.2
+"Wilkes, North Carolina",North Carolina,Wilkes,22.0,10.7
+"DoÃ±a Ana, New Mexico",New Mexico,DoÃ±a Ana,14.5,5.5
+"Fayette, Ohio",Ohio,Fayette,26.1,11.4
+"Cayuga, New York",New York,Cayuga,19.8,9.2
+"Forsyth, North Carolina",North Carolina,Forsyth,17.5,7.2
+"Durham, North Carolina",North Carolina,Durham,15.4,5.5
+"Wilson, North Carolina",North Carolina,Wilson,21.7,9.5
+"Wake, North Carolina",North Carolina,Wake,12.9,4.9
+"Santa Fe, New Mexico",New Mexico,Santa Fe,11.4,5.3
+"Stutsman, North Dakota",North Dakota,Stutsman,17.9,6.7
+"Traill, North Dakota",North Dakota,Traill,15.2,6.0
+"McKenzie, North Dakota",North Dakota,McKenzie,19.3,5.2
+"New Hanover, North Carolina",North Carolina,New Hanover,16.0,7.0
+"Rockingham, New Hampshire",New Hampshire,Rockingham,13.9,5.8
+"Swain, North Carolina",North Carolina,Swain,25.1,11.2
+"Caswell, North Carolina",North Carolina,Caswell,21.5,9.8
+"Lewis, New York",New York,Lewis,19.4,9.7
+"Herkimer, New York",New York,Herkimer,19.6,9.5
+"Clay, North Carolina",North Carolina,Clay,18.6,10.8
+"Strafford, New Hampshire",New Hampshire,Strafford,15.5,6.1
+"St. Lawrence, New York",New York,St. Lawrence,19.8,9.5
+"Brown, Ohio",Ohio,Brown,23.5,11.1
+"Nelson, North Dakota",North Dakota,Nelson,16.3,7.4
+"Yadkin, North Carolina",North Carolina,Yadkin,21.4,10.0
+"Catron, New Mexico",New Mexico,Catron,16.0,10.5
+"Gallia, Ohio",Ohio,Gallia,25.1,11.9
+"Bottineau, North Dakota",North Dakota,Bottineau,16.5,7.1
+"Luna, New Mexico",New Mexico,Luna,18.2,7.6
+"Chaves, New Mexico",New Mexico,Chaves,16.3,6.2
+"Catawba, North Carolina",North Carolina,Catawba,19.7,8.2
+"Pitt, North Carolina",North Carolina,Pitt,18.2,7.1
+"Kings, New York",New York,Kings,14.1,5.9
+"Golden Valley, North Dakota",North Dakota,Golden Valley,15.8,7.3
+"Ramsey, North Dakota",North Dakota,Ramsey,16.4,6.8
+"Burke, North Carolina",North Carolina,Burke,22.1,10.1
+"Richmond, New York",New York,Richmond,15.3,6.3
+"Ward, North Dakota",North Dakota,Ward,17.0,4.9
+"Chatham, North Carolina",North Carolina,Chatham,15.0,7.5
+"Barnes, North Dakota",North Dakota,Barnes,16.2,6.9
+"Sargent, North Dakota",North Dakota,Sargent,16.4,6.5
+"Walsh, North Dakota",North Dakota,Walsh,17.2,7.5
+"Dickey, North Dakota",North Dakota,Dickey,15.0,6.2
+"Delaware, Ohio",Ohio,Delaware,15.0,6.0
+"Broome, New York",New York,Broome,16.7,8.4
+"Surry, North Carolina",North Carolina,Surry,21.9,10.2
+"Defiance, Ohio",Ohio,Defiance,20.4,9.1
+"Chowan, North Carolina",North Carolina,Chowan,19.6,9.8
+"Union, New Mexico",New Mexico,Union,17.9,6.8
+"Mountrail, North Dakota",North Dakota,Mountrail,21.2,5.9
+"Grand Forks, North Dakota",North Dakota,Grand Forks,14.8,5.2
+"Roosevelt, New Mexico",New Mexico,Roosevelt,17.1,6.1
+"Renville, North Dakota",North Dakota,Renville,16.2,6.7
+"Jones, North Carolina",North Carolina,Jones,23.2,11.9
+"Duplin, North Carolina",North Carolina,Duplin,22.1,10.0
+"Edgecombe, North Carolina",North Carolina,Edgecombe,23.3,10.7
+"Rensselaer, New York",New York,Rensselaer,16.9,7.2
+"Billings, North Dakota",North Dakota,Billings,16.6,6.6
+"Jackson, North Carolina",North Carolina,Jackson,18.4,8.2
+"Cibola, New Mexico",New Mexico,Cibola,20.9,7.7
+"Pender, North Carolina",North Carolina,Pender,18.6,8.3
+"Columbiana, Ohio",Ohio,Columbiana,24.2,11.4
+"Allegany, New York",New York,Allegany,19.7,9.3
+"Fulton, Ohio",Ohio,Fulton,20.3,9.0
+"Macon, North Carolina",North Carolina,Macon,18.3,10.1
+"Bertie, North Carolina",North Carolina,Bertie,22.8,10.8
+"Bronx, New York",New York,Bronx,16.4,6.6
+"Chemung, New York",New York,Chemung,19.5,9.1
+"Mecklenburg, North Carolina",North Carolina,Mecklenburg,15.3,5.2
+"Lincoln, North Carolina",North Carolina,Lincoln,18.9,8.2
+"Otsego, New York",New York,Otsego,17.2,8.4
+"Hidalgo, New Mexico",New Mexico,Hidalgo,15.7,6.9
+"Orange, New York",New York,Orange,15.2,6.2
+"Stanly, North Carolina",North Carolina,Stanly,20.9,9.0
+"Lenoir, North Carolina",North Carolina,Lenoir,22.9,10.5
+"Tyrrell, North Carolina",North Carolina,Tyrrell,24.0,10.4
+"Hancock, Ohio",Ohio,Hancock,20.3,8.4
+"Nassau, New York",New York,Nassau,11.7,5.4
+"Lea, New Mexico",New Mexico,Lea,17.1,5.3
+"Bowman, North Dakota",North Dakota,Bowman,16.5,6.9
+"Logan, North Dakota",North Dakota,Logan,17.4,7.8
+"Harrison, Ohio",Ohio,Harrison,26.1,12.3
+"Richland, North Dakota",North Dakota,Richland,15.9,6.5
+"Mitchell, North Carolina",North Carolina,Mitchell,19.7,10.0
+"Tompkins, New York",New York,Tompkins,13.3,5.6
+"Cattaraugus, New York",New York,Cattaraugus,20.6,10.1
+"Martin, North Carolina",North Carolina,Martin,21.6,10.8
+"Coshocton, Ohio",Ohio,Coshocton,25.9,12.1
+"McDowell, North Carolina",North Carolina,McDowell,22.2,10.0
+"Suffolk, New York",New York,Suffolk,13.4,5.9
+"Burke, North Dakota",North Dakota,Burke,16.7,6.7
+"McHenry, North Dakota",North Dakota,McHenry,17.3,6.8
+"New York, New York",New York,New York,11.3,4.6
+"Warren, North Carolina",North Carolina,Warren,22.6,11.4
+"Ransom, North Dakota",North Dakota,Ransom,17.2,7.1
+"Polk, North Carolina",North Carolina,Polk,16.1,9.5
+"Albany, New York",New York,Albany,14.2,6.4
+"Davie, North Carolina",North Carolina,Davie,18.6,8.6
+"Orleans, New York",New York,Orleans,20.6,9.6
+"Slope, North Dakota",North Dakota,Slope,16.2,7.3
+"Craven, North Carolina",North Carolina,Craven,17.9,7.9
+"Darke, Ohio",Ohio,Darke,22.6,10.8
+"Niagara, New York",New York,Niagara,20.0,9.0
+"Cabarrus, North Carolina",North Carolina,Cabarrus,17.2,6.4
+"Perry, Pennsylvania",Pennsylvania,Perry,21.7,8.7
+"Marion, Oregon",Oregon,Marion,14.9,6.1
+"Greenville, South Carolina",South Carolina,Greenville,14.7,6.4
+"Miami, Ohio",Ohio,Miami,21.7,9.5
+"Logan, Ohio",Ohio,Logan,23.1,10.2
+"Lawrence, Pennsylvania",Pennsylvania,Lawrence,20.7,9.1
+"Oklahoma, Oklahoma",Oklahoma,Oklahoma,16.5,7.0
+"Wayne, Pennsylvania",Pennsylvania,Wayne,19.9,8.9
+"Hocking, Ohio",Ohio,Hocking,24.7,11.6
+"Pittsburg, Oklahoma",Oklahoma,Pittsburg,22.9,10.5
+"Clinton, Pennsylvania",Pennsylvania,Clinton,21.0,8.6
+"Delaware, Pennsylvania",Pennsylvania,Delaware,16.6,6.2
+"Benton, Oregon",Oregon,Benton,12.3,5.0
+"Saluda, South Carolina",South Carolina,Saluda,20.6,9.5
+"McCormick, South Carolina",South Carolina,McCormick,18.6,10.7
+"Pontotoc, Oklahoma",Oklahoma,Pontotoc,20.3,8.5
+"Washington, Ohio",Ohio,Washington,21.9,10.8
+"Scioto, Ohio",Ohio,Scioto,28.0,12.7
+"Georgetown, South Carolina",South Carolina,Georgetown,17.3,9.5
+"Delaware, Oklahoma",Oklahoma,Delaware,22.0,12.1
+"Morrow, Oregon",Oregon,Morrow,18.1,7.3
+"Horry, South Carolina",South Carolina,Horry,21.6,9.5
+"Indiana, Pennsylvania",Pennsylvania,Indiana,20.9,8.7
+"Mifflin, Pennsylvania",Pennsylvania,Mifflin,23.7,10.3
+"Ellis, Oklahoma",Oklahoma,Ellis,19.3,10.4
+"Aurora, South Dakota",South Dakota,Aurora,15.9,5.9
+"Seminole, Oklahoma",Oklahoma,Seminole,23.9,11.5
+"Klamath, Oregon",Oregon,Klamath,17.8,8.1
+"Noble, Oklahoma",Oklahoma,Noble,18.9,8.8
+"Trumbull, Ohio",Ohio,Trumbull,25.1,11.5
+"Wood, Ohio",Ohio,Wood,18.1,7.5
+"Anderson, South Carolina",South Carolina,Anderson,20.1,8.9
+"Lycoming, Pennsylvania",Pennsylvania,Lycoming,21.1,8.3
+"Greenwood, South Carolina",South Carolina,Greenwood,19.1,8.7
+"Malheur, Oregon",Oregon,Malheur,19.0,7.3
+"Providence, Rhode Island",Rhode Island,Providence,16.4,7.0
+"Harper, Oklahoma",Oklahoma,Harper,18.0,8.9
+"Monroe, Ohio",Ohio,Monroe,25.3,12.5
+"Canadian, Oklahoma",Oklahoma,Canadian,17.7,6.6
+"Brule, South Dakota",South Dakota,Brule,17.6,6.7
+"Custer, Oklahoma",Oklahoma,Custer,17.8,7.8
+"Columbia, Pennsylvania",Pennsylvania,Columbia,20.0,8.2
+"Chester, South Carolina",South Carolina,Chester,22.1,10.1
+"Adams, Pennsylvania",Pennsylvania,Adams,19.1,7.9
+"Wagoner, Oklahoma",Oklahoma,Wagoner,18.9,8.1
+"Jefferson, Oklahoma",Oklahoma,Jefferson,22.1,11.7
+"Wyandot, Ohio",Ohio,Wyandot,23.1,10.3
+"Summit, Ohio",Ohio,Summit,20.5,8.9
+"Muskogee, Oklahoma",Oklahoma,Muskogee,22.4,10.3
+"Chesterfield, South Carolina",South Carolina,Chesterfield,23.0,10.5
+"Philadelphia, Pennsylvania",Pennsylvania,Philadelphia,20.2,6.8
+"Lake, Ohio",Ohio,Lake,19.5,8.7
+"Alfalfa, Oklahoma",Oklahoma,Alfalfa,19.0,8.5
+"Washington, Oklahoma",Oklahoma,Washington,17.6,8.7
+"Linn, Oregon",Oregon,Linn,16.9,7.4
+"Hampton, South Carolina",South Carolina,Hampton,23.6,10.3
+"Pike, Ohio",Ohio,Pike,26.1,13.2
+"Polk, Oregon",Oregon,Polk,15.2,6.0
+"Washington, Pennsylvania",Pennsylvania,Washington,18.1,7.7
+"Yamhill, Oregon",Oregon,Yamhill,16.3,6.2
+"Dorchester, South Carolina",South Carolina,Dorchester,18.1,6.7
+"Cherokee, Oklahoma",Oklahoma,Cherokee,22.3,9.8
+"Medina, Ohio",Ohio,Medina,17.6,7.9
+"Greene, Pennsylvania",Pennsylvania,Greene,22.8,8.8
+"Newport, Rhode Island",Rhode Island,Newport,12.0,7.0
+"York, South Carolina",South Carolina,York,15.6,6.5
+"Garfield, Oklahoma",Oklahoma,Garfield,18.5,8.0
+"Tillman, Oklahoma",Oklahoma,Tillman,19.5,9.7
+"Abbeville, South Carolina",South Carolina,Abbeville,21.2,10.1
+"Snyder, Pennsylvania",Pennsylvania,Snyder,20.9,8.4
+"Susquehanna, Pennsylvania",Pennsylvania,Susquehanna,20.7,9.6
+"Harmon, Oklahoma",Oklahoma,Harmon,17.6,8.7
+"Richland, South Carolina",South Carolina,Richland,16.2,5.7
+"Major, Oklahoma",Oklahoma,Major,17.8,8.9
+"Okfuskee, Oklahoma",Oklahoma,Okfuskee,26.5,12.4
+"Perry, Ohio",Ohio,Perry,26.8,11.5
+"Wallowa, Oregon",Oregon,Wallowa,15.7,8.3
+"Pickaway, Ohio",Ohio,Pickaway,23.5,9.6
+"Jackson, Oregon",Oregon,Jackson,16.9,7.3
+"Lexington, South Carolina",South Carolina,Lexington,17.3,7.2
+"Stark, Ohio",Ohio,Stark,21.6,9.7
+"Nowata, Oklahoma",Oklahoma,Nowata,22.9,10.9
+"Highland, Ohio",Ohio,Highland,27.2,12.3
+"Hood River, Oregon",Oregon,Hood River,15.1,5.6
+"Jefferson, Pennsylvania",Pennsylvania,Jefferson,23.0,10.0
+"Josephine, Oregon",Oregon,Josephine,18.8,9.2
+"Washington, Rhode Island",Rhode Island,Washington,14.4,6.9
+"Portage, Ohio",Ohio,Portage,20.0,8.4
+"Richland, Ohio",Ohio,Richland,24.0,10.5
+"Williams, Ohio",Ohio,Williams,22.8,9.9
+"Wheeler, Oregon",Oregon,Wheeler,17.3,10.5
+"Payne, Oklahoma",Oklahoma,Payne,16.8,7.0
+"Columbia, Oregon",Oregon,Columbia,18.8,7.5
+"Pickens, South Carolina",South Carolina,Pickens,17.6,7.6
+"Fayette, Pennsylvania",Pennsylvania,Fayette,22.9,10.0
+"Marshall, Oklahoma",Oklahoma,Marshall,20.7,10.7
+"Comanche, Oklahoma",Oklahoma,Comanche,19.1,7.4
+"Multnomah, Oregon",Oregon,Multnomah,15.6,4.9
+"Lee, South Carolina",South Carolina,Lee,22.9,10.0
+"Coal, Oklahoma",Oklahoma,Coal,23.8,12.4
+"Kiowa, Oklahoma",Oklahoma,Kiowa,21.3,10.9
+"Knox, Ohio",Ohio,Knox,20.2,9.7
+"Crawford, Pennsylvania",Pennsylvania,Crawford,22.3,9.3
+"Tioga, Pennsylvania",Pennsylvania,Tioga,21.9,9.3
+"Tulsa, Oklahoma",Oklahoma,Tulsa,17.3,7.3
+"Spartanburg, South Carolina",South Carolina,Spartanburg,19.6,7.7
+"Cherokee, South Carolina",South Carolina,Cherokee,23.0,9.8
+"Murray, Oklahoma",Oklahoma,Murray,20.3,10.1
+"Jefferson, Ohio",Ohio,Jefferson,24.4,11.3
+"Carbon, Pennsylvania",Pennsylvania,Carbon,20.7,8.8
+"Tillamook, Oregon",Oregon,Tillamook,16.3,8.0
+"Allendale, South Carolina",South Carolina,Allendale,24.4,10.6
+"Marlboro, South Carolina",South Carolina,Marlboro,25.6,11.0
+"Butler, Pennsylvania",Pennsylvania,Butler,16.2,6.8
+"Clatsop, Oregon",Oregon,Clatsop,16.7,7.4
+"Garvin, Oklahoma",Oklahoma,Garvin,22.1,9.8
+"Lane, Oregon",Oregon,Lane,14.8,6.8
+"Edgefield, South Carolina",South Carolina,Edgefield,20.4,8.8
+"Dauphin, Pennsylvania",Pennsylvania,Dauphin,18.4,7.0
+"Wayne, Ohio",Ohio,Wayne,21.6,9.8
+"Franklin, Pennsylvania",Pennsylvania,Franklin,19.8,8.1
+"Clackamas, Oregon",Oregon,Clackamas,13.5,5.3
+"Ottawa, Ohio",Ohio,Ottawa,19.9,10.3
+"Oconee, South Carolina",South Carolina,Oconee,18.9,9.4
+"Sherman, Oregon",Oregon,Sherman,17.1,8.1
+"Caddo, Oklahoma",Oklahoma,Caddo,22.8,9.9
+"Cambria, Pennsylvania",Pennsylvania,Cambria,20.0,9.1
+"Pushmataha, Oklahoma",Oklahoma,Pushmataha,23.2,12.7
+"Bamberg, South Carolina",South Carolina,Bamberg,20.5,9.6
+"Vinton, Ohio",Ohio,Vinton,27.6,13.2
+"Creek, Oklahoma",Oklahoma,Creek,21.9,9.6
+"Elk, Pennsylvania",Pennsylvania,Elk,21.1,9.0
+"Lawrence, Ohio",Ohio,Lawrence,26.1,12.1
+"Bristol, Rhode Island",Rhode Island,Bristol,13.4,6.9
+"Orangeburg, South Carolina",South Carolina,Orangeburg,19.2,9.3
+"Laurens, South Carolina",South Carolina,Laurens,22.3,9.7
+"Shelby, Ohio",Ohio,Shelby,21.8,9.4
+"Pawnee, Oklahoma",Oklahoma,Pawnee,21.8,10.4
+"Blaine, Oklahoma",Oklahoma,Blaine,20.8,10.1
+"Charleston, South Carolina",South Carolina,Charleston,15.5,6.1
+"Warren, Pennsylvania",Pennsylvania,Warren,20.8,9.3
+"Monroe, Pennsylvania",Pennsylvania,Monroe,18.8,6.9
+"Paulding, Ohio",Ohio,Paulding,22.2,9.9
+"Northampton, Pennsylvania",Pennsylvania,Northampton,17.2,6.5
+"Grady, Oklahoma",Oklahoma,Grady,20.3,8.7
+"Holmes, Ohio",Ohio,Holmes,27.8,11.6
+"Jefferson, Oregon",Oregon,Jefferson,17.9,7.5
+"Lincoln, Oklahoma",Oklahoma,Lincoln,21.2,10.0
+"Lackawanna, Pennsylvania",Pennsylvania,Lackawanna,19.9,7.9
+"Montgomery, Pennsylvania",Pennsylvania,Montgomery,14.4,5.4
+"Latimer, Oklahoma",Oklahoma,Latimer,21.8,11.3
+"Sandusky, Ohio",Ohio,Sandusky,20.8,9.6
+"Choctaw, Oklahoma",Oklahoma,Choctaw,24.8,12.8
+"Baker, Oregon",Oregon,Baker,16.2,8.3
+"Crook, Oregon",Oregon,Crook,17.7,8.4
+"Brown, South Dakota",South Dakota,Brown,16.0,5.6
+"Seneca, Ohio",Ohio,Seneca,21.9,9.6
+"Clearfield, Pennsylvania",Pennsylvania,Clearfield,22.7,9.5
+"McIntosh, Oklahoma",Oklahoma,McIntosh,22.8,12.9
+"Adair, Oklahoma",Oklahoma,Adair,29.2,13.3
+"Barnwell, South Carolina",South Carolina,Barnwell,23.1,10.8
+"Blair, Pennsylvania",Pennsylvania,Blair,21.9,8.9
+"Juniata, Pennsylvania",Pennsylvania,Juniata,22.8,9.6
+"Montour, Pennsylvania",Pennsylvania,Montour,19.3,8.0
+"Washington, Oregon",Oregon,Washington,12.4,4.4
+"Bryan, Oklahoma",Oklahoma,Bryan,21.4,9.8
+"Beadle, South Dakota",South Dakota,Beadle,18.2,6.8
+"Craig, Oklahoma",Oklahoma,Craig,22.9,11.4
+"Morrow, Ohio",Ohio,Morrow,24.0,10.7
+"McCurtain, Oklahoma",Oklahoma,McCurtain,23.8,11.7
+"Greer, Oklahoma",Oklahoma,Greer,21.8,9.5
+"Meigs, Ohio",Ohio,Meigs,26.9,13.1
+"Calhoun, South Carolina",South Carolina,Calhoun,18.6,9.1
+"Lancaster, South Carolina",South Carolina,Lancaster,17.5,8.0
+"Venango, Pennsylvania",Pennsylvania,Venango,21.5,9.7
+"Wyoming, Pennsylvania",Pennsylvania,Wyoming,20.2,8.5
+"Clarion, Pennsylvania",Pennsylvania,Clarion,21.3,9.0
+"Sullivan, Pennsylvania",Pennsylvania,Sullivan,21.1,10.2
+"Huron, Ohio",Ohio,Huron,23.3,10.5
+"Woodward, Oklahoma",Oklahoma,Woodward,19.2,7.8
+"Cumberland, Pennsylvania",Pennsylvania,Cumberland,16.7,6.5
+"Bon Homme, South Dakota",South Dakota,Bon Homme,19.1,6.9
+"Osage, Oklahoma",Oklahoma,Osage,21.6,10.2
+"Deschutes, Oregon",Oregon,Deschutes,14.9,6.1
+"Noble, Ohio",Ohio,Noble,23.9,13.3
+"Mahoning, Ohio",Ohio,Mahoning,22.1,10.1
+"Ottawa, Oklahoma",Oklahoma,Ottawa,23.1,11.1
+"Johnston, Oklahoma",Oklahoma,Johnston,22.7,11.0
+"Armstrong, Pennsylvania",Pennsylvania,Armstrong,22.3,9.6
+"Jasper, South Carolina",South Carolina,Jasper,20.9,9.3
+"Newberry, South Carolina",South Carolina,Newberry,20.2,9.1
+"Kershaw, South Carolina",South Carolina,Kershaw,19.6,8.4
+"Union, Pennsylvania",Pennsylvania,Union,19.1,7.1
+"Le Flore, Oklahoma",Oklahoma,Le Flore,23.6,11.3
+"Preble, Ohio",Ohio,Preble,22.3,10.0
+"Schuylkill, Pennsylvania",Pennsylvania,Schuylkill,22.7,8.9
+"Mayes, Oklahoma",Oklahoma,Mayes,23.7,11.0
+"Williamsburg, South Carolina",South Carolina,Williamsburg,23.2,10.4
+"Kent, Rhode Island",Rhode Island,Kent,16.1,8.0
+"Cotton, Oklahoma",Oklahoma,Cotton,21.6,10.8
+"Cleveland, Oklahoma",Oklahoma,Cleveland,16.0,6.4
+"Sumter, South Carolina",South Carolina,Sumter,19.5,8.3
+"Westmoreland, Pennsylvania",Pennsylvania,Westmoreland,19.0,8.0
+"Lancaster, Pennsylvania",Pennsylvania,Lancaster,19.2,7.2
+"Potter, Pennsylvania",Pennsylvania,Potter,22.5,10.5
+"Coos, Oregon",Oregon,Coos,18.8,9.1
+"Bedford, Pennsylvania",Pennsylvania,Bedford,22.1,9.9
+"Sequoyah, Oklahoma",Oklahoma,Sequoyah,25.6,12.2
+"Erie, Pennsylvania",Pennsylvania,Erie,20.4,8.1
+"Beckham, Oklahoma",Oklahoma,Beckham,20.2,8.4
+"Berks, Pennsylvania",Pennsylvania,Berks,18.7,7.0
+"Allegheny, Pennsylvania",Pennsylvania,Allegheny,17.4,6.5
+"York, Pennsylvania",Pennsylvania,York,18.8,7.4
+"Gilliam, Oregon",Oregon,Gilliam,17.1,9.0
+"Berkeley, South Carolina",South Carolina,Berkeley,19.0,6.8
+"Grant, Oklahoma",Oklahoma,Grant,17.2,8.6
+"Okmulgee, Oklahoma",Oklahoma,Okmulgee,22.5,10.9
+"Ross, Ohio",Ohio,Ross,26.4,11.2
+"Curry, Oregon",Oregon,Curry,16.1,9.0
+"Madison, Ohio",Ohio,Madison,22.9,9.3
+"Colleton, South Carolina",South Carolina,Colleton,23.6,10.3
+"Huntingdon, Pennsylvania",Pennsylvania,Huntingdon,21.7,8.7
+"Luzerne, Pennsylvania",Pennsylvania,Luzerne,20.9,7.9
+"Texas, Oklahoma",Oklahoma,Texas,17.6,6.9
+"Brookings, South Dakota",South Dakota,Brookings,12.7,4.1
+"Bennett, South Dakota",South Dakota,Bennett,29.0,10.0
+"Northumberland, Pennsylvania",Pennsylvania,Northumberland,22.6,9.3
+"Darlington, South Carolina",South Carolina,Darlington,21.8,9.6
+"Beaver, Oklahoma",Oklahoma,Beaver,17.6,8.5
+"Beaufort, South Carolina",South Carolina,Beaufort,14.1,7.0
+"Van Wert, Ohio",Ohio,Van Wert,22.2,10.1
+"Warren, Ohio",Ohio,Warren,16.8,7.0
+"Pottawatomie, Oklahoma",Oklahoma,Pottawatomie,21.4,9.8
+"Union, Oregon",Oregon,Union,16.3,7.6
+"Lorain, Ohio",Ohio,Lorain,20.7,9.2
+"Stephens, Oklahoma",Oklahoma,Stephens,20.8,9.9
+"Cimarron, Oklahoma",Oklahoma,Cimarron,16.9,9.5
+"Kay, Oklahoma",Oklahoma,Kay,20.6,9.7
+"Dillon, South Carolina",South Carolina,Dillon,25.3,11.6
+"Hughes, Oklahoma",Oklahoma,Hughes,24.3,11.3
+"Mercer, Ohio",Ohio,Mercer,20.6,9.4
+"Lucas, Ohio",Ohio,Lucas,22.9,9.7
+"Haskell, Oklahoma",Oklahoma,Haskell,23.0,11.4
+"Dewey, Oklahoma",Oklahoma,Dewey,19.3,9.4
+"Clarendon, South Carolina",South Carolina,Clarendon,20.9,10.7
+"Bucks, Pennsylvania",Pennsylvania,Bucks,16.1,6.1
+"Kingfisher, Oklahoma",Oklahoma,Kingfisher,19.0,8.3
+"Carter, Oklahoma",Oklahoma,Carter,20.2,9.1
+"Cameron, Pennsylvania",Pennsylvania,Cameron,22.1,11.0
+"Tuscarawas, Ohio",Ohio,Tuscarawas,22.4,10.9
+"Aiken, South Carolina",South Carolina,Aiken,17.5,8.2
+"Lehigh, Pennsylvania",Pennsylvania,Lehigh,17.3,6.3
+"Marion, South Carolina",South Carolina,Marion,23.6,10.7
+"Lincoln, Oregon",Oregon,Lincoln,17.0,8.6
+"Grant, Oregon",Oregon,Grant,17.9,9.9
+"Campbell, South Dakota",South Dakota,Campbell,14.4,6.8
+"Licking, Ohio",Ohio,Licking,21.1,8.9
+"Somerset, Pennsylvania",Pennsylvania,Somerset,21.9,9.5
+"Chester, Pennsylvania",Pennsylvania,Chester,13.3,5.3
+"McKean, Pennsylvania",Pennsylvania,McKean,22.5,9.1
+"Jackson, Oklahoma",Oklahoma,Jackson,17.0,7.3
+"Florence, South Carolina",South Carolina,Florence,19.8,8.5
+"Fairfield, South Carolina",South Carolina,Fairfield,21.0,10.2
+"Roger Mills, Oklahoma",Oklahoma,Roger Mills,19.7,10.2
+"Morgan, Ohio",Ohio,Morgan,27.0,13.4
+"Love, Oklahoma",Oklahoma,Love,20.8,9.8
+"Lake, Oregon",Oregon,Lake,18.9,9.6
+"Lebanon, Pennsylvania",Pennsylvania,Lebanon,20.5,7.8
+"Putnam, Ohio",Ohio,Putnam,18.5,8.5
+"Douglas, Oregon",Oregon,Douglas,18.2,8.9
+"Bradford, Pennsylvania",Pennsylvania,Bradford,21.6,9.4
+"Atoka, Oklahoma",Oklahoma,Atoka,23.7,11.7
+"Buffalo, South Dakota",South Dakota,Buffalo,36.1,10.8
+"Beaver, Pennsylvania",Pennsylvania,Beaver,20.3,8.4
+"Jackson, Ohio",Ohio,Jackson,25.6,12.3
+"Forest, Pennsylvania",Pennsylvania,Forest,24.9,9.6
+"Montgomery, Ohio",Ohio,Montgomery,20.8,9.6
+"Fulton, Pennsylvania",Pennsylvania,Fulton,22.5,9.4
+"Union, South Carolina",South Carolina,Union,22.8,10.8
+"Union, Ohio",Ohio,Union,19.4,7.3
+"Washita, Oklahoma",Oklahoma,Washita,18.4,8.9
+"Marion, Ohio",Ohio,Marion,26.9,11.1
+"Logan, Oklahoma",Oklahoma,Logan,17.7,8.0
+"Mercer, Pennsylvania",Pennsylvania,Mercer,20.2,8.9
+"Woods, Oklahoma",Oklahoma,Woods,16.6,7.3
+"Harney, Oregon",Oregon,Harney,17.4,8.3
+"Butte, South Dakota",South Dakota,Butte,19.8,7.6
+"Umatilla, Oregon",Oregon,Umatilla,17.7,6.9
+"McClain, Oklahoma",Oklahoma,McClain,18.4,7.7
+"Rogers, Oklahoma",Oklahoma,Rogers,18.8,8.2
+"Wasco, Oregon",Oregon,Wasco,16.8,7.1
+"Pike, Pennsylvania",Pennsylvania,Pike,17.2,7.5
+"Muskingum, Ohio",Ohio,Muskingum,24.9,11.0
+"Centre, Pennsylvania",Pennsylvania,Centre,17.1,6.0
+"Jones, Texas",Texas,Jones,20.2,7.3
+"Kent, Texas",Texas,Kent,15.0,7.9
+"Chester, Tennessee",Tennessee,Chester,22.2,10.2
+"Hansford, Texas",Texas,Hansford,19.3,8.1
+"Concho, Texas",Texas,Concho,18.5,9.1
+"El Paso, Texas",Texas,El Paso,13.4,4.9
+"Jefferson, Tennessee",Tennessee,Jefferson,22.1,11.1
+"Lampasas, Texas",Texas,Lampasas,17.2,7.6
+"Angelina, Texas",Texas,Angelina,19.3,8.5
+"Dallas, Texas",Texas,Dallas,15.5,5.5
+"Archer, Texas",Texas,Archer,17.9,8.2
+"Dewey, South Dakota",South Dakota,Dewey,32.0,9.5
+"Fall River, South Dakota",South Dakota,Fall River,17.3,8.2
+"Potter, South Dakota",South Dakota,Potter,15.3,6.8
+"Knox, Tennessee",Tennessee,Knox,17.9,7.9
+"Campbell, Tennessee",Tennessee,Campbell,27.2,13.8
+"Shelby, Tennessee",Tennessee,Shelby,19.6,8.3
+"Brown, Texas",Texas,Brown,17.4,7.8
+"Eastland, Texas",Texas,Eastland,19.3,9.5
+"Warren, Tennessee",Tennessee,Warren,25.5,11.9
+"Hyde, South Dakota",South Dakota,Hyde,15.5,6.4
+"Jackson, Tennessee",Tennessee,Jackson,26.5,13.8
+"Moore, Tennessee",Tennessee,Moore,21.3,10.7
+"Hartley, Texas",Texas,Hartley,17.0,5.8
+"Anderson, Tennessee",Tennessee,Anderson,22.0,10.5
+"Loudon, Tennessee",Tennessee,Loudon,19.3,10.3
+"Gonzales, Texas",Texas,Gonzales,17.9,7.3
+"Foard, Texas",Texas,Foard,17.7,9.7
+"Carter, Tennessee",Tennessee,Carter,25.6,13.1
+"Van Buren, Tennessee",Tennessee,Van Buren,27.0,14.4
+"Haskell, Texas",Texas,Haskell,21.9,10.3
+"Dawson, Texas",Texas,Dawson,20.0,7.6
+"Hopkins, Texas",Texas,Hopkins,19.0,8.3
+"Perry, Tennessee",Tennessee,Perry,26.9,14.1
+"Kinney, Texas",Texas,Kinney,17.4,8.0
+"Burnet, Texas",Texas,Burnet,15.8,7.6
+"Lawrence, South Dakota",South Dakota,Lawrence,15.7,6.1
+"Charles Mix, South Dakota",South Dakota,Charles Mix,21.9,8.4
+"Clay, Texas",Texas,Clay,18.1,8.6
+"Marshall, South Dakota",South Dakota,Marshall,15.9,6.0
+"Lawrence, Tennessee",Tennessee,Lawrence,25.1,11.9
+"Johnson, Tennessee",Tennessee,Johnson,27.7,14.3
+"Jackson, South Dakota",South Dakota,Jackson,29.1,10.7
+"Hays, Texas",Texas,Hays,12.8,4.7
+"Cumberland, Tennessee",Tennessee,Cumberland,21.6,13.0
+"Ziebach, South Dakota",South Dakota,Ziebach,32.8,10.4
+"Caldwell, Texas",Texas,Caldwell,17.6,6.7
+"Edmunds, South Dakota",South Dakota,Edmunds,16.1,6.3
+"Roberts, South Dakota",South Dakota,Roberts,22.7,8.8
+"Perkins, South Dakota",South Dakota,Perkins,16.4,7.4
+"Sevier, Tennessee",Tennessee,Sevier,23.7,10.9
+"Hickman, Tennessee",Tennessee,Hickman,25.6,11.9
+"La Salle, Texas",Texas,La Salle,15.9,4.9
+"Haywood, Tennessee",Tennessee,Haywood,25.5,11.7
+"Delta, Texas",Texas,Delta,18.8,8.9
+"Comal, Texas",Texas,Comal,14.0,5.8
+"Henderson, Texas",Texas,Henderson,20.5,9.9
+"Hutchinson, South Dakota",South Dakota,Hutchinson,16.2,6.8
+"Coffee, Tennessee",Tennessee,Coffee,22.9,10.4
+"Henderson, Tennessee",Tennessee,Henderson,26.3,11.9
+"Hughes, South Dakota",South Dakota,Hughes,16.6,5.8
+"Bell, Texas",Texas,Bell,16.9,5.5
+"Wayne, Tennessee",Tennessee,Wayne,25.8,12.1
+"Bradley, Tennessee",Tennessee,Bradley,21.2,9.9
+"Hidalgo, Texas",Texas,Hidalgo,15.4,5.9
+"Deaf Smith, Texas",Texas,Deaf Smith,16.8,5.9
+"Burleson, Texas",Texas,Burleson,18.3,8.1
+"Kenedy, Texas",Texas,Kenedy,23.5,10.1
+"Fentress, Tennessee",Tennessee,Fentress,25.4,13.9
+"Knox, Texas",Texas,Knox,18.4,8.6
+"Macon, Tennessee",Tennessee,Macon,25.6,11.8
+"Grimes, Texas",Texas,Grimes,20.8,8.6
+"Briscoe, Texas",Texas,Briscoe,18.5,9.5
+"Lamb, Texas",Texas,Lamb,18.4,7.9
+"Harding, South Dakota",South Dakota,Harding,16.6,5.9
+"Crockett, Texas",Texas,Crockett,14.9,6.0
+"Roane, Tennessee",Tennessee,Roane,22.2,11.1
+"Todd, South Dakota",South Dakota,Todd,38.4,11.6
+"DeWitt, Texas",Texas,DeWitt,18.6,8.1
+"Washington, Tennessee",Tennessee,Washington,19.8,9.4
+"Bee, Texas",Texas,Bee,18.5,6.0
+"Lauderdale, Tennessee",Tennessee,Lauderdale,28.3,12.4
+"Sully, South Dakota",South Dakota,Sully,15.6,6.8
+"Borden, Texas",Texas,Borden,11.9,6.1
+"Bledsoe, Tennessee",Tennessee,Bledsoe,26.9,12.6
+"Hemphill, Texas",Texas,Hemphill,16.1,6.4
+"Gregory, South Dakota",South Dakota,Gregory,18.6,8.2
+"Robertson, Tennessee",Tennessee,Robertson,21.5,9.2
+"Gibson, Tennessee",Tennessee,Gibson,23.4,10.9
+"Brewster, Texas",Texas,Brewster,13.3,6.2
+"Tipton, Tennessee",Tennessee,Tipton,22.4,9.4
+"Hockley, Texas",Texas,Hockley,17.4,6.7
+"Greene, Tennessee",Tennessee,Greene,22.8,12.2
+"Hawkins, Tennessee",Tennessee,Hawkins,24.7,12.6
+"Houston, Tennessee",Tennessee,Houston,25.5,12.8
+"Clark, South Dakota",South Dakota,Clark,17.6,7.2
+"Kimble, Texas",Texas,Kimble,17.5,10.0
+"Moody, South Dakota",South Dakota,Moody,17.9,6.6
+"Chambers, Texas",Texas,Chambers,17.1,5.9
+"Austin, Texas",Texas,Austin,16.0,7.2
+"Duval, Texas",Texas,Duval,16.3,6.6
+"McMinn, Tennessee",Tennessee,McMinn,25.4,11.8
+"Yankton, South Dakota",South Dakota,Yankton,16.9,6.1
+"Jones, South Dakota",South Dakota,Jones,16.0,6.5
+"Rutherford, Tennessee",Tennessee,Rutherford,19.3,6.6
+"Dickens, Texas",Texas,Dickens,18.4,8.6
+"Scott, Tennessee",Tennessee,Scott,28.4,13.1
+"Deuel, South Dakota",South Dakota,Deuel,17.8,6.3
+"Lewis, Tennessee",Tennessee,Lewis,24.4,12.8
+"Hood, Texas",Texas,Hood,16.2,8.1
+"Camp, Texas",Texas,Camp,17.7,7.8
+"Erath, Texas",Texas,Erath,16.3,6.4
+"Sequatchie, Tennessee",Tennessee,Sequatchie,24.0,12.2
+"Union, Tennessee",Tennessee,Union,27.0,13.2
+"King, Texas",Texas,King,20.1,9.4
+"Hardin, Tennessee",Tennessee,Hardin,24.9,13.0
+"Turner, South Dakota",South Dakota,Turner,16.5,6.5
+"Jackson, Texas",Texas,Jackson,17.1,7.0
+"Fort Bend, Texas",Texas,Fort Bend,12.0,4.3
+"Garza, Texas",Texas,Garza,19.6,6.2
+"Howard, Texas",Texas,Howard,18.9,6.5
+"Harrison, Texas",Texas,Harrison,20.1,8.4
+"Hanson, South Dakota",South Dakota,Hanson,17.4,5.8
+"McNairy, Tennessee",Tennessee,McNairy,26.3,13.1
+"Douglas, South Dakota",South Dakota,Douglas,16.2,6.9
+"Lincoln, South Dakota",South Dakota,Lincoln,15.5,4.3
+"Cochran, Texas",Texas,Cochran,20.3,8.5
+"Donley, Texas",Texas,Donley,17.5,8.9
+"Colorado, Texas",Texas,Colorado,16.9,7.7
+"Hill, Texas",Texas,Hill,18.2,8.4
+"Trousdale, Tennessee",Tennessee,Trousdale,24.1,8.3
+"Castro, Texas",Texas,Castro,15.6,6.2
+"Kerr, Texas",Texas,Kerr,15.0,7.9
+"Davidson, Tennessee",Tennessee,Davidson,17.3,6.7
+"Karnes, Texas",Texas,Karnes,17.5,5.9
+"Walworth, South Dakota",South Dakota,Walworth,17.2,6.7
+"Bosque, Texas",Texas,Bosque,18.0,9.2
+"Haakon, South Dakota",South Dakota,Haakon,18.6,8.3
+"Stanley, South Dakota",South Dakota,Stanley,14.5,5.3
+"Brazos, Texas",Texas,Brazos,15.3,4.9
+"Franklin, Tennessee",Tennessee,Franklin,21.3,10.1
+"Smith, Tennessee",Tennessee,Smith,24.6,11.4
+"Bexar, Texas",Texas,Bexar,14.4,4.9
+"Union, South Dakota",South Dakota,Union,15.2,5.5
+"Hardin, Texas",Texas,Hardin,20.1,8.3
+"Crosby, Texas",Texas,Crosby,18.3,8.1
+"Fayette, Tennessee",Tennessee,Fayette,20.3,10.0
+"Sullivan, Tennessee",Tennessee,Sullivan,21.7,11.4
+"Lamar, Texas",Texas,Lamar,21.0,9.4
+"Ector, Texas",Texas,Ector,16.5,5.0
+"Sumner, Tennessee",Tennessee,Sumner,19.3,8.3
+"Tripp, South Dakota",South Dakota,Tripp,19.3,8.1
+"Hardeman, Texas",Texas,Hardeman,19.3,9.1
+"Collingsworth, Texas",Texas,Collingsworth,19.1,8.4
+"Dickson, Tennessee",Tennessee,Dickson,23.1,10.3
+"Irion, Texas",Texas,Irion,16.4,7.3
+"Davison, South Dakota",South Dakota,Davison,16.8,6.2
+"Jasper, Texas",Texas,Jasper,22.1,10.1
+"Claiborne, Tennessee",Tennessee,Claiborne,25.7,12.5
+"Brazoria, Texas",Texas,Brazoria,15.9,5.0
+"Giles, Tennessee",Tennessee,Giles,22.2,11.1
+"Weakley, Tennessee",Tennessee,Weakley,22.0,10.9
+"Coke, Texas",Texas,Coke,17.3,9.0
+"Oglala Lakota, South Dakota",South Dakota,Oglala Lakota,38.8,11.3
+"Galveston, Texas",Texas,Galveston,17.1,6.1
+"Monroe, Tennessee",Tennessee,Monroe,25.5,12.8
+"Kaufman, Texas",Texas,Kaufman,18.0,6.3
+"Stewart, Tennessee",Tennessee,Stewart,22.1,10.8
+"Fannin, Texas",Texas,Fannin,19.7,8.3
+"Grayson, Texas",Texas,Grayson,18.4,7.8
+"Pickett, Tennessee",Tennessee,Pickett,25.2,14.9
+"Jim Wells, Texas",Texas,Jim Wells,16.4,6.2
+"Callahan, Texas",Texas,Callahan,18.3,8.6
+"Maury, Tennessee",Tennessee,Maury,20.8,8.7
+"Jack, Texas",Texas,Jack,21.7,8.6
+"Jerauld, South Dakota",South Dakota,Jerauld,15.3,6.4
+"Lake, South Dakota",South Dakota,Lake,15.7,6.3
+"Falls, Texas",Texas,Falls,21.6,9.2
+"Bastrop, Texas",Texas,Bastrop,16.8,6.6
+"Lavaca, Texas",Texas,Lavaca,17.7,8.3
+"Goliad, Texas",Texas,Goliad,15.6,7.6
+"Spink, South Dakota",South Dakota,Spink,16.8,6.5
+"Unicoi, Tennessee",Tennessee,Unicoi,23.7,12.5
+"Hand, South Dakota",South Dakota,Hand,14.9,6.4
+"Overton, Tennessee",Tennessee,Overton,25.3,13.0
+"Dimmit, Texas",Texas,Dimmit,18.7,8.0
+"Wilson, Tennessee",Tennessee,Wilson,18.4,7.7
+"Jefferson, Texas",Texas,Jefferson,18.8,7.2
+"Grundy, Tennessee",Tennessee,Grundy,26.0,14.0
+"Sanborn, South Dakota",South Dakota,Sanborn,17.3,6.2
+"Glasscock, Texas",Texas,Glasscock,18.0,7.1
+"Grainger, Tennessee",Tennessee,Grainger,25.5,12.8
+"Bandera, Texas",Texas,Bandera,16.2,8.7
+"Lee, Texas",Texas,Lee,18.4,7.9
+"Obion, Tennessee",Tennessee,Obion,25.2,12.5
+"Johnson, Texas",Texas,Johnson,18.6,7.0
+"Day, South Dakota",South Dakota,Day,19.1,8.0
+"Guadalupe, Texas",Texas,Guadalupe,14.6,5.2
+"Henry, Tennessee",Tennessee,Henry,25.0,12.8
+"Hardeman, Tennessee",Tennessee,Hardeman,26.7,12.2
+"Cherokee, Texas",Texas,Cherokee,20.0,8.7
+"Meigs, Tennessee",Tennessee,Meigs,24.8,12.2
+"Hutchinson, Texas",Texas,Hutchinson,19.0,7.8
+"Calhoun, Texas",Texas,Calhoun,17.2,7.0
+"Crockett, Tennessee",Tennessee,Crockett,23.9,11.5
+"McPherson, South Dakota",South Dakota,McPherson,17.3,8.4
+"Hamilton, Texas",Texas,Hamilton,18.9,9.8
+"White, Tennessee",Tennessee,White,25.2,12.7
+"Baylor, Texas",Texas,Baylor,17.0,8.4
+"Bailey, Texas",Texas,Bailey,15.2,5.5
+"Floyd, Texas",Texas,Floyd,16.2,6.9
+"Benton, Tennessee",Tennessee,Benton,25.8,13.9
+"Kingsbury, South Dakota",South Dakota,Kingsbury,16.0,6.5
+"Clay, South Dakota",South Dakota,Clay,14.6,4.3
+"Mellette, South Dakota",South Dakota,Mellette,31.5,12.1
+"Custer, South Dakota",South Dakota,Custer,16.1,7.6
+"Montgomery, Tennessee",Tennessee,Montgomery,19.8,6.7
+"Jeff Davis, Texas",Texas,Jeff Davis,14.7,8.4
+"Dyer, Tennessee",Tennessee,Dyer,23.5,11.1
+"Corson, South Dakota",South Dakota,Corson,32.8,11.0
+"Coleman, Texas",Texas,Coleman,17.9,9.2
+"Gregg, Texas",Texas,Gregg,19.1,8.0
+"Bedford, Tennessee",Tennessee,Bedford,24.3,10.0
+"Harris, Texas",Texas,Harris,15.8,5.2
+"Hamblen, Tennessee",Tennessee,Hamblen,23.5,11.2
+"Atascosa, Texas",Texas,Atascosa,16.1,6.0
+"Blount, Tennessee",Tennessee,Blount,21.5,9.9
+"Madison, Tennessee",Tennessee,Madison,20.3,9.5
+"Carson, Texas",Texas,Carson,16.0,7.3
+"Rhea, Tennessee",Tennessee,Rhea,23.9,11.8
+"Collin, Texas",Texas,Collin,12.7,4.4
+"Minnehaha, South Dakota",South Dakota,Minnehaha,15.8,5.0
+"Fisher, Texas",Texas,Fisher,16.4,8.1
+"Gaines, Texas",Texas,Gaines,20.0,6.6
+"Kleberg, Texas",Texas,Kleberg,14.3,5.1
+"Houston, Texas",Texas,Houston,22.8,10.7
+"Dallam, Texas",Texas,Dallam,17.9,6.2
+"Gillespie, Texas",Texas,Gillespie,14.0,7.7
+"Williamson, Tennessee",Tennessee,Williamson,13.3,5.7
+"Comanche, Texas",Texas,Comanche,16.1,7.8
+"Marshall, Tennessee",Tennessee,Marshall,23.4,10.3
+"Hall, Texas",Texas,Hall,19.5,10.3
+"Anderson, Texas",Texas,Anderson,21.9,7.9
+"Hancock, Tennessee",Tennessee,Hancock,28.1,15.3
+"Freestone, Texas",Texas,Freestone,20.2,9.1
+"Hamlin, South Dakota",South Dakota,Hamlin,16.8,5.6
+"Hale, Texas",Texas,Hale,16.8,5.9
+"Decatur, Tennessee",Tennessee,Decatur,23.9,13.1
+"Jim Hogg, Texas",Texas,Jim Hogg,17.0,6.9
+"Bowie, Texas",Texas,Bowie,20.2,8.2
+"Miner, South Dakota",South Dakota,Miner,16.8,6.7
+"Humphreys, Tennessee",Tennessee,Humphreys,23.9,11.5
+"Clay, Tennessee",Tennessee,Clay,26.0,15.3
+"DeKalb, Tennessee",Tennessee,DeKalb,24.1,11.5
+"Gray, Texas",Texas,Gray,20.1,8.2
+"Cooke, Texas",Texas,Cooke,17.6,7.7
+"Childress, Texas",Texas,Childress,18.7,6.6
+"Andrews, Texas",Texas,Andrews,17.4,5.4
+"Lincoln, Tennessee",Tennessee,Lincoln,22.9,11.3
+"Meade, South Dakota",South Dakota,Meade,15.7,5.4
+"Ellis, Texas",Texas,Ellis,16.6,5.9
+"Polk, Tennessee",Tennessee,Polk,23.6,12.4
+"Denton, Texas",Texas,Denton,13.6,4.5
+"Crane, Texas",Texas,Crane,15.4,5.3
+"Marion, Tennessee",Tennessee,Marion,25.0,11.9
+"Fayette, Texas",Texas,Fayette,16.6,8.7
+"Carroll, Tennessee",Tennessee,Carroll,22.9,11.6
+"Morgan, Tennessee",Tennessee,Morgan,27.6,13.1
+"Cannon, Tennessee",Tennessee,Cannon,23.6,11.1
+"Cass, Texas",Texas,Cass,21.2,10.6
+"Culberson, Texas",Texas,Culberson,18.9,9.0
+"Franklin, Texas",Texas,Franklin,15.6,7.3
+"Aransas, Texas",Texas,Aransas,19.0,10.0
+"Hamilton, Tennessee",Tennessee,Hamilton,18.7,8.2
+"Cottle, Texas",Texas,Cottle,21.0,11.2
+"Pennington, South Dakota",South Dakota,Pennington,18.1,6.1
+"Cocke, Tennessee",Tennessee,Cocke,26.4,14.0
+"Coryell, Texas",Texas,Coryell,19.5,6.0
+"Hunt, Texas",Texas,Hunt,19.4,7.9
+"Armstrong, Texas",Texas,Armstrong,16.4,8.2
+"Faulk, South Dakota",South Dakota,Faulk,15.6,6.8
+"Lyman, South Dakota",South Dakota,Lyman,23.0,8.1
+"Lake, Tennessee",Tennessee,Lake,30.5,12.7
+"Brooks, Texas",Texas,Brooks,17.7,7.9
+"McCook, South Dakota",South Dakota,McCook,16.8,6.2
+"Hudspeth, Texas",Texas,Hudspeth,20.8,7.6
+"Putnam, Tennessee",Tennessee,Putnam,21.6,9.6
+"Cameron, Texas",Texas,Cameron,15.7,6.5
+"Frio, Texas",Texas,Frio,18.2,5.7
+"Kendall, Texas",Texas,Kendall,13.2,5.7
+"Blanco, Texas",Texas,Blanco,15.5,7.8
+"Codington, South Dakota",South Dakota,Codington,17.7,6.4
+"Edwards, Texas",Texas,Edwards,16.5,8.9
+"Grant, South Dakota",South Dakota,Grant,16.5,6.4
+"Cheatham, Tennessee",Tennessee,Cheatham,21.9,9.3
+"Taylor, Texas",Texas,Taylor,16.0,6.3
+"Roanoke, Virginia",Virginia,Roanoke,14.7,7.4
+"Hampton, Virginia",Virginia,Hampton,18.4,7.0
+"Accomack, Virginia",Virginia,Accomack,20.1,10.7
+"Spotsylvania, Virginia",Virginia,Spotsylvania,15.8,6.4
+"Leon, Texas",Texas,Leon,20.3,10.6
+"Panola, Texas",Texas,Panola,20.5,9.3
+"Midland, Texas",Texas,Midland,14.6,4.6
+"Red River, Texas",Texas,Red River,21.4,11.1
+"Tarrant, Texas",Texas,Tarrant,15.1,5.6
+"Wheeler, Texas",Texas,Wheeler,19.3,8.9
+"Isle of Wight, Virginia",Virginia,Isle of Wight,17.8,8.1
+"Alexandria, Virginia",Virginia,Alexandria,12.5,4.2
+"Windsor, Vermont",Vermont,Windsor,15.0,7.7
+"Davis, Utah",Utah,Davis,8.1,4.1
+"Limestone, Texas",Texas,Limestone,20.7,9.2
+"Harrisonburg, Virginia",Virginia,Harrisonburg,16.7,5.9
+"Nottoway, Virginia",Virginia,Nottoway,21.9,9.9
+"Zapata, Texas",Texas,Zapata,18.3,6.9
+"Roberts, Texas",Texas,Roberts,16.8,7.9
+"Fredericksburg, Virginia",Virginia,Fredericksburg,15.7,5.7
+"Swisher, Texas",Texas,Swisher,19.5,8.2
+"Washington, Vermont",Vermont,Washington,14.9,7.1
+"Frederick, Virginia",Virginia,Frederick,16.2,7.1
+"Milam, Texas",Texas,Milam,18.9,8.8
+"Potter, Texas",Texas,Potter,20.3,7.4
+"Uintah, Utah",Utah,Uintah,14.0,6.4
+"Trinity, Texas",Texas,Trinity,21.3,11.1
+"Arlington, Virginia",Virginia,Arlington,9.2,3.3
+"Northumberland, Virginia",Virginia,Northumberland,15.0,10.1
+"Winchester, Virginia",Virginia,Winchester,17.0,7.3
+"Goochland, Virginia",Virginia,Goochland,14.5,7.2
+"Parmer, Texas",Texas,Parmer,17.0,6.5
+"Rockbridge, Virginia",Virginia,Rockbridge,18.3,10.1
+"Buchanan, Virginia",Virginia,Buchanan,26.8,14.5
+"Alleghany, Virginia",Virginia,Alleghany,20.7,11.2
+"Salt Lake, Utah",Utah,Salt Lake,9.5,4.4
+"Newton, Texas",Texas,Newton,23.9,11.1
+"Amelia, Virginia",Virginia,Amelia,19.5,9.2
+"Upton, Texas",Texas,Upton,17.1,6.4
+"Washington, Texas",Texas,Washington,16.3,7.8
+"Orleans, Vermont",Vermont,Orleans,19.5,9.2
+"Fluvanna, Virginia",Virginia,Fluvanna,15.5,7.0
+"Henry, Virginia",Virginia,Henry,21.1,11.5
+"Amherst, Virginia",Virginia,Amherst,19.0,9.5
+"Salem, Virginia",Virginia,Salem,16.7,7.6
+"Wise, Texas",Texas,Wise,18.3,7.4
+"Navarro, Texas",Texas,Navarro,19.8,8.3
+"Shackelford, Texas",Texas,Shackelford,17.3,8.4
+"Appomattox, Virginia",Virginia,Appomattox,19.1,9.2
+"Franklin, Virginia",Virginia,Franklin,19.2,10.0
+"Lexington, Virginia",Virginia,Lexington,15.0,6.2
+"Lancaster, Virginia",Virginia,Lancaster,14.9,10.1
+"Rich, Utah",Utah,Rich,10.7,6.2
+"Polk, Texas",Texas,Polk,22.5,9.3
+"Wayne, Utah",Utah,Wayne,10.8,7.0
+"Albemarle, Virginia",Virginia,Albemarle,13.3,6.0
+"Robertson, Texas",Texas,Robertson,18.5,8.1
+"Piute, Utah",Utah,Piute,11.4,8.3
+"Williamsburg, Virginia",Virginia,Williamsburg,12.7,5.7
+"Charlottesville, Virginia",Virginia,Charlottesville,16.2,5.9
+"Daggett, Utah",Utah,Daggett,10.3,6.6
+"Real, Texas",Texas,Real,19.0,11.1
+"Roanoke City, Virginia",Virginia,Roanoke City,22.0,9.0
+"Wood, Texas",Texas,Wood,18.1,9.7
+"Maverick, Texas",Texas,Maverick,17.6,6.3
+"Runnels, Texas",Texas,Runnels,17.5,8.0
+"Lynn, Texas",Texas,Lynn,18.8,8.1
+"Uvalde, Texas",Texas,Uvalde,15.7,6.3
+"Emporia, Virginia",Virginia,Emporia,23.4,11.9
+"McMullen, Texas",Texas,McMullen,12.4,6.0
+"Southampton, Virginia",Virginia,Southampton,19.2,9.2
+"Prince George, Virginia",Virginia,Prince George,18.8,6.6
+"Newport News, Virginia",Virginia,Newport News,18.2,6.7
+"Bedford, Virginia",Virginia,Bedford,16.6,8.4
+"Liberty, Texas",Texas,Liberty,21.8,7.9
+"Radford, Virginia",Virginia,Radford,18.0,6.7
+"Franklin, Vermont",Vermont,Franklin,17.3,7.6
+"Schleicher, Texas",Texas,Schleicher,14.8,6.1
+"Highland, Virginia",Virginia,Highland,17.0,11.1
+"Patrick, Virginia",Virginia,Patrick,20.2,11.3
+"Loudoun, Virginia",Virginia,Loudoun,10.3,3.9
+"Pittsylvania, Virginia",Virginia,Pittsylvania,21.0,10.6
+"Greensville, Virginia",Virginia,Greensville,23.6,8.8
+"Willacy, Texas",Texas,Willacy,19.0,7.0
+"Travis, Texas",Texas,Travis,12.6,4.0
+"Martinsville, Virginia",Virginia,Martinsville,20.8,9.9
+"Rockingham, Virginia",Virginia,Rockingham,17.2,8.3
+"Stafford, Virginia",Virginia,Stafford,13.7,5.0
+"Moore, Texas",Texas,Moore,17.4,5.9
+"Starr, Texas",Texas,Starr,20.3,7.4
+"Nolan, Texas",Texas,Nolan,17.8,7.7
+"Grand Isle, Vermont",Vermont,Grand Isle,15.4,7.0
+"Reagan, Texas",Texas,Reagan,15.6,5.0
+"Poquoson, Virginia",Virginia,Poquoson,14.5,6.7
+"Walker, Texas",Texas,Walker,18.6,6.7
+"San Patricio, Texas",Texas,San Patricio,16.4,6.2
+"Williamson, Texas",Texas,Williamson,12.1,4.5
+"Throckmorton, Texas",Texas,Throckmorton,17.3,9.7
+"Smyth, Virginia",Virginia,Smyth,22.3,11.2
+"Somervell, Texas",Texas,Somervell,18.2,8.1
+"Nacogdoches, Texas",Texas,Nacogdoches,18.5,7.6
+"Terry, Texas",Texas,Terry,19.5,7.6
+"Staunton, Virginia",Virginia,Staunton,16.9,8.0
+"Oldham, Texas",Texas,Oldham,17.9,7.1
+"Yoakum, Texas",Texas,Yoakum,17.4,6.0
+"Grayson, Virginia",Virginia,Grayson,22.1,12.0
+"Warren, Virginia",Virginia,Warren,19.0,8.1
+"Carbon, Utah",Utah,Carbon,12.2,6.5
+"Richmond City, Virginia",Virginia,Richmond City,17.8,7.1
+"Lubbock, Texas",Texas,Lubbock,15.1,5.6
+"Refugio, Texas",Texas,Refugio,16.1,7.4
+"Pecos, Texas",Texas,Pecos,17.2,5.8
+"Stonewall, Texas",Texas,Stonewall,18.0,9.8
+"Tom Green, Texas",Texas,Tom Green,15.9,5.8
+"Reeves, Texas",Texas,Reeves,17.1,5.0
+"Washington, Virginia",Virginia,Washington,18.9,10.2
+"Cache, Utah",Utah,Cache,9.1,4.3
+"Virginia Beach, Virginia",Virginia,Virginia Beach,15.5,5.8
+"Petersburg, Virginia",Virginia,Petersburg,21.4,9.2
+"Cumberland, Virginia",Virginia,Cumberland,20.2,10.0
+"Wasatch, Utah",Utah,Wasatch,8.2,4.3
+"Mecklenburg, Virginia",Virginia,Mecklenburg,20.0,10.8
+"Orange, Vermont",Vermont,Orange,16.1,8.0
+"Shenandoah, Virginia",Virginia,Shenandoah,17.9,9.2
+"Culpeper, Virginia",Virginia,Culpeper,17.1,7.3
+"San Jacinto, Texas",Texas,San Jacinto,20.6,10.3
+"Richmond, Virginia",Virginia,Richmond,20.6,9.5
+"Prince William, Virginia",Virginia,Prince William,13.7,4.8
+"Brunswick, Virginia",Virginia,Brunswick,21.8,10.0
+"Emery, Utah",Utah,Emery,11.7,6.8
+"Tazewell, Virginia",Virginia,Tazewell,21.8,11.3
+"Manassas Park, Virginia",Virginia,Manassas Park,15.2,4.6
+"Loving, Texas",Texas,Loving,20.2,6.9
+"Dinwiddie, Virginia",Virginia,Dinwiddie,20.8,8.7
+"James City, Virginia",Virginia,James City,12.0,6.5
+"San Saba, Texas",Texas,San Saba,18.6,8.7
+"Sutton, Texas",Texas,Sutton,14.9,6.1
+"Lamoille, Vermont",Vermont,Lamoille,16.2,7.1
+"Motley, Texas",Texas,Motley,16.0,8.9
+"Middlesex, Virginia",Virginia,Middlesex,17.6,10.2
+"Utah, Utah",Utah,Utah,6.3,3.6
+"Norfolk, Virginia",Virginia,Norfolk,18.2,6.2
+"Galax, Virginia",Virginia,Galax,23.0,11.8
+"Tooele, Utah",Utah,Tooele,11.0,4.9
+"Lipscomb, Texas",Texas,Lipscomb,17.2,7.4
+"Victoria, Texas",Texas,Victoria,17.2,6.3
+"Summit, Utah",Utah,Summit,7.4,4.1
+"Colonial Heights, Virginia",Virginia,Colonial Heights,17.3,8.1
+"Adams, Washington",Washington,Adams,16.5,6.4
+"Wythe, Virginia",Virginia,Wythe,20.2,10.3
+"Rockwall, Texas",Texas,Rockwall,13.7,5.0
+"Carroll, Virginia",Virginia,Carroll,21.2,11.0
+"Benton, Washington",Washington,Benton,14.4,5.7
+"Ferry, Washington",Washington,Ferry,19.8,10.5
+"Essex, Vermont",Vermont,Essex,20.7,10.6
+"Morris, Texas",Texas,Morris,20.0,9.6
+"Morgan, Utah",Utah,Morgan,8.8,4.5
+"Wilbarger, Texas",Texas,Wilbarger,20.3,9.0
+"New Kent, Virginia",Virginia,New Kent,17.3,7.2
+"Shelby, Texas",Texas,Shelby,21.7,9.8
+"Russell, Virginia",Virginia,Russell,23.9,12.3
+"Palo Pinto, Texas",Texas,Palo Pinto,19.6,9.1
+"Prince Edward, Virginia",Virginia,Prince Edward,18.1,7.5
+"Sevier, Utah",Utah,Sevier,12.3,7.0
+"York, Virginia",Virginia,York,13.5,5.7
+"Floyd, Virginia",Virginia,Floyd,18.8,9.7
+"Caroline, Virginia",Virginia,Caroline,19.1,7.8
+"Portsmouth, Virginia",Virginia,Portsmouth,20.3,7.8
+"McCulloch, Texas",Texas,McCulloch,17.8,8.5
+"Ward, Texas",Texas,Ward,17.1,6.1
+"Mason, Texas",Texas,Mason,14.8,8.1
+"Waller, Texas",Texas,Waller,17.3,6.0
+"Terrell, Texas",Texas,Terrell,13.9,7.8
+"Botetourt, Virginia",Virginia,Botetourt,16.0,8.3
+"Wichita, Texas",Texas,Wichita,18.3,7.0
+"Nelson, Virginia",Virginia,Nelson,17.7,9.5
+"Medina, Texas",Texas,Medina,15.2,5.8
+"Manassas, Virginia",Virginia,Manassas,15.4,5.3
+"Scott, Virginia",Virginia,Scott,21.0,11.8
+"Fairfax City, Virginia",Virginia,Fairfax City,10.9,4.4
+"Live Oak, Texas",Texas,Live Oak,19.1,7.9
+"Hanover, Virginia",Virginia,Hanover,14.9,6.6
+"King and Queen, Virginia",Virginia,King and Queen,18.5,9.1
+"Chesterfield, Virginia",Virginia,Chesterfield,14.5,6.2
+"Addison, Vermont",Vermont,Addison,13.7,6.3
+"Box Elder, Utah",Utah,Box Elder,10.7,5.4
+"Weber, Utah",Utah,Weber,10.5,4.9
+"San Augustine, Texas",Texas,San Augustine,21.1,11.8
+"Lynchburg, Virginia",Virginia,Lynchburg,17.0,6.9
+"Van Zandt, Texas",Texas,Van Zandt,19.7,9.2
+"Giles, Virginia",Virginia,Giles,19.6,9.5
+"Buckingham, Virginia",Virginia,Buckingham,22.6,10.2
+"Marion, Texas",Texas,Marion,21.1,11.4
+"Iron, Utah",Utah,Iron,10.5,5.8
+"Winkler, Texas",Texas,Winkler,17.7,6.1
+"Suffolk, Virginia",Virginia,Suffolk,17.4,6.8
+"King George, Virginia",Virginia,King George,15.9,6.1
+"Juab, Utah",Utah,Juab,12.6,6.0
+"Waynesboro, Virginia",Virginia,Waynesboro,19.4,8.8
+"King William, Virginia",Virginia,King William,18.3,7.6
+"Zavala, Texas",Texas,Zavala,18.9,7.6
+"Sterling, Texas",Texas,Sterling,17.3,6.4
+"Washington, Utah",Utah,Washington,8.6,6.0
+"Fauquier, Virginia",Virginia,Fauquier,14.4,6.5
+"Clallam, Washington",Washington,Clallam,14.7,8.3
+"Bristol, Virginia",Virginia,Bristol,21.1,11.0
+"Campbell, Virginia",Virginia,Campbell,19.2,9.1
+"Wilson, Texas",Texas,Wilson,14.9,5.9
+"Greene, Virginia",Virginia,Greene,18.1,8.2
+"Stephens, Texas",Texas,Stephens,19.4,8.7
+"Orange, Texas",Texas,Orange,21.0,8.3
+"Page, Virginia",Virginia,Page,21.9,10.8
+"Montgomery, Virginia",Virginia,Montgomery,15.9,6.1
+"Rains, Texas",Texas,Rains,19.5,9.7
+"Smith, Texas",Texas,Smith,16.9,7.2
+"Pulaski, Virginia",Virginia,Pulaski,19.4,9.7
+"Martin, Texas",Texas,Martin,16.9,5.8
+"Nueces, Texas",Texas,Nueces,15.7,5.9
+"Powhatan, Virginia",Virginia,Powhatan,16.4,7.4
+"Titus, Texas",Texas,Titus,18.7,7.3
+"Mathews, Virginia",Virginia,Mathews,15.5,9.5
+"Charles City, Virginia",Virginia,Charles City,20.8,10.3
+"McLennan, Texas",Texas,McLennan,17.7,6.8
+"Covington, Virginia",Virginia,Covington,20.8,9.9
+"Fairfax, Virginia",Virginia,Fairfax,10.6,4.3
+"Sussex, Virginia",Virginia,Sussex,21.6,8.7
+"Menard, Texas",Texas,Menard,15.6,9.1
+"Charlotte, Virginia",Virginia,Charlotte,22.8,11.9
+"Duchesne, Utah",Utah,Duchesne,13.8,6.4
+"Upshur, Texas",Texas,Upshur,20.2,9.0
+"Gloucester, Virginia",Virginia,Gloucester,17.1,8.0
+"Dickenson, Virginia",Virginia,Dickenson,24.3,13.4
+"Young, Texas",Texas,Young,18.5,8.6
+"Millard, Utah",Utah,Millard,11.7,6.7
+"Randall, Texas",Texas,Randall,14.6,5.5
+"Windham, Vermont",Vermont,Windham,16.8,8.0
+"Louisa, Virginia",Virginia,Louisa,19.0,9.4
+"Bland, Virginia",Virginia,Bland,19.8,9.5
+"Douglas, Washington",Washington,Douglas,15.6,6.5
+"Asotin, Washington",Washington,Asotin,17.4,8.6
+"Norton, Virginia",Virginia,Norton,21.6,10.4
+"Chesapeake, Virginia",Virginia,Chesapeake,16.1,6.3
+"Cowlitz, Washington",Washington,Cowlitz,19.1,7.9
+"Orange, Virginia",Virginia,Orange,17.9,8.2
+"Scurry, Texas",Texas,Scurry,18.5,7.1
+"San Juan, Utah",Utah,San Juan,16.1,8.4
+"Northampton, Virginia",Virginia,Northampton,18.1,10.3
+"Tyler, Texas",Texas,Tyler,20.9,9.7
+"Montague, Texas",Texas,Montague,19.7,9.7
+"Buena Vista, Virginia",Virginia,Buena Vista,23.1,11.5
+"Bath, Virginia",Virginia,Bath,20.5,11.9
+"Wise, Virginia",Virginia,Wise,24.5,11.6
+"Garfield, Utah",Utah,Garfield,10.9,7.0
+"Chittenden, Vermont",Vermont,Chittenden,12.1,5.3
+"Madison, Virginia",Virginia,Madison,18.8,9.5
+"Henrico, Virginia",Virginia,Henrico,14.3,6.0
+"Danville, Virginia",Virginia,Danville,21.6,10.7
+"Sabine, Texas",Texas,Sabine,20.1,12.4
+"Llano, Texas",Texas,Llano,16.0,10.4
+"Halifax, Virginia",Virginia,Halifax,20.0,10.5
+"Lee, Virginia",Virginia,Lee,24.3,13.0
+"Clark, Washington",Washington,Clark,12.8,5.8
+"Grand, Utah",Utah,Grand,10.9,5.9
+"Mitchell, Texas",Texas,Mitchell,18.7,6.3
+"Falls Church, Virginia",Virginia,Falls Church,8.8,3.7
+"Wharton, Texas",Texas,Wharton,17.5,7.5
+"Beaver, Utah",Utah,Beaver,11.3,6.0
+"Webb, Texas",Texas,Webb,16.7,5.6
+"Bennington, Vermont",Vermont,Bennington,16.0,8.1
+"Franklin City, Virginia",Virginia,Franklin City,20.5,9.8
+"Craig, Virginia",Virginia,Craig,17.2,8.7
+"Matagorda, Texas",Texas,Matagorda,17.6,7.4
+"Ochiltree, Texas",Texas,Ochiltree,18.6,6.8
+"Madison, Texas",Texas,Madison,19.4,6.8
+"Parker, Texas",Texas,Parker,17.4,6.9
+"Caledonia, Vermont",Vermont,Caledonia,17.4,8.3
+"Lunenburg, Virginia",Virginia,Lunenburg,22.3,10.8
+"Chelan, Washington",Washington,Chelan,14.9,6.3
+"Westmoreland, Virginia",Virginia,Westmoreland,18.4,9.6
+"Rusk, Texas",Texas,Rusk,20.0,7.9
+"Sanpete, Utah",Utah,Sanpete,12.4,6.0
+"Val Verde, Texas",Texas,Val Verde,16.4,6.1
+"Montgomery, Texas",Texas,Montgomery,15.0,5.9
+"Clarke, Virginia",Virginia,Clarke,15.8,7.9
+"Hopewell, Virginia",Virginia,Hopewell,23.4,9.9
+"Augusta, Virginia",Virginia,Augusta,18.8,8.7
+"Rappahannock, Virginia",Virginia,Rappahannock,15.0,8.5
+"Sherman, Texas",Texas,Sherman,16.7,6.6
+"Presidio, Texas",Texas,Presidio,18.8,10.2
+"Mills, Texas",Texas,Mills,17.5,9.7
+"Rutland, Vermont",Vermont,Rutland,17.2,7.9
+"Kane, Utah",Utah,Kane,10.2,6.7
+"Surry, Virginia",Virginia,Surry,19.2,9.8
+"Essex, Virginia",Virginia,Essex,20.8,10.6
+"Columbia, Washington",Washington,Columbia,16.1,8.1
+"Sheboygan, Wisconsin",Wisconsin,Sheboygan,15.3,5.9
+"Washakie, Wyoming",Wyoming,Washakie,16.6,7.8
+"Green, Wisconsin",Wisconsin,Green,16.4,6.4
+"Barbour, West Virginia",West Virginia,Barbour,23.6,12.1
+"Jackson, West Virginia",West Virginia,Jackson,22.9,11.5
+"Grant, West Virginia",West Virginia,Grant,23.7,12.9
+"Pleasants, West Virginia",West Virginia,Pleasants,24.4,10.8
+"Douglas, Wisconsin",Wisconsin,Douglas,17.4,6.7
+"Hancock, West Virginia",West Virginia,Hancock,23.1,11.5
+"Upshur, West Virginia",West Virginia,Upshur,23.8,12.0
+"Taylor, Wisconsin",Wisconsin,Taylor,18.9,7.7
+"Milwaukee, Wisconsin",Wisconsin,Milwaukee,18.2,5.7
+"Mason, Washington",Washington,Mason,17.6,8.1
+"Preston, West Virginia",West Virginia,Preston,23.9,10.9
+"Washington, Wisconsin",Wisconsin,Washington,14.2,5.4
+"Sawyer, Wisconsin",Wisconsin,Sawyer,18.4,8.6
+"Cabell, West Virginia",West Virginia,Cabell,21.9,10.6
+"Taylor, West Virginia",West Virginia,Taylor,24.5,11.5
+"Boone, West Virginia",West Virginia,Boone,26.7,13.7
+"Big Horn, Wyoming",Wyoming,Big Horn,17.0,8.4
+"Spokane, Washington",Washington,Spokane,15.7,6.2
+"Washburn, Wisconsin",Wisconsin,Washburn,16.8,8.0
+"Uinta, Wyoming",Wyoming,Uinta,18.8,7.6
+"Hardy, West Virginia",West Virginia,Hardy,22.9,11.9
+"Lafayette, Wisconsin",Wisconsin,Lafayette,18.1,7.2
+"Vernon, Wisconsin",Wisconsin,Vernon,18.2,8.0
+"Walworth, Wisconsin",Wisconsin,Walworth,15.7,5.8
+"Ashland, Wisconsin",Wisconsin,Ashland,19.8,8.2
+"Stevens, Washington",Washington,Stevens,17.3,8.9
+"St. Croix, Wisconsin",Wisconsin,St. Croix,14.6,4.9
+"Langlade, Wisconsin",Wisconsin,Langlade,18.6,8.4
+"Crawford, Wisconsin",Wisconsin,Crawford,17.9,7.8
+"Dane, Wisconsin",Wisconsin,Dane,12.0,4.1
+"Teton, Wyoming",Wyoming,Teton,11.6,4.5
+"Brooke, West Virginia",West Virginia,Brooke,21.6,10.8
+"Lincoln, Wisconsin",Wisconsin,Lincoln,17.4,7.2
+"Outagamie, Wisconsin",Wisconsin,Outagamie,14.9,5.5
+"Grant, Washington",Washington,Grant,17.2,6.3
+"Lincoln, Washington",Washington,Lincoln,15.5,8.1
+"Gilmer, West Virginia",West Virginia,Gilmer,23.1,9.4
+"Trempealeau, Wisconsin",Wisconsin,Trempealeau,17.2,6.6
+"Mason, West Virginia",West Virginia,Mason,23.9,12.3
+"Grant, Wisconsin",Wisconsin,Grant,16.9,6.6
+"Wayne, West Virginia",West Virginia,Wayne,26.8,13.2
+"Kittitas, Washington",Washington,Kittitas,14.4,6.1
+"Summers, West Virginia",West Virginia,Summers,24.0,13.5
+"Monongalia, West Virginia",West Virginia,Monongalia,19.1,7.2
+"Calumet, Wisconsin",Wisconsin,Calumet,15.3,5.4
+"Fayette, West Virginia",West Virginia,Fayette,26.4,12.8
+"San Juan, Washington",Washington,San Juan,10.7,6.7
+"Pendleton, West Virginia",West Virginia,Pendleton,22.8,13.3
+"Pepin, Wisconsin",Wisconsin,Pepin,17.3,7.4
+"Waushara, Wisconsin",Wisconsin,Waushara,18.6,8.1
+"Marion, West Virginia",West Virginia,Marion,23.0,10.6
+"Wood, West Virginia",West Virginia,Wood,21.7,11.3
+"Vilas, Wisconsin",Wisconsin,Vilas,15.9,8.0
+"Thurston, Washington",Washington,Thurston,13.6,5.5
+"Forest, Wisconsin",Wisconsin,Forest,20.2,8.8
+"Hampshire, West Virginia",West Virginia,Hampshire,24.3,12.3
+"Ozaukee, Wisconsin",Wisconsin,Ozaukee,12.2,4.9
+"Snohomish, Washington",Washington,Snohomish,14.0,5.0
+"Whatcom, Washington",Washington,Whatcom,14.6,5.9
+"Randolph, West Virginia",West Virginia,Randolph,24.7,12.1
+"Richland, Wisconsin",Wisconsin,Richland,17.9,7.9
+"Dodge, Wisconsin",Wisconsin,Dodge,17.6,6.5
+"Logan, West Virginia",West Virginia,Logan,27.4,14.5
+"Natrona, Wyoming",Wyoming,Natrona,19.1,6.9
+"Albany, Wyoming",Wyoming,Albany,13.4,5.0
+"Raleigh, West Virginia",West Virginia,Raleigh,23.8,12.0
+"Chippewa, Wisconsin",Wisconsin,Chippewa,17.0,6.6
+"Greenbrier, West Virginia",West Virginia,Greenbrier,23.1,12.3
+"Fond du Lac, Wisconsin",Wisconsin,Fond du Lac,16.3,6.3
+"Oconto, Wisconsin",Wisconsin,Oconto,18.0,7.3
+"Braxton, West Virginia",West Virginia,Braxton,25.3,13.7
+"Lincoln, Wyoming",Wyoming,Lincoln,16.7,7.5
+"Roane, West Virginia",West Virginia,Roane,25.5,13.6
+"Rusk, Wisconsin",Wisconsin,Rusk,18.8,8.6
+"McDowell, West Virginia",West Virginia,McDowell,31.9,18.2
+"Racine, Wisconsin",Wisconsin,Racine,16.7,6.0
+"Rock, Wisconsin",Wisconsin,Rock,17.0,6.4
+"Menominee, Wisconsin",Wisconsin,Menominee,29.2,9.9
+"Skamania, Washington",Washington,Skamania,16.4,7.6
+"Monroe, Wisconsin",Wisconsin,Monroe,18.0,6.8
+"Ohio, West Virginia",West Virginia,Ohio,19.9,9.3
+"Iowa, Wisconsin",Wisconsin,Iowa,16.3,6.3
+"Park, Wyoming",Wyoming,Park,14.2,6.9
+"Mercer, West Virginia",West Virginia,Mercer,24.6,12.9
+"Marinette, Wisconsin",Wisconsin,Marinette,18.7,8.3
+"Harrison, West Virginia",West Virginia,Harrison,22.6,10.5
+"Adams, Wisconsin",Wisconsin,Adams,18.5,8.8
+"La Crosse, Wisconsin",Wisconsin,La Crosse,15.4,5.4
+"Converse, Wyoming",Wyoming,Converse,18.2,7.4
+"Franklin, Washington",Washington,Franklin,15.8,5.0
+"Burnett, Wisconsin",Wisconsin,Burnett,17.0,8.4
+"Yakima, Washington",Washington,Yakima,16.3,6.4
+"Crook, Wyoming",Wyoming,Crook,16.5,8.1
+"Skagit, Washington",Washington,Skagit,15.5,6.5
+"Marquette, Wisconsin",Wisconsin,Marquette,18.2,8.1
+"Wirt, West Virginia",West Virginia,Wirt,26.4,13.9
+"Hot Springs, Wyoming",Wyoming,Hot Springs,17.7,9.2
+"Florence, Wisconsin",Wisconsin,Florence,17.2,8.0
+"Klickitat, Washington",Washington,Klickitat,15.9,7.9
+"Putnam, West Virginia",West Virginia,Putnam,20.0,9.1
+"King, Washington",Washington,King,10.3,3.9
+"Buffalo, Wisconsin",Wisconsin,Buffalo,17.7,7.2
+"Eau Claire, Wisconsin",Wisconsin,Eau Claire,15.6,5.5
+"Nicholas, West Virginia",West Virginia,Nicholas,24.7,12.7
+"Lincoln, West Virginia",West Virginia,Lincoln,26.5,13.9
+"Juneau, Wisconsin",Wisconsin,Juneau,19.8,8.1
+"Wyoming, West Virginia",West Virginia,Wyoming,28.1,14.2
+"Sweetwater, Wyoming",Wyoming,Sweetwater,17.3,6.0
+"Wood, Wisconsin",Wisconsin,Wood,16.4,6.9
+"Portage, Wisconsin",Wisconsin,Portage,15.2,5.7
+"Monroe, West Virginia",West Virginia,Monroe,23.5,12.9
+"Jefferson, Wisconsin",Wisconsin,Jefferson,16.6,5.8
+"Morgan, West Virginia",West Virginia,Morgan,22.3,11.5
+"Oneida, Wisconsin",Wisconsin,Oneida,15.2,7.2
+"Wetzel, West Virginia",West Virginia,Wetzel,25.1,13.1
+"Sublette, Wyoming",Wyoming,Sublette,16.7,7.0
+"Weston, Wyoming",Wyoming,Weston,18.3,8.3
+"Lewis, West Virginia",West Virginia,Lewis,25.7,12.5
+"Columbia, Wisconsin",Wisconsin,Columbia,17.1,6.1
+"Island, Washington",Washington,Island,13.3,6.2
+"Dunn, Wisconsin",Wisconsin,Dunn,16.3,5.8
+"Wahkiakum, Washington",Washington,Wahkiakum,14.9,8.5
+"Price, Wisconsin",Wisconsin,Price,18.3,8.5
+"Pend Oreille, Washington",Washington,Pend Oreille,16.8,9.0
+"Campbell, Wyoming",Wyoming,Campbell,20.2,6.6
+"Clark, Wisconsin",Wisconsin,Clark,19.9,8.0
+"Mingo, West Virginia",West Virginia,Mingo,28.6,15.3
+"Jefferson, Washington",Washington,Jefferson,12.4,7.7
+"Whitman, Washington",Washington,Whitman,12.3,4.8
+"Ritchie, West Virginia",West Virginia,Ritchie,24.6,13.3
+"Carbon, Wyoming",Wyoming,Carbon,18.0,7.2
+"Polk, Wisconsin",Wisconsin,Polk,17.0,7.0
+"Goshen, Wyoming",Wyoming,Goshen,15.9,7.5
+"Doddridge, West Virginia",West Virginia,Doddridge,24.1,11.3
+"Shawano, Wisconsin",Wisconsin,Shawano,19.5,7.6
+"Fremont, Wyoming",Wyoming,Fremont,18.9,7.9
+"Lewis, Washington",Washington,Lewis,17.8,8.0
+"Green Lake, Wisconsin",Wisconsin,Green Lake,17.6,7.7
+"Tyler, West Virginia",West Virginia,Tyler,23.5,12.3
+"Garfield, Washington",Washington,Garfield,14.5,7.4
+"Mineral, West Virginia",West Virginia,Mineral,21.4,10.5
+"Door, Wisconsin",Wisconsin,Door,13.8,6.7
+"Clay, West Virginia",West Virginia,Clay,28.3,14.9
+"Kewaunee, Wisconsin",Wisconsin,Kewaunee,16.9,6.5
+"Sheridan, Wyoming",Wyoming,Sheridan,15.8,6.9
+"Kanawha, West Virginia",West Virginia,Kanawha,22.8,10.6
+"Waupaca, Wisconsin",Wisconsin,Waupaca,16.7,7.1
+"Iron, Wisconsin",Wisconsin,Iron,16.9,8.8
+"Manitowoc, Wisconsin",Wisconsin,Manitowoc,17.4,6.9
+"Tucker, West Virginia",West Virginia,Tucker,21.3,11.4
+"Grays Harbor, Washington",Washington,Grays Harbor,18.1,8.2
+"Marshall, West Virginia",West Virginia,Marshall,22.0,11.3
+"Pierce, Wisconsin",Wisconsin,Pierce,15.3,5.3
+"Niobrara, Wyoming",Wyoming,Niobrara,21.5,10.2
+"Barron, Wisconsin",Wisconsin,Barron,16.8,7.6
+"Kitsap, Washington",Washington,Kitsap,14.2,5.7
+"Pocahontas, West Virginia",West Virginia,Pocahontas,24.5,13.3
+"Walla Walla, Washington",Washington,Walla Walla,13.6,5.9
+"Pacific, Washington",Washington,Pacific,16.1,9.3
+"Bayfield, Wisconsin",Wisconsin,Bayfield,15.9,7.5
+"Jackson, Wisconsin",Wisconsin,Jackson,20.0,7.5
+"Okanogan, Washington",Washington,Okanogan,18.9,8.7
+"Johnson, Wyoming",Wyoming,Johnson,15.5,7.7
+"Laramie, Wyoming",Wyoming,Laramie,16.3,6.5
+"Pierce, Washington",Washington,Pierce,16.7,5.7
+"Calhoun, West Virginia",West Virginia,Calhoun,26.5,14.8
+"Berkeley, West Virginia",West Virginia,Berkeley,22.4,9.0
+"Kenosha, Wisconsin",Wisconsin,Kenosha,17.2,5.6
+"Marathon, Wisconsin",Wisconsin,Marathon,16.8,6.2
+"Jefferson, West Virginia",West Virginia,Jefferson,19.2,8.1
+"Platte, Wyoming",Wyoming,Platte,18.2,8.5
+"Sauk, Wisconsin",Wisconsin,Sauk,16.8,6.5
+"Brown, Wisconsin",Wisconsin,Brown,15.1,5.5
+"Webster, West Virginia",West Virginia,Webster,26.8,15.3
+"Winnebago, Wisconsin",Wisconsin,Winnebago,17.1,5.8
+"Waukesha, Wisconsin",Wisconsin,Waukesha,12.6,4.7
