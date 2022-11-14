@@ -228,7 +228,8 @@ d3.json("static/data/data_map.geojson").then(function(data) {
     return {
       opacity: 1,
       fillOpacity: 1,
-      fillColor: getColor(feature.properties.NAME10),
+      fillColor: getColor(feature.properties.County),
+
       color: "red",
       // radius: getRadius(feature.properties.NAME10),
       // stroke: true,
@@ -277,7 +278,9 @@ d3.json("static/data/data_map.geojson").then(function(data) {
      // We create a popup for each circleMarker to display the magnitude and location of the earthquake
      //  after the marker has been created and styled.
      onEachFeature: function(feature, layer) {
+
       layer.bindPopup("County: " + feature.properties.County + "<br>State: " + feature.properties.State);
+
     }
   }).addTo(data_county);
 

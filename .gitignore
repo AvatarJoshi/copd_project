@@ -1,6 +1,5 @@
 # Ignore files
 .DS_Store
-cc-est2019-alldata.csv
 annual_aqi_by_county_2009.csv
 annual_aqi_by_county_2010.csv
 annual_aqi_by_county_2011.csv
@@ -21,7 +20,8 @@ testData.geo.json
 test.html
 COPD_Mapping/static/data/data_map.geojson
 COPD_Mapping/static/data/county.geojson
-
+COPD_Mapping/static/data/data_map.csv
+Data_Processing/Resources/cc-est2019-alldata.csv
 
 Pandas_Learn.ipynb
 county.geo.json
