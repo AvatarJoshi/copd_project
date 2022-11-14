@@ -82,7 +82,10 @@ Accomplishments:
 Creating map object, Added tile layers, Created & tested getColor function for heatmap Testing GeoJson Data file for mapping Pop-up feature testing.
 
 Next Goals: Trying to apply to real GeoJson Data file and adding some feature
-   
+
+![1](https://github.com/AvatarJoshi/COPD_Project/blob/NewMaping-PS/COPD_Mapping/static/Images/County_line.png)
+
+
 ## Machine Learning
 **Purpose:** To determine if machine learning is capable of predicting COPD levels based on our data we choose to start our analysis using RandomForestRegression and DeepLearning. We plan to connect the database directly to the notebooks where the machine learning algorithms will be run in the future. We have shown we can connect the database to a notebook and load data in [Connecting_JN.ipynb](Connecting_JN_SQL.pynb). For the time being, we have directly loaded data from processed .csv files we have created into the models.
 
