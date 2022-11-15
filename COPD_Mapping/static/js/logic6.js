@@ -78,7 +78,7 @@ d3.json("static/data/state.geojson").then(function(data) {
       // Style each feature (in this case a neighborhood)
       style: function(feature) {
         return {
-          color: "blck",
+          color: "black",
           // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
           fillColor: "pink",
           fillOpacity: 1,
@@ -105,9 +105,9 @@ d3.json("static/data/state.geojson").then(function(data) {
             });
           },
           // When a feature (neighborhood) is clicked, it is enlarged to fit the screen
-          click: function(event) {
-            myMap.fitBounds(event.target.getBounds());
-          }
+          // click: function(event) {
+          //   myMap.fitBounds(event.target.getBounds());
+          // }
         });
         // Giving each feature a pop-up with information pertinent to it
         layer.bindPopup("State:" + "<h1>" + feature.properties.NAME10 + "COPD:" + "Smoker:");
@@ -279,7 +279,7 @@ d3.json("static/data/data_map.geojson").then(function(data) {
      //  after the marker has been created and styled.
      onEachFeature: function(feature, layer) {
 
-      layer.bindPopup("County: " + feature.properties.County + "<br>State: " + feature.properties.State);
+      layer.bindPopup("<b>County:</b>" + feature.properties.County + "<br><b>State:</b>" + feature.properties.State + "<br><b> Levels of COPD:</b> " + feature.properties.Levels_COPD + "<br><b> Levels of Smoker:</b> " + feature.properties.Levels_Smokers);
 
     }
   }).addTo(data_county);
