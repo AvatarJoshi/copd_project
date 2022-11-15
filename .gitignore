@@ -21,7 +21,7 @@ testData.geo.json
 test.html
 
 COPD_Mapping/static/data/county.geojson
-
+COPD_Mapping/static/data/data_map.geojson
 
 Pandas_Learn.ipynb
 county.geo.json
