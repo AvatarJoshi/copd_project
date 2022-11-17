@@ -25,6 +25,8 @@ COPD_Mapping/static/data/data_map.geojson
 COPD_Mapping/static/data/data_map.csv
 Data_Processing/Resources/cc-est2019-alldata.csv
 
+Database/Resources
+
 
 Pandas_Learn.ipynb
 county.geo.json
