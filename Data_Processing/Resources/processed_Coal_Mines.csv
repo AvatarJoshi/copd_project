@@ -1,30 +1,10 @@
 State_County,State,County,Surface_Mines,Underground_Mines
 "Alabama, Walker",Alabama,Walker,7.0,2.0
 "Alabama, Jefferson",Alabama,Jefferson,7.0,3.0
-"Alabama, Jefferson",Alabama,Jefferson,7.0,3.0
 "Alabama, Tuscaloosa",Alabama,Tuscaloosa,4.0,1.0
-"Alabama, Jefferson",Alabama,Jefferson,7.0,3.0
-"Alabama, Walker",Alabama,Walker,7.0,2.0
-"Alabama, Tuscaloosa",Alabama,Tuscaloosa,4.0,1.0
-"Alabama, Jefferson",Alabama,Jefferson,7.0,3.0
 "West Virginia, Nicholas",West Virginia,Nicholas,4.0,1.0
-"Alabama, Walker",Alabama,Walker,7.0,2.0
-"Alabama, Jefferson",Alabama,Jefferson,7.0,3.0
-"Alabama, Walker",Alabama,Walker,7.0,2.0
-"Alabama, Tuscaloosa",Alabama,Tuscaloosa,4.0,1.0
-"Alabama, Jefferson",Alabama,Jefferson,7.0,3.0
-"Alabama, Jefferson",Alabama,Jefferson,7.0,3.0
-"Alabama, Tuscaloosa",Alabama,Tuscaloosa,4.0,1.0
 "Alabama, De Kalb",Alabama,De Kalb,1.0,0.0
-"Alabama, Walker",Alabama,Walker,7.0,2.0
 "Alabama, Shelby",Alabama,Shelby,1.0,0.0
-"Alabama, Walker",Alabama,Walker,7.0,2.0
-"Alabama, Jefferson",Alabama,Jefferson,7.0,3.0
-"Alabama, Jefferson",Alabama,Jefferson,7.0,3.0
-"Alabama, Walker",Alabama,Walker,7.0,2.0
-"Alabama, Walker",Alabama,Walker,7.0,2.0
-"Alabama, Tuscaloosa",Alabama,Tuscaloosa,4.0,1.0
-"Colorado, Moffat",Colorado,Moffat,2.0,0.0
 "Colorado, Moffat",Colorado,Moffat,2.0,0.0
 "Colorado, Rio Blanco",Colorado,Rio Blanco,0.0,0.0
 "Colorado, Gunnison",Colorado,Gunnison,0.0,0.0
@@ -35,27 +15,18 @@ State_County,State,County,Surface_Mines,Underground_Mines
 "Illinois, Wabash",Illinois,Wabash,1.0,0.0
 "Illinois, Perry",Illinois,Perry,2.0,1.0
 "Illinois, Williamson",Illinois,Williamson,0.0,0.0
-"Illinois, Perry",Illinois,Perry,2.0,1.0
 "Illinois, Montgomery",Illinois,Montgomery,0.0,0.0
 "Illinois, Franklin",Illinois,Franklin,0.0,0.0
 "Illinois, Washington",Illinois,Washington,0.0,0.0
 "Illinois, Hamilton",Illinois,Hamilton,0.0,0.0
 "Illinois, Saline",Illinois,Saline,1.0,0.0
 "Illinois, Randolph",Illinois,Randolph,1.0,1.0
-"Illinois, Randolph",Illinois,Randolph,1.0,1.0
-"Illinois, Perry",Illinois,Perry,2.0,1.0
 "Indiana, Pike",Indiana,Pike,1.0,0.0
 "Indiana, Daviess",Indiana,Daviess,2.0,0.0
 "Indiana, Gibson",Indiana,Gibson,1.0,2.0
-"Indiana, Gibson",Indiana,Gibson,1.0,2.0
-"Indiana, Sullivan",Indiana,Sullivan,1.0,1.0
-"Indiana, Daviess",Indiana,Daviess,2.0,0.0
-"Indiana, Dubois",Indiana,Dubois,2.0,0.0
-"Indiana, Gibson",Indiana,Gibson,1.0,2.0
-"Indiana, Knox",Indiana,Knox,0.0,0.0
-"Indiana, Knox",Indiana,Knox,0.0,0.0
 "Indiana, Sullivan",Indiana,Sullivan,1.0,1.0
 "Indiana, Dubois",Indiana,Dubois,2.0,0.0
+"Indiana, Knox",Indiana,Knox,0.0,0.0
 "Indiana, Warrick",Indiana,Warrick,3.0,0.0
 "Illinois, Gibson",Illinois,Gibson,1.0,0.0
 "Indiana, Clay",Indiana,Clay,1.0,0.0
@@ -66,488 +37,103 @@ State_County,State,County,Surface_Mines,Underground_Mines
 "Kentucky, Pike",Kentucky,Pike,13.0,14.0
 "Kentucky, Hopkins",Kentucky,Hopkins,0.0,0.0
 "Kentucky, Knox",Kentucky,Knox,4.0,1.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Harlan",Kentucky,Harlan,7.0,5.0
-"Kentucky, Harlan",Kentucky,Harlan,7.0,5.0
 "Kentucky, Daviess",Kentucky,Daviess,2.0,0.0
-"Kentucky, Harlan",Kentucky,Harlan,7.0,5.0
-"Kentucky, Knox",Kentucky,Knox,4.0,1.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Perry",Kentucky,Perry,4.0,4.0
 "Kentucky, Floyd",Kentucky,Floyd,1.0,4.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
 "Kentucky, Bell",Kentucky,Bell,8.0,2.0
 "Kentucky, Knott",Kentucky,Knott,4.0,1.0
-"Kentucky, Perry",Kentucky,Perry,4.0,4.0
 "West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Indiana, Warrick",Indiana,Warrick,3.0,0.0
-"Kentucky, Perry",Kentucky,Perry,4.0,4.0
 "West Virginia, Boone",West Virginia,Boone,8.0,5.0
 "Kentucky, Breathitt",Kentucky,Breathitt,1.0,0.0
-"Kentucky, Perry",Kentucky,Perry,4.0,4.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Knox",Kentucky,Knox,4.0,1.0
-"Kentucky, Floyd",Kentucky,Floyd,1.0,4.0
-"Kentucky, Bell",Kentucky,Bell,8.0,2.0
-"Kentucky, Bell",Kentucky,Bell,8.0,2.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Perry",Kentucky,Perry,4.0,4.0
 "West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
 "Kentucky, Union",Kentucky,Union,0.0,0.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Perry",Kentucky,Perry,4.0,4.0
-"Kentucky, Perry",Kentucky,Perry,4.0,4.0
-"Kentucky, Bell",Kentucky,Bell,8.0,2.0
-"Kentucky, Leslie",Kentucky,Leslie,3.0,1.0
-"Kentucky, Harlan",Kentucky,Harlan,7.0,5.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
 "Kentucky, Ohio",Kentucky,Ohio,0.0,0.0
-"Kentucky, Daviess",Kentucky,Daviess,2.0,0.0
-"Kentucky, Johnson",Kentucky,Johnson,3.0,0.0
 "Kentucky, Johnson",Kentucky,Johnson,3.0,0.0
 "Kentucky, Whitley",Kentucky,Whitley,5.0,0.0
-"Kentucky, Knott",Kentucky,Knott,4.0,1.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Floyd",Kentucky,Floyd,1.0,4.0
-"Kentucky, Floyd",Kentucky,Floyd,1.0,4.0
 "Kentucky, Muhlenberg",Kentucky,Muhlenberg,0.0,0.0
-"Kentucky, Johnson",Kentucky,Johnson,3.0,0.0
-"Kentucky, Harlan",Kentucky,Harlan,7.0,5.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Knott",Kentucky,Knott,4.0,1.0
 "Kentucky, Letcher",Kentucky,Letcher,2.0,0.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
 "Kentucky, Mclean",Kentucky,Mclean,0.0,0.0
-"Kentucky, Leslie",Kentucky,Leslie,3.0,1.0
 "Indiana, Saline",Indiana,Saline,1.0,0.0
-"Kentucky, Harlan",Kentucky,Harlan,7.0,5.0
-"Kentucky, Whitley",Kentucky,Whitley,5.0,0.0
 "Kentucky, Martin",Kentucky,Martin,2.0,0.0
-"Kentucky, Martin",Kentucky,Martin,2.0,0.0
-"Kentucky, Leslie",Kentucky,Leslie,3.0,1.0
-"Kentucky, Harlan",Kentucky,Harlan,7.0,5.0
-"Kentucky, Floyd",Kentucky,Floyd,1.0,4.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
 "Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Bell",Kentucky,Bell,8.0,2.0
 "Kentucky, Morgan",Kentucky,Morgan,1.0,0.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Bell",Kentucky,Bell,8.0,2.0
-"Kentucky, Bell",Kentucky,Bell,8.0,2.0
-"Kentucky, Whitley",Kentucky,Whitley,5.0,0.0
-"Kentucky, Whitley",Kentucky,Whitley,5.0,0.0
-"Kentucky, Bell",Kentucky,Bell,8.0,2.0
-"Kentucky, Harlan",Kentucky,Harlan,7.0,5.0
-"Kentucky, Harlan",Kentucky,Harlan,7.0,5.0
-"Kentucky, Pike",Kentucky,Pike,13.0,14.0
-"Kentucky, Knox",Kentucky,Knox,4.0,1.0
-"Kentucky, Whitley",Kentucky,Whitley,5.0,0.0
 "West Virginia, Randolph",West Virginia,Randolph,2.0,2.0
-"Kentucky, Knott",Kentucky,Knott,4.0,1.0
-"Kentucky, Letcher",Kentucky,Letcher,2.0,0.0
-"Kentucky, Harlan",Kentucky,Harlan,7.0,5.0
-"Kentucky, Knox",Kentucky,Knox,4.0,1.0
-"Kentucky, Harlan",Kentucky,Harlan,7.0,5.0
-"Kentucky, Bell",Kentucky,Bell,8.0,2.0
-"Kentucky, Bell",Kentucky,Bell,8.0,2.0
 "Louisiana, De Soto",Louisiana,De Soto,1.0,0.0
 "Louisiana, Natchitoches",Louisiana,Natchitoches,1.0,0.0
-"Maryland, Allegany",Maryland,Allegany,7.0,0.0
-"Maryland, Garrett",Maryland,Garrett,3.0,1.0
-"Maryland, Allegany",Maryland,Allegany,7.0,0.0
-"Maryland, Allegany",Maryland,Allegany,7.0,0.0
-"Maryland, Garrett",Maryland,Garrett,3.0,1.0
-"Maryland, Allegany",Maryland,Allegany,7.0,0.0
-"Maryland, Allegany",Maryland,Allegany,7.0,0.0
-"Maryland, Garrett",Maryland,Garrett,3.0,1.0
-"Maryland, Allegany",Maryland,Allegany,7.0,0.0
 "Maryland, Allegany",Maryland,Allegany,7.0,0.0
 "Maryland, Garrett",Maryland,Garrett,3.0,1.0
 "Mississippi, Choctaw",Mississippi,Choctaw,1.0,0.0
 "Missouri, Bates",Missouri,Bates,1.0,0.0
 "Montana, Richland",Montana,Richland,1.0,0.0
 "Montana, Big Horn",Montana,Big Horn,3.0,0.0
-"Montana, Big Horn",Montana,Big Horn,3.0,0.0
-"Montana, Big Horn",Montana,Big Horn,3.0,0.0
 "Montana, Rosebud",Montana,Rosebud,1.0,0.0
 "Montana, Musselshell",Montana,Musselshell,0.0,0.0
-"New Mexico, San Juan",New Mexico,San Juan,1.0,1.0
 "New Mexico, San Juan",New Mexico,San Juan,1.0,1.0
 "New Mexico, Mckinley",New Mexico,Mckinley,1.0,0.0
 "North Dakota, Mercer",North Dakota,Mercer,3.0,0.0
 "North Dakota, Oliver",North Dakota,Oliver,1.0,0.0
 "North Dakota, Mclean",North Dakota,Mclean,1.0,0.0
-"North Dakota, Mercer",North Dakota,Mercer,3.0,0.0
-"North Dakota, Mercer",North Dakota,Mercer,3.0,0.0
 "Ohio, Belmont",Ohio,Belmont,1.0,0.0
 "Ohio, Harrison",Ohio,Harrison,2.0,2.0
 "Ohio, Monroe",Ohio,Monroe,0.0,0.0
 "Ohio, Noble",Ohio,Noble,1.0,0.0
 "Ohio, Tuscarawas",Ohio,Tuscarawas,1.0,1.0
-"Ohio, Harrison",Ohio,Harrison,2.0,2.0
-"Ohio, Tuscarawas",Ohio,Tuscarawas,1.0,1.0
 "Ohio, Perry",Ohio,Perry,0.0,0.0
-"Ohio, Harrison",Ohio,Harrison,2.0,2.0
-"Ohio, Harrison",Ohio,Harrison,2.0,2.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
 "Oklahoma, Okmulgee",Oklahoma,Okmulgee,1.0,0.0
 "Oklahoma, Craig",Oklahoma,Craig,1.0,0.0
 "Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
 "Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
 "Pennsylvania, Northumberland",Pennsylvania,Northumberland,10.0,3.0
 "Pennsylvania, Lycoming",Pennsylvania,Lycoming,1.0,0.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
 "Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
 "Pennsylvania, Jefferson",Pennsylvania,Jefferson,5.0,1.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
 "Pennsylvania, Luzerne",Pennsylvania,Luzerne,4.0,0.0
-"Pennsylvania, Jefferson",Pennsylvania,Jefferson,5.0,1.0
 "Pennsylvania, Greene",Pennsylvania,Greene,0.0,0.0
 "Pennsylvania, Clarion",Pennsylvania,Clarion,4.0,0.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Jefferson",Pennsylvania,Jefferson,5.0,1.0
 "Pennsylvania, Fayette",Pennsylvania,Fayette,3.0,0.0
-"Pennsylvania, Jefferson",Pennsylvania,Jefferson,5.0,1.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Greene",Pennsylvania,Greene,0.0,0.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
 "Pennsylvania, Washington",Pennsylvania,Washington,1.0,1.0
 "Pennsylvania, Indiana",Pennsylvania,Indiana,3.0,7.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Indiana",Pennsylvania,Indiana,3.0,7.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
 "Pennsylvania, Armstrong",Pennsylvania,Armstrong,0.0,0.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Luzerne",Pennsylvania,Luzerne,4.0,0.0
 "Pennsylvania, Cambria",Pennsylvania,Cambria,6.0,2.0
-"Pennsylvania, Luzerne",Pennsylvania,Luzerne,4.0,0.0
-"Pennsylvania, Northumberland",Pennsylvania,Northumberland,10.0,3.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
 "Pennsylvania, Westmoreland",Pennsylvania,Westmoreland,2.0,1.0
-"Pennsylvania, Luzerne",Pennsylvania,Luzerne,4.0,0.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Armstrong",Pennsylvania,Armstrong,0.0,0.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
 "Pennsylvania, Columbia",Pennsylvania,Columbia,2.0,0.0
-"Pennsylvania, Armstrong",Pennsylvania,Armstrong,0.0,0.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Columbia",Pennsylvania,Columbia,2.0,0.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Cambria",Pennsylvania,Cambria,6.0,2.0
-"Pennsylvania, Cambria",Pennsylvania,Cambria,6.0,2.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"West Virginia, Nicholas",West Virginia,Nicholas,4.0,1.0
-"Pennsylvania, Indiana",Pennsylvania,Indiana,3.0,7.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Northumberland",Pennsylvania,Northumberland,10.0,3.0
-"Pennsylvania, Indiana",Pennsylvania,Indiana,3.0,7.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Cambria",Pennsylvania,Cambria,6.0,2.0
-"Pennsylvania, Cambria",Pennsylvania,Cambria,6.0,2.0
-"Pennsylvania, Northumberland",Pennsylvania,Northumberland,10.0,3.0
-"Pennsylvania, Indiana",Pennsylvania,Indiana,3.0,7.0
-"Pennsylvania, Northumberland",Pennsylvania,Northumberland,10.0,3.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Indiana",Pennsylvania,Indiana,3.0,7.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Indiana",Pennsylvania,Indiana,3.0,7.0
 "Pennsylvania, Dauphin",Pennsylvania,Dauphin,0.0,0.0
-"Pennsylvania, Jefferson",Pennsylvania,Jefferson,5.0,1.0
-"Pennsylvania, Indiana",Pennsylvania,Indiana,3.0,7.0
-"Pennsylvania, Northumberland",Pennsylvania,Northumberland,10.0,3.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Northumberland",Pennsylvania,Northumberland,10.0,3.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Northumberland",Pennsylvania,Northumberland,10.0,3.0
-"Pennsylvania, Northumberland",Pennsylvania,Northumberland,10.0,3.0
-"Pennsylvania, Indiana",Pennsylvania,Indiana,3.0,7.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Northumberland",Pennsylvania,Northumberland,10.0,3.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Clarion",Pennsylvania,Clarion,4.0,0.0
-"Pennsylvania, Fayette",Pennsylvania,Fayette,3.0,0.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Northumberland",Pennsylvania,Northumberland,10.0,3.0
-"Pennsylvania, Cambria",Pennsylvania,Cambria,6.0,2.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
 "Pennsylvania, Bedford",Pennsylvania,Bedford,2.0,0.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Indiana",Pennsylvania,Indiana,3.0,7.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Greene",Pennsylvania,Greene,0.0,0.0
-"Pennsylvania, Fayette",Pennsylvania,Fayette,3.0,0.0
-"Pennsylvania, Westmoreland",Pennsylvania,Westmoreland,2.0,1.0
-"Pennsylvania, Northumberland",Pennsylvania,Northumberland,10.0,3.0
-"Pennsylvania, Northumberland",Pennsylvania,Northumberland,10.0,3.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
 "Pennsylvania, Carbon",Pennsylvania,Carbon,1.0,0.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Bedford",Pennsylvania,Bedford,2.0,0.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Jefferson",Pennsylvania,Jefferson,5.0,1.0
-"Pennsylvania, Westmoreland",Pennsylvania,Westmoreland,2.0,1.0
-"Pennsylvania, Cambria",Pennsylvania,Cambria,6.0,2.0
-"Pennsylvania, Washington",Pennsylvania,Washington,1.0,1.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Schuylkill",Pennsylvania,Schuylkill,22.0,5.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Cambria",Pennsylvania,Cambria,6.0,2.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Clarion",Pennsylvania,Clarion,4.0,0.0
-"Pennsylvania, Clarion",Pennsylvania,Clarion,4.0,0.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
-"Pennsylvania, Somerset",Pennsylvania,Somerset,13.0,5.0
-"Pennsylvania, Clearfield",Pennsylvania,Clearfield,22.0,2.0
 "Tennessee, Claiborne",Tennessee,Claiborne,1.0,1.0
 "West Virginia, Moffat",West Virginia,Moffat,1.0,0.0
-"West Virginia, Boone",West Virginia,Boone,8.0,5.0
-"Tennessee, Claiborne",Tennessee,Claiborne,1.0,1.0
 "Texas, Atascosa",Texas,Atascosa,1.0,0.0
 "Texas, Harrison",Texas,Harrison,2.0,0.0
 "Texas, Robertson",Texas,Robertson,1.0,0.0
 "Texas, Maverick",Texas,Maverick,1.0,0.0
 "Texas, Limestone",Texas,Limestone,1.0,0.0
-"Texas, Harrison",Texas,Harrison,2.0,0.0
 "Texas, Rusk",Texas,Rusk,1.0,0.0
 "Utah, Emery",Utah,Emery,0.0,0.0
 "Utah, Sevier",Utah,Sevier,0.0,0.0
 "Utah, Carbon",Utah,Carbon,0.0,0.0
-"Utah, Carbon",Utah,Carbon,0.0,0.0
-"Utah, Emery",Utah,Emery,0.0,0.0
-"Utah, Emery",Utah,Emery,0.0,0.0
 "Utah, Kane",Utah,Kane,1.0,0.0
 "Virginia, Russell",Virginia,Russell,2.0,0.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
 "West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Virginia, Wise",Virginia,Wise,8.0,5.0
-"Virginia, Dickenson",Virginia,Dickenson,5.0,4.0
-"Virginia, Wise",Virginia,Wise,8.0,5.0
-"Virginia, Wise",Virginia,Wise,8.0,5.0
-"Virginia, Wise",Virginia,Wise,8.0,5.0
-"Virginia, Wise",Virginia,Wise,8.0,5.0
 "Virginia, Wise",Virginia,Wise,8.0,5.0
 "Virginia, Dickenson",Virginia,Dickenson,5.0,4.0
 "Virginia, Tazewell",Virginia,Tazewell,2.0,0.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Virginia, Dickenson",Virginia,Dickenson,5.0,4.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Virginia, Dickenson",Virginia,Dickenson,5.0,4.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Virginia, Dickenson",Virginia,Dickenson,5.0,4.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Virginia, Dickenson",Virginia,Dickenson,5.0,4.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"West Virginia, Randolph",West Virginia,Randolph,2.0,2.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Virginia, Wise",Virginia,Wise,8.0,5.0
-"Virginia, Wise",Virginia,Wise,8.0,5.0
-"Virginia, Dickenson",Virginia,Dickenson,5.0,4.0
-"Virginia, Wise",Virginia,Wise,8.0,5.0
-"Virginia, Wise",Virginia,Wise,8.0,5.0
-"Virginia, Wise",Virginia,Wise,8.0,5.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Virginia, Wise",Virginia,Wise,8.0,5.0
-"Virginia, Dickenson",Virginia,Dickenson,5.0,4.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"Virginia, Dickenson",Virginia,Dickenson,5.0,4.0
 "West Virginia, Wetzel",West Virginia,Wetzel,0.0,0.0
 "West Virginia, Marion",West Virginia,Marion,1.0,1.0
 "West Virginia, Marshall",West Virginia,Marshall,0.0,0.0
-"West Virginia, Marshall",West Virginia,Marshall,0.0,0.0
-"West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
-"Pennsylvania, Greene",Pennsylvania,Greene,0.0,0.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
 "West Virginia, Mineral",West Virginia,Mineral,1.0,0.0
 "West Virginia, Barbour",West Virginia,Barbour,0.0,0.0
 "West Virginia, Fayette",West Virginia,Fayette,3.0,3.0
 "West Virginia, Raleigh",West Virginia,Raleigh,5.0,8.0
 "West Virginia, Kanawha",West Virginia,Kanawha,3.0,4.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
 "West Virginia, Mingo",West Virginia,Mingo,6.0,2.0
-"West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Boone",West Virginia,Boone,8.0,5.0
-"West Virginia, Kanawha",West Virginia,Kanawha,3.0,4.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Fayette",West Virginia,Fayette,3.0,3.0
-"West Virginia, Boone",West Virginia,Boone,8.0,5.0
-"West Virginia, Fayette",West Virginia,Fayette,3.0,3.0
-"West Virginia, Mingo",West Virginia,Mingo,6.0,2.0
-"West Virginia, Boone",West Virginia,Boone,8.0,5.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Randolph",West Virginia,Randolph,2.0,2.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Boone",West Virginia,Boone,8.0,5.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Nicholas",West Virginia,Nicholas,4.0,1.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Mingo",West Virginia,Mingo,6.0,2.0
-"West Virginia, Raleigh",West Virginia,Raleigh,5.0,8.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
 "West Virginia, Ohio",West Virginia,Ohio,0.0,0.0
-"West Virginia, Raleigh",West Virginia,Raleigh,5.0,8.0
-"West Virginia, Boone",West Virginia,Boone,8.0,5.0
-"West Virginia, Mingo",West Virginia,Mingo,6.0,2.0
-"West Virginia, Fayette",West Virginia,Fayette,3.0,3.0
-"West Virginia, Boone",West Virginia,Boone,8.0,5.0
-"West Virginia, Raleigh",West Virginia,Raleigh,5.0,8.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Raleigh",West Virginia,Raleigh,5.0,8.0
 "West Virginia, Tucker",West Virginia,Tucker,0.0,0.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
 "West Virginia, Webster",West Virginia,Webster,3.0,0.0
-"West Virginia, Raleigh",West Virginia,Raleigh,5.0,8.0
-"West Virginia, Marion",West Virginia,Marion,1.0,1.0
-"West Virginia, Fayette",West Virginia,Fayette,3.0,3.0
-"West Virginia, Fayette",West Virginia,Fayette,3.0,3.0
-"West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
-"West Virginia, Boone",West Virginia,Boone,8.0,5.0
-"West Virginia, Mingo",West Virginia,Mingo,6.0,2.0
-"West Virginia, Raleigh",West Virginia,Raleigh,5.0,8.0
-"West Virginia, Raleigh",West Virginia,Raleigh,5.0,8.0
-"West Virginia, Raleigh",West Virginia,Raleigh,5.0,8.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Webster",West Virginia,Webster,3.0,0.0
-"Alabama, Jefferson",Alabama,Jefferson,7.0,3.0
-"West Virginia, Boone",West Virginia,Boone,8.0,5.0
-"West Virginia, Kanawha",West Virginia,Kanawha,3.0,4.0
 "West Virginia, Greenbrier",West Virginia,Greenbrier,3.0,1.0
-"Virginia, Tazewell",Virginia,Tazewell,2.0,0.0
 "West Virginia, Taylor",West Virginia,Taylor,0.0,0.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Raleigh",West Virginia,Raleigh,5.0,8.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Kanawha",West Virginia,Kanawha,3.0,4.0
-"West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
-"West Virginia, Kanawha",West Virginia,Kanawha,3.0,4.0
-"West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
-"West Virginia, Greenbrier",West Virginia,Greenbrier,3.0,1.0
-"West Virginia, Boone",West Virginia,Boone,8.0,5.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Boone",West Virginia,Boone,8.0,5.0
-"West Virginia, Kanawha",West Virginia,Kanawha,3.0,4.0
 "West Virginia, Mercer",West Virginia,Mercer,1.0,1.0
-"West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
-"West Virginia, Kanawha",West Virginia,Kanawha,3.0,4.0
-"West Virginia, Mingo",West Virginia,Mingo,6.0,2.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Mingo",West Virginia,Mingo,6.0,2.0
-"Virginia, Buchanan",Virginia,Buchanan,9.0,8.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"Virginia, Wise",Virginia,Wise,8.0,5.0
-"Alabama, Walker",Alabama,Walker,7.0,2.0
-"West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Greenbrier",West Virginia,Greenbrier,3.0,1.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
-"West Virginia, Greenbrier",West Virginia,Greenbrier,3.0,1.0
-"West Virginia, Raleigh",West Virginia,Raleigh,5.0,8.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
-"West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
-"West Virginia, Raleigh",West Virginia,Raleigh,5.0,8.0
-"West Virginia, Webster",West Virginia,Webster,3.0,0.0
-"West Virginia, Mcdowell",West Virginia,Mcdowell,13.0,12.0
-"Kentucky, Knott",Kentucky,Knott,4.0,1.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Nicholas",West Virginia,Nicholas,4.0,1.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Mingo",West Virginia,Mingo,6.0,2.0
-"West Virginia, Randolph",West Virginia,Randolph,2.0,2.0
-"Virginia, Russell",Virginia,Russell,2.0,0.0
-"West Virginia, Raleigh",West Virginia,Raleigh,5.0,8.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
-"West Virginia, Mercer",West Virginia,Mercer,1.0,1.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
-"West Virginia, Logan",West Virginia,Logan,9.0,12.0
 "West Virginia, Grant",West Virginia,Grant,1.0,0.0
-"West Virginia, Nicholas",West Virginia,Nicholas,4.0,1.0
-"West Virginia, Boone",West Virginia,Boone,8.0,5.0
-"West Virginia, Wyoming",West Virginia,Wyoming,6.0,8.0
 "Wyoming, Campbell",Wyoming,Campbell,11.0,0.0
 "Wyoming, Lincoln",Wyoming,Lincoln,1.0,0.0
 "Wyoming, Sweetwater",Wyoming,Sweetwater,2.0,1.0
-"Wyoming, Campbell",Wyoming,Campbell,11.0,0.0
-"Wyoming, Campbell",Wyoming,Campbell,11.0,0.0
-"Wyoming, Campbell",Wyoming,Campbell,11.0,0.0
-"Wyoming, Campbell",Wyoming,Campbell,11.0,0.0
-"Wyoming, Campbell",Wyoming,Campbell,11.0,0.0
-"Wyoming, Campbell",Wyoming,Campbell,11.0,0.0
-"Wyoming, Sweetwater",Wyoming,Sweetwater,2.0,1.0
-"Wyoming, Campbell",Wyoming,Campbell,11.0,0.0
-"Wyoming, Campbell",Wyoming,Campbell,11.0,0.0
 "Wyoming, Converse",Wyoming,Converse,1.0,0.0
-"Wyoming, Campbell",Wyoming,Campbell,11.0,0.0
-"Wyoming, Campbell",Wyoming,Campbell,11.0,0.0
-"Indiana, Warrick",Indiana,Warrick,3.0,0.0
-"Wyoming, Sweetwater",Wyoming,Sweetwater,2.0,1.0
 "Alaska, Denali",Alaska,Denali,1.0,0.0
