@@ -85,6 +85,10 @@ d3.json("static/data/state.geojson").then(function(data) {
           weight: 1.5
         };
       },
+
+
+
+
       // Called on each feature
       onEachFeature: function(feature, layer) {
         // alert(feature.properties.NAME10);
@@ -229,7 +233,6 @@ d3.json("static/data/data_map.geojson").then(function(data) {
       opacity: 1,
       fillOpacity: 1,
       fillColor: getColor(feature.properties.County),
-
       color: "red",
       // radius: getRadius(feature.properties.NAME10),
       // stroke: true,
