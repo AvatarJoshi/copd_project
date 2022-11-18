@@ -63,12 +63,6 @@ var myMap = L.map("map", {
 L.control.layers(baseMaps, overlays).addTo(myMap);
 
 
-
-  // Here we create a legend control object.
-let legend = L.control({
-  position: "bottomright"
-});
-
 // Grabbing our GeoJSON data..
 d3.json("static/data/state.geojson").then(function(data) {
 // d3.json(data_state, function(data) {
@@ -114,7 +108,8 @@ d3.json("static/data/state.geojson").then(function(data) {
           // }
         });
         // Giving each feature a pop-up with information pertinent to it
-        layer.bindPopup("State:" + "<h1>" + feature.properties.NAME10 + "COPD:" + "Smoker:");
+        layer.bindPopup("<b>County:</b>" + feature.properties.County + "<br><b>State:</b>" + feature.properties.State + "<br><b> Levels of COPD:</b> " + feature.properties.Levels_COPD + "%" + "<br><b> Levels of Smoker:</b> " + feature.properties.Levels_Smokers + "%");
+
   
       }
     }).addTo(data_state);
@@ -187,6 +182,12 @@ d3.json("static/data/state.geojson").then(function(data) {
 //   // 9. Close the braces and parentheses for the major earthquake data.
 //   });
 
+
+  // Here we create a legend control object.
+  let legend = L.control({
+    position: "bottomright"
+  });
+  
 // // ------ Earthquake legend —————
 // // Then add all the details for the legend
 // legend.onAdd = function() {
@@ -232,10 +233,10 @@ d3.json("static/data/data_map.geojson").then(function(data) {
     return {
       opacity: 1,
       fillOpacity: 1,
-      fillColor: getColor(feature.properties.County),
+      fillColor: getColor(feature.properties.Levels_COPD),
       color: "red",
-      // radius: getRadius(feature.properties.NAME10),
-      // stroke: true,
+      radius: getRadius(feature.properties.Levels_COPD),
+      stroke: true,
       weight: 0.5
     };
   }
