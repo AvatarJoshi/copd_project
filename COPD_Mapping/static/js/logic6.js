@@ -9,25 +9,25 @@ let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/t
 	accessToken: API_KEY
 });
 
-// We create the second tile layer that will be the background of our map.
-let satelliteStreets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-	attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
-	maxZoom: 18,
-	accessToken: API_KEY
-});
+// // We create the second tile layer that will be the background of our map.
+// let satelliteStreets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+// 	attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
+// 	maxZoom: 18,
+// 	accessToken: API_KEY
+// });
 
-// We create a third tile layer that will be the background of our map.
-let dark = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/dark-v10/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-	attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
-	maxZoom: 18,
-	accessToken: API_KEY
-});
+// // We create a third tile layer that will be the background of our map.
+// let dark = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/dark-v10/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+// 	attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
+// 	maxZoom: 18,
+// 	accessToken: API_KEY
+// });
 
 // Create a base layer that holds all three maps.
 let baseMaps = {
-  "Streets": streets,
-  "Satellite": satelliteStreets,
-  "Dark": dark
+  "Streets": streets
+  // "Satellite": satelliteStreets,
+  // "Dark": dark
 };
 
 // If data.beta.nyc is down comment out this link
@@ -238,35 +238,35 @@ d3.json("static/data/data_map.geojson").then(function(data) {
   }
 
   // // This function determines the color of the marker based on the magnitude of the earthquake.
-  // function getColor(Levels_COPD) {
-  //   if (magnitude > 5) {
-  //     return "#ea2c2c";
-  //   }
-  //   if (magnitude > 4) {
-  //     return "#ea822c";
-  //   }
-  //   if (magnitude > 3) {
-  //     return "#ee9c00";
-  //   }
-  //   if (magnitude > 2) {
-  //     return "#eecc00";
-  //   }
-  //   if (magnitude > 1) {
-  //     return "#d4ee00";
-  //   }
-  //   return "#98ee00";
-  // }
+  function getColor(Levels_COPD) {
+    if (Levels_COPD > 15) {
+      return "'#800026'";
+    }
+    if (Levels_COPD > 12 ) {
+      return "#BD0026";
+    }
+    if (Levels_COPD > 9 ) {
+      return "#E31A1C";
+    }
+    if (Levels_COPD > 6) {
+      return "#FC4E2A";
+    }
+    if (Levels_COPD > 3) {
+      return "#FD8D3C";
+    }
+    return "#FEB24C";
+  }
 
 // function getColor(Levels_COPD) {
-//   return Levels_COPD > 15? '#800026' :
+//   if (Levels_COPD > 15) '#800026' :
 //          Levels_COPD > 12  ? '#BD0026' :
 //          Levels_COPD > 9  ? '#E31A1C' :
 //          Levels_COPD > 6  ? '#FC4E2A' :
 //          Levels_COPD > 3   ? '#FD8D3C' :
-//          Levels_COPD > 0  ? '#FEB24C':
-//                     '#FFEDA0';
+//          Levels_COPD > 0  ? '#FEB24C' :
+//                     // '#FFEDA0';
 //         //  d > 0   ? '#FED976' :
-//         //             '#FFEDA0';
+//                     '#FFEDA0';
 // }
 
 //   // This function determines the radius of the earthquake marker based on its magnitude.
