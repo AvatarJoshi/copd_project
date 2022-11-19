@@ -28,17 +28,45 @@ function getColor(Levels_COPD) {
                             '#FFEDA0';
 };
 
-function style(feature) {
-  return {
-      fillColor: getColor(feature.properties.Levels_COPD),
-      weight: 2,
-      opacity: 1,
-      color: 'white',
-      dashArray: '3',
-      fillOpacity: 0.7
-  };
-}
-L.geoJson(data_map, {style: style}).addTo(map);
+
+// Grabbing our GeoJSON data..
+d3.json(data_map, function(data) {
+  console.log(data) ;
+  // Creating a geoJSON layer with the retrieved data
+  L.geoJson(data, {
+    // Style each feature (in this case a neighborhood)
+    style: function(feature) {
+      return {
+        color: "white",
+        // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
+        fillColor: getColor(feature.properties.County),
+        fillOpacity: 0.7,
+        weight: 2,
+        opacity: 1,
+        dashArray: '3'
+      }; 
+    },
+
+    // Called on each feature
+    onEachFeature: function(feature, layer) {
+     layer.bindPopup("<b>County:</b>" + feature.properties.County + "<br><b>State:</b>" + feature.properties.State + "<br><b> Levels of COPD:</b> " + feature.properties.Levels_COPD + "%" + "<br><b> Levels of Smoker:</b> " + feature.properties.Levels_Smokers + "%");
+    
+      }
+  }).addTo(myMap);
+});
+
+
+// function style(feature) {
+//   return {
+//       fillColor: getColor(feature.properties.Levels_COPD),
+//       weight: 2,
+//       opacity: 1,
+//       color: 'white',
+//       dashArray: '3',
+//       fillOpacity: 0.7
+//   };
+// }
+// L.geoJson(data_map, {style: style}).addTo(map);
 
 
 // // Function that will determine the color of a neighborhood based on the borough it belongs to
@@ -94,26 +122,26 @@ for (var i = 0; i < Levels_COPD.length; i++) {
 // Finally, we our legend to the map.
   legend.addTo(myMap);
 
-  // Grabbing our GeoJSON data..
-  d3.json(data_map, function(data) {
-    console.log(data) ;
-    // Creating a geoJSON layer with the retrieved data
-    L.geoJson(data, {
-      // Style each feature (in this case a neighborhood)
-      style: function(feature) {
-        return {
-          color: "white",
-          // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
-          fillColor: chooseColor(feature.properties.Levels_COPD),
-          fillOpacity: 0.5,
-          weight: 1.5
-        }; 
-      },
+//   // Grabbing our GeoJSON data..
+//   d3.json(data_map, function(data) {
+//     console.log(data) ;
+//     // Creating a geoJSON layer with the retrieved data
+//     L.geoJson(data, {
+//       // Style each feature (in this case a neighborhood)
+//       style: function(feature) {
+//         return {
+//           color: "white",
+//           // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
+//           fillColor: chooseColor(feature.properties.Levels_COPD),
+//           fillOpacity: 0.5,
+//           weight: 1.5
+//         }; 
+//       },
     
-      // Called on each feature
-      onEachFeature: function(feature, layer) {
-       layer.bindPopup("<b>County:</b>" + feature.properties.County + "<br><b>State:</b>" + feature.properties.State + "<br><b> Levels of COPD:</b> " + feature.properties.Levels_COPD + "%" + "<br><b> Levels of Smoker:</b> " + feature.properties.Levels_Smokers + "%");
+//       // Called on each feature
+//       onEachFeature: function(feature, layer) {
+//        layer.bindPopup("<b>County:</b>" + feature.properties.County + "<br><b>State:</b>" + feature.properties.State + "<br><b> Levels of COPD:</b> " + feature.properties.Levels_COPD + "%" + "<br><b> Levels of Smoker:</b> " + feature.properties.Levels_Smokers + "%");
       
-        }
-    }).addTo(myMap);
-});
+//         }
+//     }).addTo(myMap);
+// });
