@@ -240,6 +240,7 @@ d3.json("static/data/county.geojson").then(function(data) {
       color: "red",
       radius: getRadius(feature.properties.County),
       stroke: true,
+
       weight: 0.5
     };
   }

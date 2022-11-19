@@ -89,25 +89,27 @@ d3.json(data_map, function(data) {
 //     return "#FEB24C";
 //   }
 
-// Here we create a legend control object.
-let legend = L.control({
-    position: "bottomright"
-  });
+// // Here we create a legend control object.
+// let legend = L.control({
+//     position: "bottomright"
+//   });
   
+
 // ------ legend —————
 // Then add all the details for the legend
 legend.onAdd = function() {
     let div = L.DomUtil.create("div", "info legend");
+
   
-    const Levels_COPD = [15, 12, 9, 6, 3, 0];
-    const colors = [
-      "#800026",
-      "#BD0026",
-      "#E31A1C",
-      "#FC4E2A",
-      "#FD8D3C",
-      "#FEB24C",
-    ];
+//     const Levels_COPD = [15, 12, 9, 6, 3, 0];
+//     const colors = [
+//       "#800026",
+//       "#BD0026",
+//       "#E31A1C",
+//       "#FC4E2A",
+//       "#FD8D3C",
+//       "#FEB24C",
+//     ];
 
 // Looping through our intervals to generate a label with a colored square for each interval.
 for (var i = 0; i < Levels_COPD.length; i++) {
@@ -118,6 +120,7 @@ for (var i = 0; i < Levels_COPD.length; i++) {
     }
     return div;
   };
+
 
 // Finally, we our legend to the map.
   legend.addTo(myMap);
@@ -145,3 +148,4 @@ for (var i = 0; i < Levels_COPD.length; i++) {
 //         }
 //     }).addTo(myMap);
 // });
+

@@ -36,6 +36,7 @@ let baseMaps = {
 
 
 
+
 // 1. Add a 2nd layer group for the tectonic plate data.
 let data_county = new L.LayerGroup();
 let data_state = new L.LayerGroup();
@@ -182,6 +183,7 @@ function style(feature) {
 }
 
 L.geoJson(, {style: style}).addTo(map);
+
 
 //   // Creating a GeoJSON layer with the retrieved data.
     L.geoJson(data, {
