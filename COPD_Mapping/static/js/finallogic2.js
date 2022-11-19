@@ -1,6 +1,3 @@
-import "heatmap.js";
-import "leaflet-heatmap";
-
 // Creating map object
 var myMap = L.map("map", {
   center: [38.50445, -98.39784],
