@@ -18,7 +18,7 @@ let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/t
 }).addTo(myMap);
 
   
-  // Function that will determine the color of a neighborhood based on the borough it belongs to
+// Function that will determine the color of a neighborhood based on the borough it belongs to
   function getColor(Levels_COPD) {
     if (Levels_COPD > 15) {
       return "'#800026'";
@@ -68,29 +68,29 @@ for (var i = 0; i < Levels_COPD.length; i++) {
     return div;
   };
 
-// Finally, we our legend to the map.
-  legend.addTo(myMap);
+// // Finally, we our legend to the map.
+//   legend.addTo(myMap);
 
-  // Grabbing our GeoJSON data..
-  d3.json(data_map, function(data) {
-    console.log(data) ;
-    // Creating a geoJSON layer with the retrieved data
-    L.geoJson(data, {
-      // Style each feature (in this case a neighborhood)
-      style: function(feature) {
-        return {
-          color: "white",
-          // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
-          fillColor: chooseColor(feature.properties.County),
-          fillOpacity: 0.5,
-          weight: 1.5
-        }; 
-      },
+//   // Grabbing our GeoJSON data..
+//   d3.json(data_map, function(data) {
+//     console.log(data) ;
+//     // Creating a geoJSON layer with the retrieved data
+//     L.geoJson(data, {
+//       // Style each feature (in this case a neighborhood)
+//       style: function(feature) {
+//         return {
+//           color: "white",
+//           // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
+//           fillColor: chooseColor(feature.properties.County),
+//           fillOpacity: 0.5,
+//           weight: 1.5
+//         }; 
+//       },
     
-      // Called on each feature
-      onEachFeature: function(feature, layer) {
-       layer.bindPopup("<b>County:</b>" + feature.properties.County + "<br><b>State:</b>" + feature.properties.State + "<br><b> Levels of COPD:</b> " + feature.properties.Levels_COPD + "%" + "<br><b> Levels of Smoker:</b> " + feature.properties.Levels_Smokers + "%");
+//       // Called on each feature
+//       onEachFeature: function(feature, layer) {
+//        layer.bindPopup("<b>County:</b>" + feature.properties.County + "<br><b>State:</b>" + feature.properties.State + "<br><b> Levels of COPD:</b> " + feature.properties.Levels_COPD + "%" + "<br><b> Levels of Smoker:</b> " + feature.properties.Levels_Smokers + "%");
       
-        }
-    }).addTo(myMap);
-});
+//         }
+//     }).addTo(myMap);
+// });
