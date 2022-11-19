@@ -184,44 +184,39 @@ d3.json("static/data/state.geojson").then(function(data) {
 
 
   // Here we create a legend control object.
-  let legend = L.control({
-    position: "bottomright"
-  });
-  
-// // ------ Earthquake legend —————
-// // Then add all the details for the legend
-// legend.onAdd = function() {
-//     let div = L.DomUtil.create("div", "info legend");
-  
-//     const d = [0, 1, 2, 3, 4, 5];
-//     const colors = [
-//       "#800026",
-//       "#BD0026",
-//       "#E31A1C",
-//       "#FC4E2A",
-//       "#FD8D3C",
-//       "#FEB24C",
-//       "FED976",
-//       "FED976",
-  
-//     ];
-  
-  
-//   // Looping through our intervals to generate a label with a colored square for each interval.
-//     for (var i = 0; i < d.length; i++) {
-//       console.log(colors[i]);
-//       div.innerHTML +=
-//         "<i style='background: " + colors[i] + "'></i> " +
-//         d[i] + (d[i + 1] ? "&ndash;" + d[i + 1] + "<br>" : "+");
-//       }
-//       return div;
-//     };
-  
-//     // Finally, we our legend to the map.
-//     legend.addTo(myMap)
+let legend = L.control({
+  position: "bottomright"
+});
 
-//     });
-// });
+// ------ Earthquake legend —————
+// Then add all the details for the legend
+legend.onAdd = function() {
+  let div = L.DomUtil.create("div", "info legend");
+
+  const Levels_COPD = [15, 12, 9, 6, 3, 0];
+  const colors = [
+    "#800026",
+    "#BD0026",
+    "#E31A1C",
+    "#FC4E2A",
+    "#FD8D3C",
+    "#FEB24C",
+  ];
+  
+  
+  // Looping through our intervals to generate a label with a colored square for each interval.
+    for (var i = 0; i < d.length; i++) {
+      console.log(colors[i]);
+      div.innerHTML +=
+        "<i style='background: " + colors[i] + "'></i> " +
+        d[i] + (d[i + 1] ? "&ndash;" + d[i + 1] + "<br>" : "+");
+      }
+      return div;
+    };
+  
+    // Finally, we our legend to the map.
+    legend.addTo(myMap);
+
 
 // Retrieve the earthquake GeoJSON data.
 d3.json("static/data/data_map.geojson").then(function(data) {
