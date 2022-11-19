@@ -33,6 +33,8 @@ let baseMaps = {
 // If data.beta.nyc is down comment out this link
 // var county_data = "static/data/county_geo.json";
 // var state_data = "static/data/state_geo.json";
+var data_map = "static/data/data_map.json";
+
 
 // 1. Add a 2nd layer group for the tectonic plate data.
 let data_county = new L.LayerGroup();
@@ -179,7 +181,8 @@ function style(feature) {
   };
 }
 
-L.geoJson(, {style: style}).addTo(map);
+
+L.geoJson(data_map, {style: style}).addTo(myMap);
 
 //   // Creating a GeoJSON layer with the retrieved data.
     L.geoJson(data, {
