@@ -62,6 +62,15 @@ var myMap = L.map("map", {
 // layers are visible.
 L.control.layers(baseMaps, overlays).addTo(myMap);
 
+function getColor(state) {
+   return state == Pennsylvania ? '#800026' :
+         state == NewYork ? '#BD0026' :
+         Levels_COPD > 9  ? '#E31A1C' :
+         Levels_COPD > 6  ? '#FC4E2A' :
+         Levels_COPD > 3   ? '#FD8D3C' :
+         Levels_COPD > 0  ? '#FEB24C' :
+                            '#FFEDA0';
+}
 
 // Grabbing our GeoJSON data..
 d3.json("static/data/state.geojson").then(function(data) {
@@ -79,6 +88,9 @@ d3.json("static/data/state.geojson").then(function(data) {
           weight: 1.5
         };
       },
+
+
+
 
 
 
@@ -214,7 +226,7 @@ legend.onAdd = function() {
       return div;
     };
   
-    // Finally, we our legend to the map.
+  // Finally, we our legend to the map.
     legend.addTo(myMap);
 
 
@@ -236,37 +248,27 @@ d3.json("static/data/data_map.geojson").then(function(data) {
     };
   }
 
-  // // This function determines the color of the marker based on the magnitude of the earthquake.
-  function getColor(Levels_COPD) {
-    if (Levels_COPD > 15) {
-      return "'#800026'";
-    }
-    if (Levels_COPD > 12 ) {
-      return "#BD0026";
-    }
-    if (Levels_COPD > 9 ) {
-      return "#E31A1C";
-    }
-    if (Levels_COPD > 6) {
-      return "#FC4E2A";
-    }
-    if (Levels_COPD > 3) {
-      return "#FD8D3C";
-    }
-    return "#FEB24C";
-  }
+  // // // This function determines the color of the marker based on the magnitude of the earthquake.
+  // function getColor(Levels_COPD) {
+  //   if (Levels_COPD > 15) {
+  //     return "'#800026'";
+  //   }
+  //   if (Levels_COPD > 12 ) {
+  //     return "#BD0026";
+  //   }
+  //   if (Levels_COPD > 9 ) {
+  //     return "#E31A1C";
+  //   }
+  //   if (Levels_COPD > 6) {
+  //     return "#FC4E2A";
+  //   }
+  //   if (Levels_COPD > 3) {
+  //     return "#FD8D3C";
+  //   }
+  // //   return "#FEB24C";
+  // }
 
-// function getColor(Levels_COPD) {
-//   if (Levels_COPD > 15) '#800026' :
-//          Levels_COPD > 12  ? '#BD0026' :
-//          Levels_COPD > 9  ? '#E31A1C' :
-//          Levels_COPD > 6  ? '#FC4E2A' :
-//          Levels_COPD > 3   ? '#FD8D3C' :
-//          Levels_COPD > 0  ? '#FEB24C' :
-//                     // '#FFEDA0';
-//         //  d > 0   ? '#FED976' :
-//                     '#FFEDA0';
-// }
+
 
 //   // This function determines the radius of the earthquake marker based on its magnitude.
 //   // Earthquakes with a magnitude of 0 were being plotted with the wrong radius.
