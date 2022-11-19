@@ -228,10 +228,10 @@ d3.json("static/data/data_map.geojson").then(function(data) {
     return {
       opacity: 1,
       fillOpacity: 1,
-      fillColor: getColor(feature.properties.Levels_COPD),
+      fillColor: getColor(feature.properties.County),
       color: "red",
-      radius: getRadius(feature.properties.Levels_COPD),
-      stroke: true,
+      // radius: getRadius(feature.properties.Levels_COPD),
+      // stroke: true,
       weight: 0.5
     };
   }
