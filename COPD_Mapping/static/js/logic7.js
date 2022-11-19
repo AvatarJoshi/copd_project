@@ -1,3 +1,9 @@
+// Store our API endpoint inside queryUrl
+var data_county = "static/data/county.geojson";
+var data_state = "static/data/state.geojson";
+var data_map= "static/data/data_map.geojson";
+
+
 // Creating map object
 var myMap = L.map("map", {
     center: [38.50445, -98.39784],
@@ -11,36 +17,89 @@ let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/t
 	accessToken: API_KEY
 }).addTo(myMap);
 
-  
-  // Function that will determine the color of a neighborhood based on the borough it belongs to
-  function getColor(Levels_COPD) {
-    if (Levels_COPD > 15) {
-      return "'#800026'";
-    }
-    if (Levels_COPD > 12 ) {
-      return "#BD0026";
-    }
-    if (Levels_COPD > 9 ) {
-      return "#E31A1C";
-    }
-    if (Levels_COPD > 6) {
-      return "#FC4E2A";
-    }
-    if (Levels_COPD > 3) {
-      return "#FD8D3C";
-    }
-    return "#FEB24C";
-  }
+
+function getColor(Levels_COPD) {
+  return Levels_COPD > 15 ? '#800026' :
+         Levels_COPD > 12 ? '#BD0026' :
+         Levels_COPD > 9  ? '#E31A1C' :
+         Levels_COPD > 6  ? '#FC4E2A' :
+         Levels_COPD > 3  ? '#FD8D3C' :
+         Levels_COPD > 0  ? '#FEB24C' :
+                            '#FFEDA0';
+};
+
+
+// Grabbing our GeoJSON data..
+d3.json(data_map, function(data) {
+  console.log(data) ;
+  // Creating a geoJSON layer with the retrieved data
+  L.geoJson(data, {
+    // Style each feature (in this case a neighborhood)
+    style: function(feature) {
+      return {
+        color: "white",
+        // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
+        fillColor: getColor(feature.properties.County),
+        fillOpacity: 0.7,
+        weight: 2,
+        opacity: 1,
+        dashArray: '3'
+      }; 
+    },
+
+    // Called on each feature
+    onEachFeature: function(feature, layer) {
+     layer.bindPopup("<b>County:</b>" + feature.properties.County + "<br><b>State:</b>" + feature.properties.State + "<br><b> Levels of COPD:</b> " + feature.properties.Levels_COPD + "%" + "<br><b> Levels of Smoker:</b> " + feature.properties.Levels_Smokers + "%");
+    
+      }
+  }).addTo(myMap);
+});
+
+
+// function style(feature) {
+//   return {
+//       fillColor: getColor(feature.properties.Levels_COPD),
+//       weight: 2,
+//       opacity: 1,
+//       color: 'white',
+//       dashArray: '3',
+//       fillOpacity: 0.7
+//   };
+// }
+// L.geoJson(data_map, {style: style}).addTo(map);
+
+
+// // Function that will determine the color of a neighborhood based on the borough it belongs to
+//   function getColor(Levels_COPD) {
+//     if (Levels_COPD > 15) {
+//       return "'#800026'";
+//     }
+//     if (Levels_COPD > 12 ) {
+//       return "#BD0026";
+//     }
+//     if (Levels_COPD > 9 ) {
+//       return "#E31A1C";
+//     }
+//     if (Levels_COPD > 6) {
+//       return "#FC4E2A";
+//     }
+//     if (Levels_COPD > 3) {
+//       return "#FD8D3C";
+//     }
+//     return "#FEB24C";
+//   }
 
 // // Here we create a legend control object.
 // let legend = L.control({
 //     position: "bottomright"
 //   });
   
-// // ------ Earthquake legend —————
-// // Then add all the details for the legend
-// legend.onAdd = function() {
-//     let div = L.DomUtil.create("div", "info legend");
+
+// ------ legend —————
+// Then add all the details for the legend
+legend.onAdd = function() {
+    let div = L.DomUtil.create("div", "info legend");
+
   
 //     const Levels_COPD = [15, 12, 9, 6, 3, 0];
 //     const colors = [
@@ -52,37 +111,41 @@ let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/t
 //       "#FEB24C",
 //     ];
 
-// // Looping through our intervals to generate a label with a colored square for each interval.
-// for (var i = 0; i < magnitudes.length; i++) {
-//     console.log(colors[i]);
-//     div.innerHTML +=
-//       "<i style='background: " + colors[i] + "'></i> " +
-//       magnitudes[i] + (magnitudes[i + 1] ? "&ndash;" + magnitudes[i + 1] + "<br>" : "+");
-//     }
-//     return div;
-//   };
+// Looping through our intervals to generate a label with a colored square for each interval.
+for (var i = 0; i < Levels_COPD.length; i++) {
+    console.log(colors[i]);
+    div.innerHTML +=
+      "<i style='background: " + colors[i] + "'></i> " +
+      Levels_COPD[i] + (Levels_COPD[i + 1] ? "&ndash;" + Levels_COPD[i + 1] + "<br>" : "+");
+    }
+    return div;
+  };
 
- 
-  // Grabbing our GeoJSON data..
-  d3.json("static/data/data_map.geojson", function(data) {
-    console.log(data);
-    // Creating a geoJSON layer with the retrieved data
-    L.geoJson(data, {
-      // Style each feature (in this case a neighborhood)
-      style: function(feature) {
-        return {
-          color: "white",
-          // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
-          fillColor: chooseColor(feature.properties.County),
-          fillOpacity: 0.5,
-          weight: 1.5
-        }; 
-      },
-      // Called on each feature
-      onEachFeature: function(feature, layer) {
-       layer.bindPopup("<b>County:</b>" + feature.properties.County + "<br><b>State:</b>" + feature.properties.State + "<br><b> Levels of COPD:</b> " + feature.properties.Levels_COPD + "%" + "<br><b> Levels of Smoker:</b> " + feature.properties.Levels_Smokers + "%");
+
+// Finally, we our legend to the map.
+  legend.addTo(myMap);
+
+//   // Grabbing our GeoJSON data..
+//   d3.json(data_map, function(data) {
+//     console.log(data) ;
+//     // Creating a geoJSON layer with the retrieved data
+//     L.geoJson(data, {
+//       // Style each feature (in this case a neighborhood)
+//       style: function(feature) {
+//         return {
+//           color: "white",
+//           // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
+//           fillColor: chooseColor(feature.properties.Levels_COPD),
+//           fillOpacity: 0.5,
+//           weight: 1.5
+//         }; 
+//       },
+    
+//       // Called on each feature
+//       onEachFeature: function(feature, layer) {
+//        layer.bindPopup("<b>County:</b>" + feature.properties.County + "<br><b>State:</b>" + feature.properties.State + "<br><b> Levels of COPD:</b> " + feature.properties.Levels_COPD + "%" + "<br><b> Levels of Smoker:</b> " + feature.properties.Levels_Smokers + "%");
       
-        }
-    }).addTo(myMap);
+//         }
+//     }).addTo(myMap);
+// });
 
-  });

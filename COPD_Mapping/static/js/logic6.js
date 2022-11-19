@@ -9,19 +9,19 @@ let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/t
 	accessToken: API_KEY
 });
 
-// // We create the second tile layer that will be the background of our map.
-// let satelliteStreets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-// 	attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
-// 	maxZoom: 18,
-// 	accessToken: API_KEY
-// });
+// We create the second tile layer that will be the background of our map.
+let satelliteStreets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+	attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
+	maxZoom: 18,
+	accessToken: API_KEY
+});
 
-// // We create a third tile layer that will be the background of our map.
-// let dark = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/dark-v10/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-// 	attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
-// 	maxZoom: 18,
-// 	accessToken: API_KEY
-// });
+// We create a third tile layer that will be the background of our map.
+let dark = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/dark-v10/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+	attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
+	maxZoom: 18,
+	accessToken: API_KEY
+});
 
 // Create a base layer that holds all three maps.
 let baseMaps = {
@@ -60,8 +60,17 @@ var myMap = L.map("map", {
 
 // Then we add a control to the map that will allow the user to change which
 // layers are visible.
-L.control.layers(baseMaps, overlays).addTo(myMap);
+// L.control.layers(baseMaps, overlays).addTo(myMap);
 
+// function getColor(state) {
+//    return state == Pennsylvania ? '#800026' :
+//          state == NewYork ? '#BD0026' :
+//          Levels_COPD > 9  ? '#E31A1C' :
+//          Levels_COPD > 6  ? '#FC4E2A' :
+//          Levels_COPD > 3   ? '#FD8D3C' :
+//          Levels_COPD > 0  ? '#FEB24C' :
+//                             '#FFEDA0';
+// }
 
 // Grabbing our GeoJSON data..
 d3.json("static/data/state.geojson").then(function(data) {
@@ -79,7 +88,6 @@ d3.json("static/data/state.geojson").then(function(data) {
           weight: 1.5
         };
       },
-
 
 
 
@@ -190,36 +198,36 @@ let legend = L.control({
 
 // ------ Earthquake legend —————
 // Then add all the details for the legend
-legend.onAdd = function() {
-  let div = L.DomUtil.create("div", "info legend");
+// legend.onAdd = function() {
+//   let div = L.DomUtil.create("div", "info legend");
 
-  const Levels_COPD = [15, 12, 9, 6, 3, 0];
-  const colors = [
-    "#800026",
-    "#BD0026",
-    "#E31A1C",
-    "#FC4E2A",
-    "#FD8D3C",
-    "#FEB24C",
-  ];
+//   const Levels_COPD = [15, 12, 9, 6, 3, 0];
+//   const colors = [
+//     "#800026",
+//     "#BD0026",
+//     "#E31A1C",
+//     "#FC4E2A",
+//     "#FD8D3C",
+//     "#FEB24C",
+//   ];
   
   
-  // Looping through our intervals to generate a label with a colored square for each interval.
-    for (var i = 0; i < d.length; i++) {
-      console.log(colors[i]);
-      div.innerHTML +=
-        "<i style='background: " + colors[i] + "'></i> " +
-        d[i] + (d[i + 1] ? "&ndash;" + d[i + 1] + "<br>" : "+");
-      }
-      return div;
-    };
+//   // Looping through our intervals to generate a label with a colored square for each interval.
+//     for (var i = 0; i < d.length; i++) {
+//       console.log(colors[i]);
+//       div.innerHTML +=
+//         "<i style='background: " + colors[i] + "'></i> " +
+//         d[i] + (d[i + 1] ? "&ndash;" + d[i + 1] + "<br>" : "+");
+//       }
+//       return div;
+//     };
   
-    // Finally, we our legend to the map.
-    legend.addTo(myMap);
+//   // Finally, we our legend to the map.
+//     legend.addTo(myMap);
 
 
 // Retrieve the earthquake GeoJSON data.
-d3.json("static/data/data_map.geojson").then(function(data) {
+d3.json("static/data/county.geojson").then(function(data) {
 
   // This function returns the style data for each of the earthquakes we plot on
   // the map. We pass the magnitude of the earthquake into two separate functions
@@ -230,43 +238,34 @@ d3.json("static/data/data_map.geojson").then(function(data) {
       fillOpacity: 1,
       fillColor: getColor(feature.properties.County),
       color: "red",
-      // radius: getRadius(feature.properties.Levels_COPD),
-      // stroke: true,
+      radius: getRadius(feature.properties.County),
+      stroke: true,
+
       weight: 0.5
     };
   }
 
-  // // This function determines the color of the marker based on the magnitude of the earthquake.
-  function getColor(Levels_COPD) {
-    if (Levels_COPD > 15) {
-      return "'#800026'";
-    }
-    if (Levels_COPD > 12 ) {
-      return "#BD0026";
-    }
-    if (Levels_COPD > 9 ) {
-      return "#E31A1C";
-    }
-    if (Levels_COPD > 6) {
-      return "#FC4E2A";
-    }
-    if (Levels_COPD > 3) {
-      return "#FD8D3C";
-    }
-    return "#FEB24C";
-  }
+  // // // This function determines the color of the marker based on the magnitude of the earthquake.
+  // function getColor(Levels_COPD) {
+  //   if (Levels_COPD > 15) {
+  //     return "'#800026'";
+  //   }
+  //   if (Levels_COPD > 12 ) {
+  //     return "#BD0026";
+  //   }
+  //   if (Levels_COPD > 9 ) {
+  //     return "#E31A1C";
+  //   }
+  //   if (Levels_COPD > 6) {
+  //     return "#FC4E2A";
+  //   }
+  //   if (Levels_COPD > 3) {
+  //     return "#FD8D3C";
+  //   }
+  // //   return "#FEB24C";
+  // }
 
-// function getColor(Levels_COPD) {
-//   if (Levels_COPD > 15) '#800026' :
-//          Levels_COPD > 12  ? '#BD0026' :
-//          Levels_COPD > 9  ? '#E31A1C' :
-//          Levels_COPD > 6  ? '#FC4E2A' :
-//          Levels_COPD > 3   ? '#FD8D3C' :
-//          Levels_COPD > 0  ? '#FEB24C' :
-//                     // '#FFEDA0';
-//         //  d > 0   ? '#FED976' :
-//                     '#FFEDA0';
-// }
+
 
 //   // This function determines the radius of the earthquake marker based on its magnitude.
 //   // Earthquakes with a magnitude of 0 were being plotted with the wrong radius.
