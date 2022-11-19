@@ -31,8 +31,8 @@ function getColor(Levels_COPD) {
 
 
 // Grabbing our GeoJSON data..
-d3.json(data_map, function(data) {
-  //console.log(data);
+d3.json(data_map).then(function(data) {
+  console.log(data);
   // Creating a geoJSON layer with the retrieved data
   L.geoJson(data, {
     // Style each feature (in this case counties)
