@@ -50,11 +50,7 @@ For this project, we must first create a database. This database will hold all d
 
 Below is an image our current schema. Although it is a rough draft, it gives the main idea of the information that will exist in the database. 
 
-![Screen Shot 2022-11-03 at 12 26 34 PM](https://user-images.githubusercontent.com/107595127/200192318-7013db97-ca92-4227-8678-fbc923dc1976.png)
-
-** Note ** 
-
-The Census table still needs to be added into database. It is a large dataset the requires more precision. 
+<img width="777" alt="Screen Shot 2022-11-23 at 7 46 19 PM" src="https://user-images.githubusercontent.com/107595127/203675856-2c580872-fb03-432f-b649-64ddcf3b737f.png">
 
 ### Database
 
