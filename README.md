@@ -76,6 +76,7 @@ Creating map object, Added tile layers, Created & tested getColor function for h
 Next Goals: Trying to apply to real GeoJson Data file and adding some feature
 
 ![1](https://github.com/AvatarJoshi/COPD_Project/blob/NewMaping-PS/COPD_Mapping/static/Images/County_line.png)
+![2](https://github.com/AvatarJoshi/COPD_Project/blob/NewMaping-PS/COPD_Mapping/static/Images/heatmap.png)
 
 
 ## Machine Learning
