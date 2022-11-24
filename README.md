@@ -8,20 +8,17 @@
 
 - Data visualizations for COPD and many of its corresponding risk factors exist in isolation. However, to our knowledge, **there has yet to be a data visualization that displays the burden of COPD and its risk factors all in one place.** 
 
-- In addition, given the large amount of data available at the US county level for COPD and its corresponding risk factors, **we believe that linear regression based machine learning model (RandomForestRegression or XGBoost Regressor) or DeepLearning (using a Linear output function) could be deployed to predict the burden of COPD in US counties.** 
+- In addition, given the large amount of data available at the US county level for COPD and its corresponding risk factors, **we believe that linear regression based machine learning model (RandomForestRegression) or DeepLearning (using a Linear output function) could be deployed to predict the burden of COPD in US counties.** 
 
 
 ## Motivation 
 
 COPD remains a threat to global public health and is the 4th leading cause of death in the United States. It has a negative impact on people's quality of life affecting daily activities and mental and emotional health. Therefore, we want to use the skills we learned from this bootcamp to create a model and visualization that can help predict the burden of COPD in US counties. Data visualizations and predic
 
-## Questions to Answer
+## Key Objectives
 
-- Can machine learning be used to accurately predict levels of COPD in US counties?
-- Which States / US Counties have the highest levels of COPD?
-- Which behavioral or environmental factors are most predictive for COPD? Smoking, air quality, worksite exposure (coal mines)?
-- Which demographic factors are most predictive for COPD?
-Male vs female, age, rural vs urban, race
+- Use machine learning to predict levels of COPD in US counties
+- Create a heatmap that displays the burden of COPD in each county
 
 
 
