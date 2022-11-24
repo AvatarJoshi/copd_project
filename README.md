@@ -13,7 +13,7 @@
 
 ## Motivation 
 
-COPD remains a threat to global public health and is the 4th leading cause of death in the United States. It has a negative impact on people's quality of life affecting daily activities and mental and emotional health. Therefore, we want to use the skills we learned from this bootcamp to create a model and visualization that can help predict the burden of COPD in US counties. Data visualizations and predic
+COPD remains a threat to global public health and is the 4th leading cause of death in the United States. It has a negative impact on people's quality of life affecting daily activities and mental and emotional health. Therefore, we want to use the skills we learned from this bootcamp to create a model and visualization that can help predict the burden of COPD in US counties. Data visualizations and predict which COPD factors effect ones likelihood of developing COPD.
 
 ## Key Objectives
 
