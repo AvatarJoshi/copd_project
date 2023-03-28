@@ -6,7 +6,7 @@
 
 - Data visualizations for COPD and many of its corresponding risk factors exist in isolation. However, to our knowledge, **there has yet to be a data visualization that displays the burden of COPD and its risk factors all in one place.** 
 
-- In addition, given the large amount of data available at the US county level for COPD and its corresponding risk factors, **we believe that linear regression based machine learning model (RandomForestRegression) or DeepLearning (using a Linear output function) could be deployed to predict the burden of COPD in US counties.** 
+- In addition, given the large amount of data available at the US county level for COPD and its corresponding risk factors, **we wanted to use machine learning to predict COPD levels and identify which risk factors are most associated with disease burden.** 
 
 
 ## Motivation 
@@ -20,17 +20,22 @@ COPD remains a threat to global public health and is the 4th leading cause of de
 
 ## Results 
 
-## Heatmap
-To visualize the burden of COPD in the US, Plotly.js was used to create an interactive heatmap using data from the PLACES dataset.
-![COPD_heatmap](/Images/copd_heatmap.png)
+
 
 ## Machine Learning
-**Purpose:** To determine if machine learning is capable of predicting COPD levels based on our data we choose to start our analysis using RandomForestRegression and DeepLearning. 
+**Purpose:** To determine if the health metrics in the CDC's dataset can be used to predict the burden of COPD. If so, we wished to determine which features are most important.
 
 ### RandomForestRegression
-For random forest regression we imported the PLACES dataset (which contains levels of current smokers and levels COPD per county) into our model. 
-![RandomForestRegression Actual vs Predicted](/Images/RandomForestRegressionScore.png)
+Since we are dealing with large amounts of continuous data with a variety of features, we choose the RandomForestRegression model to analyze our data. 
 
-### DeepLearning
-For DeepLearning we imported all of our datasets and merged them into a master dataframe. This dataframe was encoded and run through our prelminary neural network. We used relU as our activation function for the input and hidden layers. Since this is a regression problem, we used 'linear' as the activation function for the output layer. The "mean squared error" was used to assess model performance. After 75 epochs we acheived an MSE of ~1.12. 
-![DeepLearning](/Images/DeepLearningError.png)
+### Feature Importances
+
+
+determine feature importances we used sklearn's 
+
+
+
+
+## Heatmap
+To visualize the burden of COPD in the US, Plotly.js was used to create an interactive heatmap using data from the PLACES dataset. Each county on the map can be clicked on so that the levels of smokers can be easily viewed. We also included data regarding the levels of smoking since this behavioral health metric was the most important feature in predicting COPD throughout the US.
+![COPD_heatmap](/Images/copd_heatmap.png)
